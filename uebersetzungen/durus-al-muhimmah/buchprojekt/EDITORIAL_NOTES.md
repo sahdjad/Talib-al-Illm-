@@ -17,6 +17,36 @@ Ornament-Muster (eigene Gestaltung, farblich an das Kunya-Logo angelehnt) auf Co
 Lektionstrennseiten, hellere Grundfarbe, mehr Farbakzente (Gold/Terracotta). Neuer
 Vorwort-Text 1:1 nach Vorgabe des Nutzers übernommen.
 
+**Dritte Design-Rückmeldung, umgesetzt (22.09.2026):**
+- Schriften erneut gewechselt: Überschriften jetzt **TeX Gyre Heros**, Arabisch/Qurʾān jetzt
+  **Noto Naskh Arabic** (statt Amiri/Amiri Quran) – Nutzerfeedback: die vorige Wahl wirkte
+  wie Handschrift ("Kinderschrift"), es sollte "computerschriftartig" aussehen.
+- Überschriften (`\section`, `\subsection`, `\subsubsection`, Lektionstrennseiten-Titel)
+  werden jetzt automatisch in GROSSBUCHSTABEN gesetzt (`titlesec` + `\MakeUppercase`).
+- Silbentrennung am Zeilenende komplett deaktiviert (`hyphenat[none]` + `ragged2e`
+  `\RaggedRight` + `\hyphenpenalty=\exhyphenpenalty=10000`) – keine Bindestriche mehr im
+  Blocksatz, außer dort, wo sie inhaltlich zum Begriff gehören (z. B. „al-Fātiḥa").
+- Satzspiegel deutlich vergrößert (Ränder verkleinert:
+  `inner=14mm,outer=10mm,top=12mm,bottom=12mm,bindingoffset=4mm`), die Seite wird jetzt
+  wesentlich vollständiger ausgenutzt.
+- Cover: Kunya-Logo entfernt, arabischer Buchtitel dafür deutlich größer gesetzt; die Zeile
+  „Deenbildungszentrum" wurde vom Cover entfernt.
+- Impressum („Hinweis zur Ausgabe"): „Verwendung" und Schlusszeile entinstitutionalisiert –
+  nicht mehr an ein konkretes Bildungszentrum gebunden, sondern allgemein an „alle, die
+  dieses Buch gemeinsam mit mir lesen und lernen" gerichtet.
+- Neuer Abschnitt `templates/worum-es-geht.tex` („Worum es in diesem Buch geht") zwischen
+  Vorwort und Inhaltsverzeichnis eingefügt, angelehnt an Sarḥāns eigene Einführung
+  (`erlaeuterung-sarhan.md`, Z. 1–95). Enthält die vom Nutzer geforderte Klarstellung, dass
+  sich die Bearbeitung durchgehend an Sarḥāns Šarḥ orientiert und keinen eigenständigen Šarḥ
+  darstellt.
+- **Bugfix Cover-Titelfarbe:** Die rein-arabische Titelzeile auf dem Cover erschien trotz
+  gesetzter Farbe (`AccentLight`, dann `OffWhite`) schwarz/dunkel, während inline in
+  lateinischen Zeilen eingebettetes Arabisch (z. B. „ibn Bāz `\ar{...}`") korrekt eingefärbt
+  wurde. Ursache: Beginnt eine ganze Zeile direkt mit der bidi-`Arabic`-Umgebung, geht die
+  von außen gesetzte Farbe beim Zeilen-Reordering verloren. Behoben, indem der Zeile ein
+  leerer `\mbox{}`-Anker vorangestellt wird, sodass sie – wie die bereits funktionierenden
+  Fälle – als lateinische Zeile mit eingebettetem `\ar{...}`-Block beginnt.
+
 ## Aufbau von Lektion 1 (Sarḥān, Z. 96–1479 in `erlaeuterung-sarhan.md`)
 
 Sarḥān trennt in seinem Text klar zwischen fortlaufender Erläuterung (Tafsīr) und
@@ -142,7 +172,6 @@ dafür bleibt in `test.tex` Platz vorgesehen.
 
 ## Ausstehende Fragen an den Nutzer
 
-- Cover/Design: Rückmeldung zum überarbeiteten Entwurf (Muster, Farben, Kunya-Logo) steht
-  noch aus.
-- Schriftwahl (Serif/Sans/Kombination) wurde gefragt, aber noch nicht beantwortet – aktuell
-  weiterhin Latin Modern (Roman + Sans). Bei Bedarf umstellen.
+- Schriftwahl ist mit der dritten Rückmeldung (22.09.2026) geklärt: TeX Gyre Heros
+  (Überschriften) + Noto Naskh Arabic (Arabisch/Qurʾān) + weiterhin Latin Modern Roman
+  (Fließtext). Rückmeldung zur aktuellen Fassung des Covers/Designs steht noch aus.

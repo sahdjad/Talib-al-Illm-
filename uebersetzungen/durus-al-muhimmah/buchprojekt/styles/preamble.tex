@@ -9,7 +9,7 @@
 
 \usepackage{fontspec}
 \usepackage{amsmath}
-\usepackage[a4paper,inner=28mm,outer=22mm,top=26mm,bottom=26mm,bindingoffset=6mm]{geometry}
+\usepackage[a4paper,inner=14mm,outer=10mm,top=12mm,bottom=12mm,bindingoffset=4mm]{geometry}
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{tikz}
@@ -27,6 +27,8 @@
 \usepackage{eso-pic}
 \usepackage[colorlinks=true,linkcolor=DarkGreen,urlcolor=DarkGreen,citecolor=DarkGreen,bookmarksopen=true]{hyperref}
 \usepackage{bookmark}
+\usepackage[none]{hyphenat}
+\usepackage{ragged2e}
 
 % -- Sprachen (bidi/arabic ganz zuletzt laden) -------------------
 \usepackage{polyglossia}
@@ -34,10 +36,13 @@
 \setotherlanguage{arabic}
 
 % -- Schriften -------------------------------------------------
+% Bewusst schlichte, "computerhafte" Druckschriften statt kalligrafisch
+% wirkender Fonts (Nutzerfeedback: vorherige Wahl sah zu sehr nach
+% Handschrift aus).
 \setmainfont{Latin Modern Roman}
-\newfontfamily\headingfont{Latin Modern Sans}[Scale=1.0]
-\newfontfamily\arabicfont[Script=Arabic]{Amiri}
-\newfontfamily\quranfont[Script=Arabic]{Amiri Quran}
+\newfontfamily\headingfont{TeX Gyre Heros}[Scale=0.95]
+\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
+\newfontfamily\quranfont[Script=Arabic]{Noto Naskh Arabic}
 
 \newcommand{\ar}[1]{{\arabicfont\begin{Arabic}#1\end{Arabic}}}
 \newcommand{\quran}[1]{{\quranfont\begin{Arabic}#1\end{Arabic}}}
@@ -46,10 +51,17 @@
 \setlength{\parskip}{0.6\baselineskip}
 \linespread{1.12}
 
-% -- Überschriften ----------------------------------------------
-\titleformat{\section}{\headingfont\LARGE\bfseries\color{DarkGreen}}{}{0pt}{}
-\titleformat{\subsection}{\headingfont\Large\bfseries\color{PrimaryGreen}}{}{0pt}{}
-\titleformat{\subsubsection}{\headingfont\large\bfseries\color{SecondaryGreen}}{}{0pt}{}
+% -- Silbentrennung am Zeilenende komplett deaktivieren (Nutzerwunsch:
+%    keine Bindestriche im Buch, außer dort, wo sie inhaltlich hingehören,
+%    z. B. in Transliterationen wie "al-Fātiḥa") ----------------------
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\RaggedRight
+
+% -- Überschriften: GROSSBUCHSTABEN statt Groß-/Kleinschreibung -------
+\titleformat{\section}{\headingfont\LARGE\bfseries\color{DarkGreen}}{}{0pt}{\MakeUppercase}
+\titleformat{\subsection}{\headingfont\Large\bfseries\color{PrimaryGreen}}{}{0pt}{\MakeUppercase}
+\titleformat{\subsubsection}{\headingfont\large\bfseries\color{SecondaryGreen}}{}{0pt}{\MakeUppercase}
 \titlespacing*{\section}{0pt}{1.4em}{1em}
 \titlespacing*{\subsection}{0pt}{1.2em}{0.8em}
 
@@ -212,7 +224,7 @@
   \begin{center}
     {\headingfont\color{AccentLight}\fontsize{22}{26}\selectfont LEKTION}\\[2mm]
     {\headingfont\bfseries\color{OffWhite}\fontsize{72}{80}\selectfont #1}\\[10mm]
-    {\headingfont\bfseries\color{OffWhite}\fontsize{20}{24}\selectfont #3}
+    {\headingfont\bfseries\color{OffWhite}\fontsize{20}{24}\selectfont \MakeUppercase{#3}}
   \end{center}
   \clearpage
 }
