@@ -13,6 +13,7 @@
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usetikzlibrary{calc}
 
 \input{\PROJROOT/styles/colors.tex}
 \graphicspath{{\PROJROOT/assets/}}
@@ -170,17 +171,46 @@
   \end{tabularx}
 }
 
+% -- Wiederkehrendes Ornament-Muster (eigene Gestaltung, farblich an das
+%    Kunya-Logo angelehnt, keine 1:1-Kopie) --------------------------------
+% #1 = Basisfarbe (Vollflächenfüllung), #2 = Mischanteil der Musterfarbe in
+% Prozent (0..100), als deckende Mischfarbe berechnet -- bewusst KEIN
+% TikZ/pgf "opacity=", weil das zusammen mit eso-pic-Shipout-Hintergründen
+% eine defekte ExtGState-Ressource erzeugt (PDF wird unlesbar / Inhalt nach
+% dem Hintergrund verschwindet). Nicht wieder auf opacity umstellen.
+\newcommand{\ornamentmuster}[2]{%
+  \begin{tikzpicture}
+    \fill[#1] (0mm,0mm) rectangle (\paperwidth,\paperheight);
+    \begin{scope}
+      \clip (0mm,0mm) rectangle (\paperwidth,\paperheight);
+      \foreach \row in {0,...,9}{%
+        \foreach \col in {0,...,6}{%
+          \pgfmathsetmacro{\xoff}{ (mod(\row,2))*17 }
+          \coordinate (P) at (\col*34mm+\xoff mm+10mm,\row*33mm+8mm);
+          \draw[CoverPatternA!#2!#1,line width=0.55pt]
+            (P) ++(0mm,-9mm) .. controls +(6mm,-2mm) and +(6mm,2mm) .. ++(0mm,9mm)
+                .. controls +(-6mm,2mm) and +(-6mm,-2mm) .. ++(0mm,-9mm);
+          \draw[CoverPatternB!#2!#1,line width=0.55pt]
+            (P) ++(-6mm,0mm) circle[radius=1.1mm];
+          \draw[AccentLight!#2!#1,line width=0.45pt]
+            (P) ++(0mm,9mm) -- ++(0mm,4mm);
+          \draw[CoverPatternA!#2!#1,line width=0.45pt]
+            (P) ++(9mm,-4.5mm) arc[start angle=0,end angle=180,radius=9mm];
+        }
+      }
+    \end{scope}
+  \end{tikzpicture}%
+}
+
 % -- Lektionstrennseite -------------------------------------------------
 \newcommand{\lektionstrennseite}[3]{%
   % #1 = Nummer (arabisch, z.B. 01), #2 = römisch/ausgeschrieben für Farbwahl, #3 = Titel
   \clearpage
   \thispagestyle{empty}
-  \AddToShipoutPictureBG*{%
-    \AtPageLowerLeft{\color{Lesson#2}\rule{\paperwidth}{\paperheight}}%
-  }
+  \AddToShipoutPictureBG*{\ornamentmuster{Lesson#2}{55}}
   \null\vspace*{0.30\textheight}
   \begin{center}
-    {\headingfont\color{OffWhite!85!Lesson#2}\fontsize{22}{26}\selectfont LEKTION}\\[2mm]
+    {\headingfont\color{AccentLight}\fontsize{22}{26}\selectfont LEKTION}\\[2mm]
     {\headingfont\bfseries\color{OffWhite}\fontsize{72}{80}\selectfont #1}\\[10mm]
     {\headingfont\bfseries\color{OffWhite}\fontsize{20}{24}\selectfont #3}
   \end{center}
