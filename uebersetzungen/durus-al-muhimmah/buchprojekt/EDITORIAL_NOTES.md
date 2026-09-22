@@ -170,6 +170,21 @@ dafür bleibt in `test.tex` Platz vorgesehen.
 - Schriften (Latin Modern, Amiri, Amiri Quran) sind alle frei lizenziert (SIL OFL bzw. GUST
   Font License) und für kommerziellen Druck ohne Einschränkung nutzbar.
 
+**Neue Sektion "Einleitung des Autors" (22.09.2026):** Auf Nutzerwunsch wurde Ibn Bāz'
+eigene Einleitung (arabische "مقدمة") zum Originalwerk als eigener Abschnitt
+(`templates/einleitung-ibnbaz.tex`) zwischen dem Vorwort des Bearbeiters und "Worum es in
+diesem Buch geht" eingefügt.
+- Arabischer Urtext: sorgfältig von Hand vom Scan transkribiert (nicht aus dem fehlerhaften
+  OCR-Rohtext übernommen) – `sources/durus-al-muhimmah-arabisch-urtext-scan.pdf`, Seite 3.
+- Deutsche Übersetzung: `addurus-almuhimmah-ar-de.pdf`, S. 4 ("Einleitung des Autors").
+- **Technischer Hinweis:** Noto Naskh Arabic enthält keine lateinischen Klammerzeichen
+  `(`/`)` (Missing-Character-Fehler beim Kompilieren). Für die im arabischen Buchtitel
+  verwendeten Klammern wurden stattdessen die arabischen Zierklammern `﴾ ﴿` (U+FD3E/FD3F)
+  verwendet, die im Font vorhanden sind und in der arabischen Typografie für Buch-/Verstitel
+  ohnehin gebräuchlich sind. Bei künftigen Arabisch-Passagen mit Klammern denselben Ansatz
+  verwenden statt `(`/`)` oder `\LR{...}` (Letzteres wechselt nur die Schreibrichtung, nicht
+  die Schriftart, und behebt das Problem nicht).
+
 ## Ausstehende Fragen an den Nutzer
 
 - Schriftwahl ist mit der dritten Rückmeldung (22.09.2026) geklärt: TeX Gyre Heros
