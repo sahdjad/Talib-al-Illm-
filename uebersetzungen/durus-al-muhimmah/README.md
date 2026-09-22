@@ -10,18 +10,20 @@ Unterricht vorgesehene Werk von Scheich ʿAbdul-ʿAzīz Ibn Bāz.
   Totengebet/Bestattung etc.), inkl. Inhaltsverzeichnis.
 - **`important-lessons-for-the-muslim-ummah-en.pdf`** – englische Ausgabe (Übersetzung/Bearbeitung
   von Dr. Saleh as-Saleh).
-- **`die-wichtigen-lektionen-notizbuch.pdf`** – Hintergrund-PDF des GoodNotes-Notizbuchs (166
-  Seiten).
-- **`erlaeuterung-sarhan.md`** – der eigentliche Buchinhalt dieses Notizbuchs: die vollständige
-  **Erläuterung (Šarḥ)** des Buches von Scheich **Hayṯam Ibn Muḥammad Ğamīl Sarḥān**
-  (ehem. Dozent am Ḥaram-Institut der Propheten-Moschee Medina), Lektion 1 bis 11, inkl.
-  Verständnisfragen am Ende der Lektionen. Extrahiert aus dem internen GoodNotes-Volltextindex
-  (OCR-Grundlage des importierten Buches – nicht handschriftliche Notizen). Reihenfolge und
-  Absatzgrenzen können an einzelnen Stellen vom gedruckten Original abweichen; bei Bedarf gegen
-  das PDF gegenprüfen. Lektionen 12–18 waren im Notizbuch (noch) nicht enthalten.
+- **`erlaeuterung-sarhan-original.pdf`** – die vollständige **Erläuterung (Šarḥ)** des Buches von
+  Scheich **Hayṯam Ibn Muḥammad Ğamīl Sarḥān** (ehem. Dozent am Ḥaram-Institut der
+  Propheten-Moschee Medina), 166 Seiten, alle 18 Lektionen inkl. Einführung, Inhalts- und
+  Literaturverzeichnis. Vom Nutzer als eigenständige Original-PDF bereitgestellt.
+- **`erlaeuterung-sarhan.md`** – vollständiger Text daraus als durchsuchbares Markdown extrahiert
+  (Lektion 1–18), gegliedert nach den Original-Abschnittsüberschriften. Automatisch aus dem
+  PDF-Textlayer gewonnen; Layout/Tabellen des Originals sind als Fließtext wiedergegeben, daher
+  bei Bedarf gegen das Original-PDF gegenprüfen.
+- **`die-wichtigen-lektionen-notizbuch.pdf`** – Hintergrund-PDF eines GoodNotes-Notizbuchs (166
+  leere Vorlagenseiten, nur 1 Seite mit Inhalt gefüllt) – separat vom eigentlichen Buch, nur zur
+  Vollständigkeit mit abgelegt.
 
 ## Hinweis
 
-Persönliche handschriftliche Anmerkungen/Tinte, sofern in GoodNotes vorhanden, liegen in einem
-separaten proprietären Binärformat vor und wurden bewusst **nicht** ausgelesen – nur der
-eigentliche Buchinhalt (Text des importierten PDFs über den Suchindex) wurde extrahiert.
+Eine frühere Version von `erlaeuterung-sarhan.md` enthielt nur Lektion 1–11, extrahiert aus einem
+beschädigten/unvollständigen GoodNotes-Suchindex. Sie wurde durch den vollständigen Text aus der
+vom Nutzer nachgereichten Original-PDF ersetzt.

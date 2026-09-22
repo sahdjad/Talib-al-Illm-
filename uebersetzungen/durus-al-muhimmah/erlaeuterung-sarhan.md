@@ -1,20 +1,20 @@
 # Erläuterung des Buches «Die wichtigen Lektionen für die muslimische Öffentlichkeit»
 
-Kommentar (Šarḥ) von Scheich Hayṯam Ibn Muḥammad Ğamīl Sarḥān zum Werk von Imam ʿAbdul-ʿAzīz Ibn ʿAbduḷḷāh Ibn Bāz.
+Von Imam Scheich ʿAbdul-ʿAzīz Ibn ʿAbduḷḷāh Ibn Bāz. Erläuterung (Šarḥ) vorgelegt von Scheich Hayṯam Ibn Muḥammad Ğamīl Sarḥān (ehem. Dozent am Ḥaram-Institut an der Propheten-Moschee, Medina).
 
-*Automatisch aus dem GoodNotes-Suchindex extrahierter Volltext (OCR-Grundlage des importierten Buch-PDFs, nicht handschriftliche Notizen). Reihenfolge und Absatzgrenzen können an einzelnen Stellen vom Original abweichen; bitte bei Bedarf gegen das PDF prüfen.*
+*Vollständiger Text, extrahiert aus der vom Nutzer bereitgestellten Original-PDF (166 Seiten, inkl. Literaturverzeichnis). Automatisch aus dem PDF-Textlayer gewonnen; Layout/Tabellen des Originals sind als Fließtext wiedergegeben.*
 
 ---
 
-Erläuterung des Buches
+## Erläuterung des Buches
+
 «Die wichtigen Lektionen für die muslimische Öffentlichkeit»
 Von Imam: Scheich ‛Abdul-‛Azīz Ibn ‛Abduḷḷāh Ibn Bāz
 Möge Aḷḷāh Sich seiner erbarmen und ihn in das weite Paradies eintreten lassen.
 vorgelegt von Scheich
 Hayṯam Ibn Muḥammad Ğamīl Sarḥān
 Ehemaliger Dozent an dem Ḥaram-Institut an der Propheten-Moschee (Medina), und Leiter der
-Website «At-Taʼ
-ṣīl al-‛ilmī» (Die wissenschaftliche Fundierung)
+Website «At-Taʼṣīl al-‛ilmī» (Die wissenschaftliche Fundierung)
 http//attasseel-alelmi.com
 Möge Aḷḷāh ihm, seinen Eltern und jedem, der ihm zum Erstellen dieses Buches verhalf, vergeben.
 Diese Ausgabe ist um Aḷḷāhs, des Erhabenen, Willen gestiftet
@@ -29,7 +29,8 @@ Kontakt
 islamtorrent @gmail.com
 veröffentlicht durch das Ministerium für Informationen
 
-Erläuterung der Einführung
+## Erläuterung der Einführung
+
 Erläuterung der Einführung des Verfassers
 Der Imam Scheich ‛Abdul-‛Azīz Ibn ‛Abduḷḷāh Ibn Bāz, möge Aḷḷāh Sich seiner erbarmen,
 schrieb:
@@ -53,17 +54,15 @@ Fernerhin soll der Student bescheiden sein, darf gegenüber dem Wissen und den G
 überheblich sein und muss dem Weg der rechtschaffenen Gelehrten folgen.
 In seinem Buch „Al-Ğāmi‛ aṣ-Ṣaḥīḥ“ (Die authentische Sammlung) zitiert al-Buḫārī Muğāhid,
 in dem dieser sagt: „Das Wissen werde weder einem Scheuen noch einem Überheblichen
-zuteil“
-.
+zuteil“.
 
-Erläuterung der Einführung
 Was beinhalten die «wichtigen Lektionen»?
 1. Ansatz der rechtschaffenen Vorfahren mit dem Qurʼān, wie sie ihn rezitierten, auswendig
 lernten, studierten und umsetzten.
 2. Erläuterung der Grundsätze: Hingabe (islām), Glauben (imān), Pietät (iḥsān), der Glaube
 an die Einzigkeit Gottes (tawḥīd) und die verschiedenen Arten der Beigesellung (širk).
 3. Erläuterung des Gebets (ṣalāh)
-4. Erläuterung der rituellen Gebetswaschung (wuḍu ʼ )
+4. Erläuterung der rituellen Gebetswaschung (wuḍuʼ)
 5. Verpflichtung mit den rechtmäßigen Moralen und die Einhaltung der islamischen Sitten.
 6. Die Warnung vor der Beigesellung und den verschiedenen Sünden.
 7. Die rituelle Bestattung des Toten, das Totengebet und das Begräbnis.
@@ -75,8 +74,7 @@ Propheten und
 Gesandten.
 Zur Erfüllung des
 Hadith: „Alles
-Wichtige…“
-,
+Wichtige…“,1
 auch wenn dieser
 ein schwacher
 Hadith ist.
@@ -91,9 +89,9 @@ Segen, indem
 man mit Aḷḷāhs
 Namen, erhaben
 sei Er, anfängt.
-1 Der gemeinte Hadith ist der folgende: Abū Hurayra (Aḷḷāhs Wohlgefallen auf ihm) überlieferte, dass der Prophet (Aḷḷāhs
+1  Der gemeinte Hadith ist der folgende: Abū Hurayra (Aḷḷāhs Wohlgefallen auf ihm) überlieferte, dass der Prophet (Aḷḷāhs
 Segen und Frieden auf ihm) sagte: „Jede Rede oder jede wichtige Angelegenheit, die mit der Erwähnung Aḷḷāhs nicht
-anfängt, ist (vom Segen) getrennt“ (Aḥmad: al-Musnad, 14/329), Anmerkung der Übersetzerin.3
+anfängt, ist (vom Segen) getrennt“ (Aḥmad: al-Musnad, 14/329), Anmerkung der Übersetzerin.
 
 ## Erläuterung der ersten Lektion
 
@@ -185,8 +183,7 @@ kommen Leute, die den Qurʼān rezitieren, und er überschreitet ihre Kehlköpfe
 die Leute des Islams und lassen die Götzendiener (leben). Diese dringen durch den Islam
 durch, genauso wie der Pfeil, der durch das geschossene Tier durchdringt. Würde ich noch
 leben, bis ich diese Leute sehe, dann würde ich sie doch genauso töten, wie den Stamm von
-ʽĀd.
-“
+ʽĀd.“
 
 Auszüge aus dem «Exegese-Buch» von dem Gelehrten ‛Abd ar-Raḥmān as-Sa‛diyy und
 Fragen dazu
@@ -196,8 +193,7 @@ Herrn der Welten, 3. dem Allerbarmer, dem Barmherzigen, 4. dem Herrscher am Tag 
 Gerichts. 5. Dir allein dienen wir, und zu Dir allein flehen wir um Hilfe. 6. Leite uns den geraden
 Weg, 7. den Weg derjenigen, denen Du Gunst erwiesen hast, nicht derjenigen, die (Deinen)
 Zorn erregt haben, und nicht der Irregehenden!
-1. „Im Namen Aḷḷāhs“
-, d.h.: Ich fange mit jedem Namen von Aḷḷāh, erhaben sei Er, an. Denn
+1. „Im Namen Aḷḷāhs“, d.h.: Ich fange mit jedem Namen von Aḷḷāh, erhaben sei Er, an. Denn
 das Wort „Name“ ist ein singuläres Nomen und gilt (hier grammatisch als) das Bezugswort
 vom Genitivattribut. Es umfasst somit alle schönen Namen (Aḷḷāhs). „Aḷḷāh“: ist der angebetete
 Gott, der einzig die Anbetung verdient, nämlich aufgrund all Seiner göttlichen Eigenschaften.
@@ -208,7 +204,7 @@ sie den Gottesfürchtigen zuteil gemacht, die Seinen Propheten und Seinen Gesand
 Denen ist die absolute Barmherzigkeit zuteil; allen anderen wird hingegen (lediglich) ein Anteil
 derer zuteil.
 Es soll einem bewusst werden, dass die Vorgänger und Anführer dieser Gemeinschaft sich u.a.
-über den Grundsatz einigten, an die Namen Aḷḷāhs, Seine Eigenschaften und die
+über den Grundsatz einigten, an die Namen A ḷḷāhs, Seine Eigenschaften und die
 konsequenterweise damit zusammenhängenden Urteile zu glauben. So glauben sie z.B., dass
 Er der Allerbarmer, der Barmherzige ist, d.h. Er besitzt die Barmherzigkeit als Seine
 Eigenschaft, die sich auf den Erbarmten bezieht. So sind alle Gnaden eine Folge Seiner
@@ -293,27 +289,26 @@ Herrschaft (rubūbiyya), was von dem Ausdruck „Herr der Welten“ zu verstehen
 Einzigkeit der Göttlichkeit (ulūhiyya) – d.h., dass einzig Aḷḷāh die Anbetung verdient -, was
 dem Namen „Aḷḷāh“ und dem Ausdruck „Dir allein dienen wir, und zu Dir allein flehen wir um
 Hilfe“ zu entnehmen ist, sowie die Einzigkeit der Namen und Eigenschaften. Damit ist gemeint,
-dass die Eigenschaften der Vollkommenheit (einzig) Aḷḷāh zuzuschreiben sind. Diese
+dass die Eigenschaften der Vollkommenheit (einzig) A ḷḷāh zuzuschreiben sind. Diese
 Eigenschaften hat Er Sich selbst oder hat der Prophet, Aḷḷāhs Segen und Frieden auf ihm, Aḷḷāh
 bestätigt, ohne dass sie jemals unterbrochen, verkörpert oder (mit etwas Anderem) verglichen
 werden. Darauf weist der Ausdruck „(Alles) Lob“ hin, wie bereits oben erwähnt.
 Weiterhin impliziert diese Sure eine Bestätigung der Botschaft (des Propheten Muḥammad,
-Aḷḷāḥs Segen und Frieden auf ihm), nämlich in dem Ausdruck: „Leite uns den geraden Weg“
-,
+Aḷḷāḥs Segen und Frieden auf ihm), nämlich in dem Ausdruck: „Leite uns den geraden Weg“,
 denn diese Rechtleitung wäre ohne die Botschaft unmöglich.
 Darüber hinaus wird die Vergeltung gemäß den Taten bestätigt, nämlich in dem Ausdruck „dem
 Herrscher am Tag des Gerichts“; die Vergeltung wird gerecht verlaufen, denn das Gericht
 bedeutet, dass es um eine gerechte Vergeltung geht.
 Zudem enthält die Sure eine Bestätigung des Schicksals und zugleich der Tatsache, dass der
 Diener ein wahrer Urheber ist, im Gegenteil zu den Anhängern der Lehre des freien Willens
-(Qadariyya)2 und zu denen der Lehre der Prädestination (Ğabriyya).
+(Qadariyya)2 und zu denen der Lehre der Prädestination (Ğabriyya).3
 Die Sure umfasst sogar eine Antwort auf alle Ketzer und Irreführer, nämlich in dem Ausdruck:
 „Leite uns den geraden Weg“. Denn dieser (gerade Weg) besteht darin, das Rechtmäßige zu
 erkennen und es umzusetzen; gerade davon weichen ja jeder Ketzer und jeder Irreführer ab.
-2 Diese gehen davon aus, dass der Mensch sein Schicksal selbst gestaltet, und zwar ohne göttliches Vorwissen
+2  Diese gehen davon aus, dass der Mensch sein Schicksal selbst gestaltet, und zwar ohne göttliches Vorwissen
 des Schicksals. Anmerkung der Übersetzerin.
-3 Diese Gruppe geht hingegen von einem vorgeschriebenen Schicksal des Menschen aus, gegenüber dem der
-Mensch keinen freien Willen hat. Anmerkung der Übersetzerin.9
+3  Diese Gruppe geht hingegen von einem vorgeschriebenen Schicksal des Menschen aus, gegenüber dem der
+Mensch keinen freien Willen hat. Anmerkung der Übersetzerin.
 
 Schließlich beinhaltet die Sure die Aufrichtigkeit in dem Glauben an Aḷḷāh, erhaben sei Er, als
 einzigen Gott, und zwar, in dem man einzig Aḷḷāh anbetet als auch einzig Ihn um Hilfe ruft,
@@ -326,8 +321,7 @@ Schlummer noch Schlaf. Ihm gehört (alles), was in den Himmeln und was auf der E
 ist es denn, der bei Ihm Fürsprache einlegen könnte - außer mit Seiner Erlaubnis? Er weiß,
 was vor ihnen und was hinter ihnen liegt, sie aber umfassen nichts von Seinem Wissen - außer,
 was Er will. Sein Thronschemel umfasst die Himmel und die Erde, und ihre Behütung beschwert
-Ihn nicht. Er ist der Erhabene und Allgewaltige.
-“ (2:255)
+Ihn nicht. Er ist der Erhabene und Allgewaltige.“ (2:255)
 Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, sagte, dass dieser Vers der großartigste im
 Qurʼān sei, nämlich aufgrund der darin implizierten Bedeutungen, die sich auf die Einzigkeit
 Aḷḷāhs, Seine Majestät und die umfassenden Eigenschaften des Schöpfers, erhaben sei Er,
@@ -336,8 +330,7 @@ Göttlichkeit einzig Ihm gebührt und dass niemand außer Ihm die Göttlichkeit 
 verdient. Somit ist die Anerkennung der Göttlichkeit eines anderen außer Ihm und dessen
 Anbetung unbegründet. Er ist fernerhin der „Lebendige“, der alle Bedeutungen des
 vollständigen Lebens besitzt, darunter das Gehör, die Sehkraft, die Fähigkeit, der Willen und
-andere Eigenschaften. Er ist darüber hinaus der „Beständige“
-, was alle Eigenschaften der
+andere Eigenschaften. Er ist darüber hinaus der „Beständige“, was alle Eigenschaften der
 Tätigkeit umfasst, denn die Beständigkeit bedeutet, dass Aḷḷāh mit/für Sich selbst besteht und
 dabei keinem seiner Geschöpfe bedürftig ist. Ebenso hat Er alles, was existiert, erschaffen,
 aufrechterhalten und mit allem versorgt, was es zu seiner Existenz und Erhaltung braucht. Es
@@ -361,7 +354,7 @@ Wer sich aber abwendet, dem wird keine Fürsprache zuteil. Dann spricht Aḷḷ�
 umfassenden Wissen und, dass Ihm alles bekannt ist, und zwar sowohl, was vor den Geschöpfen
 liegt, d.h. alle künftigen Angelegenheiten, als auch, „was hinter ihnen“ liegt, d.h. die
 unendlichen vergangenen Geschehnissen. Ihm wird kein Geheimnis verborgen „Er kennt die
-verräterischen Augen und weiß, was die Brüste verbergen“ (40:19). Zudem können die
+verräterischen Augen und weiß, was die B rüste verbergen“ (40:19). Zudem können die
 Geschöpfe nichts von Aḷḷāhs Wissen und Kenntnissen ergattern, „außer, was Er [davon wissen
 lassen] will“. Dazu gehören u.a. Angelegenheiten, die die religiösen Gesetze und das Schicksal
 betreffen. Dieser ist aber ein sehr geringer und minimaler Teil des Wissens und der Kenntnisse
@@ -390,14 +383,14 @@ Exegese von Sure az-Zalzalah (99: Das Beben, medinesisch)
 Im Namen Aḷḷāhs, des Allerbarmers, des Barmherzigen
 1. Wenn die Erde erschüttert wird durch ihr heftiges Beben 2. und die Erde hervorbringt ihre
 Lasten 3. und der Mensch sagt: „Was ist mit ihr?“, 4. an jenem Tag wird sie die Nachrichten
-über sich erzählen, 5. weil dein Herr (es) ihr eingegeben hat. 6. An jenem Tag werden die
+über sich erzählen, 5. weil dein Herr (es) ihr eingegeben hat. 6. An je nem Tag werden die
 Menschen (in Gruppen) getrennt herauskommen, damit ihnen ihre Werke gezeigt werden. 7.
 Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen. 8. Und wer im Gewicht eines
 Stäubchens Böses tut, wird es sehen.
 1-2: Aḷḷāh, erhaben sei Er, teilt hier mit, was am Tag der Auferstehung geschehen wird und
 dass die Erde beben, schütteln und rütteln wird, bis alles, was sich darauf an Gebäuden und
 Merkmalen besteht, zusammenfällt. So werden die Berge demoliert und die Hügel geglättet;
-zurückgelassen wird nur eine leere Ebene sein, an der weder Vertiefung noch Erhebung zu
+zurückgelassen wird nur  eine leere Ebene sein, an der weder Vertiefung noch Erhebung zu
 sehen sind. „und die Erde hervorbringt ihre Lasten“, d.h. alles, was sich an Toten und Schätzen
 darin befindet.
 3. „und der Mensch sagt“, wenn man sieht, welche großartigen Ereignisse der Erde geschehen
@@ -414,8 +407,7 @@ widerstehen.
 dem (vorigen) Stand der Auferstehung [wenn Aḷḷāh sie verurteilen wird], „(in Gruppen)“, d.h.
 in unterschiedlichen Typen, damit Aḷḷāh ihnen ihre guten und ihre schlechten Taten zeigt und
 ihnen dafür vergilt.
-7.-8.: 7. „Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen“
-. 8. „Und wer im
+7.-8.: 7. „Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen“. 8. „Und wer im
 Gewicht eines Stäubchens Böses tut, wird es sehen.“: Das ist allgemein gültig für alles Gute
 und alles Böse. Würde man nämlich sehen, dass man für etwas im Gewicht eines Stäubchens,
 - was ja das Geringste überhaupt sein kann-, vergolten wird, dann haben größere Taten mehr
@@ -448,8 +440,7 @@ rennen.
 3. „den […] Angreifenden“, nämlich den Pferden, die die Feinde angreifen; „am Morgen“, denn
 wahrscheinlich finden Angriffe morgens statt.
 4.-5. „die darin Staub aufwirbeln“, d.h. nach ihrem Rennen und Angreifen. „die dann
-eindringen“
-, d.h. sie dringen mit ihren Reitern „mitten in die Ansammlung“ der angegriffenen
+eindringen“, d.h. sie dringen mit ihren Reitern „mitten in die Ansammlung“ der angegriffenen
 Feinde ein.
 6. Die (obige) Schwur gilt eigentlich zur Bestätigung des Folgenden: „Der Mensch ist seinem
 Herrn gegenüber wahrlich undankbar“, d.h. der Mensch verweigert die Pflichten, die er um
@@ -465,7 +456,7 @@ ist seinem Herrn gegenüber undankbar und darüber ist Aḷḷāh Zeuge. Diese E
 eine starke Drohung und Ermahnung an denjenigen, der seinem Herrn undankbar ist, denn
 Aḷḷāh ist darüber Zeuge.
 
-8. „Und er“, d.h. der Mensch „ist in seiner Liebe zum (eigenen) Besten“, gemeint ist hier zum
+8. „Und er“, d.h.  der Mensch „ist in seiner Liebe zum (eigenen) Besten“, gemeint ist hier zum
 Geld (oder zum Materiellen) „wahrlich heftig“; mit anderen Worten: Der Mensch liebt das Geld
 sehr. Diese Liebe ist der Grund dafür, seine Pflichten zu vernachlässigen, denn er bevorzugt es,
 seine eigene Leidenschaft zu befolgen, anstatt seinem Gott wohlzugefallen. All das ist darauf
@@ -497,17 +488,15 @@ lässt dich wissen, was das ist? 11. Ein sehr heißes Feuer.
 arab. qara‛a: pochen, schlagen), weil er die Menschen niederschlägt und sie mit seinen Gräueln
 erschreckt. Daher hebt Aḷḷāh die Angelegenheit dieses Tages hervor und betont sie, indem Er
 sagt: „1. Das Verhängnis! 2. Was ist das Verhängnis? 3. Und was lässt dich wissen, was das
-Verhängnis ist?“
-.
-4. „Am Tag, da die Menschen“ vor schrecklichen Gräueln „wie flatternde Motten sein werden“
-,
-d.h. wie zerstreute Heuschrecken, die ineinander flattern. Die Motten sind nämlich jene
+Verhängnis ist?“.
+4. „Am Tag, da die Menschen“ vor schrecklichen Gräueln „wie flatternde Motten sein werden“,
+d.h. wie zerstreute Heuschrecken, die ineinander flattern. Die Motten sind  nämlich jene
 Insekten, die in der Nacht ineinander flattern, da sie nicht wissen, wohin sie sich begeben sollen.
 Wenn man aber ein Feuer entfacht, dann eilen sie aus Unkenntnis dorthin. Dieses Bild ähnelt
 dem der Menschen (am Tag des Gerichts), obwohl diese einen Verstand besitzen.
 5. Was aber die festen und soliden Berge angeht, so werden sie „wie zerflockte gefärbte Wolle
 sein“, d.h. so schwach, dass jeder Wind sie tragen kann. „Und du siehst die Berge, von denen
-du meinst, sie seien unbeweglich, während sie wie Wolken vorbeiziehen“ (27:88). Danach
+du meinst, sie seien unbeweglich, während sie wie Wolken vorbeiziehen “ (27:88). Danach
 werden sie wie ausgestreuter Staub sein, bis sie verschwinden und bis nichts mehr davon zu
 sehen wird. Erst dann werden die Waagen gestellt und dann werden die Menschen in zwei
 Gruppen eingeteilt: glückliche und elende.
@@ -557,7 +546,7 @@ beeilt, gute Taten zu verrichten. Allerdings hat das Fehlen an wahrer Kenntnis e
 Zustand geführt, den ihr sieht: „Ihr werdet ganz gewiss den Höllenbrand sehen.“ Gemeint ist,
 dass ihr bestimmt den Tag des Gerichtes erleben werdet und erst dann den Höllenbrand sehen,
 den Aḷḷāh für die Ungläubigen bereitgestellt hat.
-7. „Abermals: Ihr werdet ihn mit dem Auge der Gewissheit sehen“, d.h.: Ihr werdet (den
+7. „Abermals: Ihr werdet ihn mit dem Auge der Gewissheit sehen “, d.h.: Ihr werdet (den
 Höllenbrand) optisch wahrnehmen, wie Aḷḷāh, erhaben sei Er, sagt: „Und die Übeltäter werden
 das (Höllen)feuer sehen und überzeugt sein, dass sie hineinfallen, und kein Mittel finden, es
 abzuwenden“ (18:53).
@@ -593,7 +582,7 @@ den Rechten Seiner Diener zusammenhängen, und zwar sowohl die obligatorischen a
 auch die wünschenswerten Taten.
 − Die Empfehlung der Wahrheit: Diese Wahrheit besteht in dem Glauben und den
 rechtschaffenen Taten. Mit anderen Worten sind hier solche Menschen gemeint, die
-einander empfehlen, motivieren und veranlassen, sich an den wahren Glauben zu halten
+einander empfehlen, motivieren und veranlassen, sich an den wahren Glauben zu  halten
 und ihn in Taten umzusetzen.
 − Die Empfehlung der Geduld, und zwar beim Verrichten von gottgefälligen Pflichten,
 beim Vermeiden von Sünden und gegenüber den schmerzhaften göttlichen Schicksalen.
@@ -626,15 +615,13 @@ vermehren. Dabei denkt er, dass dieses Geld ihm ein längeres Leben gewähren wi
 es unbewusst, dass der Geiz Leben kürzt und Familien ruiniert, während die Gütigkeit das
 Leben verlängert.
 4.-7. „Keineswegs! Er wird ganz gewiss […] geworfen werden“, d.h. er wird hineingestürzt,
-und zwar „in al-Ḥuṭama“
-, „Was lässt dich wissen, was al-Ḥuṭama ist?“: Die rhetorische Frage
+und zwar „in al-Ḥuṭama“, „Was lässt dich wissen, was al-Ḥuṭama ist?“: Die rhetorische Frage
 dient der Hervorhebung dessen und der Einschüchterung davor. Dann wird das Gemeinte durch
 den folgenden Ausdruck erläutert: „(Sie ist) Aḷḷāhs entfachtes Feuer“, dessen Brennstoff
 Menschen und Steine sind, „das“ so stark brennt, dass es „Einblick in die Herzen gewinnt“, d.h.
 von den Körpern in die Herzen eindringt.
 8. Und mit dieser sehr starken Hitze, in der sie eingesperrt sind, haben sie die Hoffnung
-verloren, daraus herauszukommen. Daher heißt es dann: „Gewiss, es wird sie einschließen“
-,
+verloren, daraus herauszukommen. Daher heißt es dann: „Gewiss, es wird sie einschließen“,
 d.h. das Höllenfeuer ist versperrt, und zwar „in […] Säulen“ hinter den Türen. Diese Säulen
 sind „langgestreckt“, damit man ihnen nicht entfliehen kann. „Jedesmal, wenn sie vor Kummer
 aus ihm herauskommen wollen, werden sie dahin zurückgebracht, und (es wird zu ihnen
@@ -650,13 +637,12 @@ sie mit Steinen aus gebranntem Lehm bewarfen, 5. und sie so wie abgefressene Hal
 1.-5. Hast du nicht Aḷḷāhs Fähigkeit erkannt, ebenso Seine Großartigkeit, Seine Barmherzigkeit
 Seinen Dienern gegenüber, die Beweise dafür, dass Er der einzige Gott ist, und die Beweise für
 die Wahrhaftigkeit Seines Gesandten Muḥammad, Aḷḷāhs Segen und Frieden auf ihm, hast du
-all das nicht daran erkannt, wie Aḷḷāh mit den Leuten des Elefanten verfuhr? Diese
+all das nicht daran erkannt, wie A ḷḷāh mit den Leuten des Elefanten verfuhr? Diese
 verschwörten sich zur Zerstörung Seiner heiligen Stätte, so statteten sie sich aus und zogen mit
 sich sogar Elefanten, um die Kaaba abzureißen. Sie kamen in einer riesigen Armee aus
 Abessinien und dem Jemen, gegen die die Araber nichts unternehmen konnten. Als sie beinahe
 Mekka erreichten – wobei die Araber keine Fähigkeit zur Verteidigung hatten, daher verließen
-die Bewohner von Mekka ihre Stadt aus Furcht um ihr Leben -
-, erst dann schickte Aḷḷāh gegen
+die Bewohner von Mekka ihre Stadt aus Furcht um ihr Leben -, erst dann schickte Aḷḷāh gegen
 die Angreifer Vögel in Schwärmen, die Kieselsteine aus dem Höllenfeuer trugen, so bewarfen
 sie jene Armee damit. Diese Kieselsteine folgten dem Nahen und dem Fernen in der Armee, so
 dass sie sie lähmten und vernichteten, als ob sie abgefressene Halme gewesen wären. Damit
@@ -698,7 +684,7 @@ wollen; 7. und die Hilfeleistung verweigern!
 Mitmenschen vernachlässigt, indem Er sagt: „Siehst du (nicht) denjenigen, der das Gericht für
 Lüge erklärt?“; mit dem Gericht sind hier die Auferstehung und die Vergeltung gemeint, und
 zwar indem man die Botschaft der Gesandten verleugnet.
-2. „Das ist derjenige, der die Waise zurückstößt“, d.h. der sie gewalttätig und brutal
+2. „Das ist derjenige, der die Waise zurückstößt “, d.h. der sie gewalttätig und brutal
 zurückweist und sich ihrer nicht erbarmt. Das ist auf die Hartherzigkeit dieses Menschen
 zurückzuführen und ebenso darauf, dass er weder eine Belohnung erwartet noch eine Strafe
 befürchtet.
@@ -731,8 +717,7 @@ Im Namen Aḷḷāhs, des Allerbarmers, des Barmherzigen
 1. Wir haben dir ja al-Kauṯar gegeben. 2. So bete zu deinem Herrn und opfere. 3. Gewiss,
 derjenige, der dich hasst, - er ist vom Guten abgetrennt.
 1. Aḷḷāh, erhaben sei Er, verkündet Seinem Propheten Muḥammad, Aḷḷāhs Segen und Frieden
-sei auf ihm, die gnadenvolle Gabe: „Wir haben dir ja al-Kauṯar gegeben“
-.
+sei auf ihm, die gnadenvolle Gabe: „Wir haben dir ja al-Kauṯar gegeben“.
 
 Das heißt: Zu diesen reichlichen Gnaden und dieser ausgiebigen Gunst zählt, was Aḷḷāh Seinem
 Propheten, Aḷḷāhs Segen und Frieden auf ihm, am Tag des Gerichts geben wird, nämlich der
@@ -792,7 +777,7 @@ Gemeinschaft im Zeitalter der rechtgeleiteten Kalifen und auch danach erlebt, al
 sich fortsetzte, bis der Islam eine solche Ausbreitung wie keine andere Religion davor erreichte
 und bis so viele Menschen darin eintraten, was mit keiner anderen Religion geschehen war.
 
-Dies dauerte so lange an, bis die muslimische Gemeinschaft sich von den Befehlen Aḷḷāhs
+Dies dauerte so lange an, bis die muslimische Gemeinschaft sich von den Befehlen A ḷḷāhs
 abwandte, so dass sie mit der Zwietracht und der Zerstreuung ihrer Angelegenheit geprüft
 wurde. So passierte den Muslimen, was bekanntlich sein mag. Allerdings genießen diese
 Gemeinschaft und diese Religion solche Barmherzigkeit und Huld Aḷḷāhs, was niemand sich
@@ -807,8 +792,7 @@ vorbereiten und sich gefasst machen, seinen Gott zu treffen und sein Leben mit d
 abzuschließen. Denn der Prophet, Aḷḷāḥs Segen und Frieden auf ihm, pflegte mit diesem
 Bittgebet seine Erläuterungen des Qurʼāns abzuschließen und sagte auch oft in seinem Gebet,
 vor allem, wenn er sich kniet oder niederwirft: „Gepriesen seist Du, unser Herr, und alles Lob
-sei Dir. O Aḷḷāh, vergib mir“
-.
+sei Dir. O Aḷḷāh, vergib mir“.
 
 Exegese von Sure al-Masad (111: Die Palmfasern, mekkanisch)
 Im Namen Aḷḷāhs, des Allerbarmers, des Barmherzigen
@@ -859,7 +843,7 @@ Nachsicht vollkommen ist, der Barmherzige, dessen Barmherzigkeit vollständig is
 umfasst… Ebenso sind all Seine Eigenschaften.
 3. Es gehört zu Seiner Vollkommenheit Folgendes: „Er hat nicht gezeugt und ist nicht gezeugt
 worden“, da Er vollkommen bedürfnislos ist.
-4. „und niemand ist Ihm jemals gleich“, d.h. weder in Seinen Namen noch in Seinen
+4. „und niemand ist Ihm jemals gleich “, d.h. weder in Seinen Namen noch in Seinen
 Eigenschaften oder Tätigkeiten, erhaben sei Er.
 So umfasst diese Sure die Einzigkeit aller Namen und Eigenschaften Aḷḷāhs.
 
@@ -881,7 +865,7 @@ darin die bösen Geister und die schädlichen Tiere umlaufen.
 4. „und vor dem Übel der Knotenanbläserinnen“, d.h. vor dem Übel der Zauberinnen, die ihre
 Zaubertätigkeit durch das Blasen in jene Knoten unternehmen, die sie auf dem Zauber
 verbinden.
-5. „und vor dem Übel eines (jeden) Neidenden, wenn er neidet“. Der Neidende ist jener
+5. „und vor dem Übel eines (jeden) Neidenden, wenn er neidet “. Der Neidende ist jener
 Mensch, der wünscht, dass der Beneidete an Gnade einbüßt. So tut er alles Mögliche, um dieses
 Ziel zu erreichen. Daher muss man Aḷḷāh um Zuflucht bitten, damit Er einen vor der
 Boshaftigkeit dieses Menschen beschützt und die List des Neidenden durchkreuzt. Zu den
@@ -902,19 +886,18 @@ seiner List und zu seiner Boshaftigkeit nämlich, dass er „in die Brüste der 
 einflüstert“. So schmückt er ihnen das Böse und zeigt es ihnen in schönem Schein.
 
 Vielmehr motiviert er sie, dieses Böse zu vollbringen, entmutigt sie hingegen vom Guten und
-lässt sie es in einer veränderten (pejorativen) Form sehen. Das ist sein ewiger Zustand, er
+lässt sie es in einer veränderten (pejorativen) Form sehen. Das ist sei n ewiger Zustand, er
 flüstert ein, dann zieht er sich davon zurück, wenn der Mensch sich seines Gottes gedenkt und
 Ihn um Hilfe gegen den Teufel bittet. Demzufolge muss man Zuflucht bei Aḷḷāh nehmen und
 sich an Seine Schutzherrschaft über alle Menschen halten, denn alle Geschöpfe sind von Seiner
 Schutzherrschaft und Seiner Herrschaft umfasst, denn Er hält jede Kreatur an ihre Stirnlocke.
 Ebenso soll man sich an die Göttlichkeit Aḷḷāh halten, deretwegen Er die Menschen erschuf.
-Man wird also diese Göttlichkeit erst dann erkennen, wenn man der Boshaftigkeit des
+Man wird also diese Göttlichkeit erst dann erkennen, wenn man d er Boshaftigkeit des
 Erzfeindes der Menschheit entgegenwirkt, nämlich des Teufels. Denn dieser versucht, die
 Menschen von dieser Erkenntnis abzuhalten und zu distanzieren. Vielmehr versucht er, die
 Menschen zu entführen, damit sie zu den Bewohnern des Höllenfeuers werden. Anzumerken
 ist dabei, dass Einflüsterer sowohl Ğinn als auch Menschen sein können, deswegen sagt Aḷḷāḥ:
-„vor den Ğinn und den Menschen“
-.
+„vor den Ğinn und den Menschen“.
 Alles Lob gehört Aḷḷāh, dem Herrn der Welten, als dem Ersten, Letzten, Offenkunden und
 Verborgenen. Ihn, erhaben sei Er, fragen wir, Seine Gnade zu vollenden und uns unsere Sünden,
 die uns viel Segen vorenthielten, zu vergeben. Ebenso bitten wir Ihn, unsere Irrtümer und
@@ -952,7 +935,7 @@ o Sure al-Fātiḥa (1: Die Eröffnung)
 o Sure al-Iḫlāṣ (112: Die Aufrichtigkeit)
 5. Gemäß ihrem Verhalten gegenüber dem Qurʼān lassen sich die Menschen in zwei
 Extremen und einer Mitte einteilen. (richtig – falsch).
-6. Welches Buch der Exegese soll ein Studierender zuerst lesen?
+6.  Welches Buch der Exegese soll ein Studierender zuerst lesen?
 o Ibn Kaṯīr
 o Ibn as-Sa‛diyy
 o al-Qurṭubī
@@ -966,8 +949,7 @@ bekommt, wie Sure: al-Qaṣaṣ (28: Die Geschichten), Maryam (19: Maryam), al-K
 9. Der Studierende könnte sich die Exegese-Bücher in Form von Hörbüchern anhören,
 wenn ihm das Lesen schwerfällt (richtig-falsch), wie etwa das Programm der Audio-
 Exegese des Qurʼāns, basiert auf dem Exegese-Buch von as-Sa‛diyy „Tafsīr as-
-Sa‛diyy“
-.
+Sa‛diyy“.
 10. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, warnte davor, dass man den Qurʼān
 rezitiert, ohne sich über seine Bedeutung Gedanken zu machen. (richtig-falsch).
 Fragen zur Exegese von Sure al-Fātiḥa (1: Die Eröffnung)
@@ -995,9 +977,7 @@ o weil er aus der Barmherzigkeit (Gottes) ausgeschlossen wurde.
 o weil er mit Meteoriten gesteinigt wird.
 o weil er die Menschen mit Leidenschaften und Zweifeln besteinigt.
 o aus allen vorigen Gründen.
-17. Die Präpositionalkonstruktion in der Formel „bi-
-ʼsmi-
-ʼllāh“ (im Namen Aḷḷāhs) ist eine
+17. Die Präpositionalkonstruktion in der Formel „bi-ʼsmi-ʼllāh“ (im Namen Aḷḷāhs) ist eine
 Modalergänzung, die mit einem ausgelassenen, nachgestellten Prädikat
 zusammenhängt. (richtig-falsch).
 18. Aḷḷāh:
@@ -1203,8 +1183,7 @@ o al-Hāwiya (der Abgrund). o Ğahannam (die Hölle).
 o al-Ḥuṭama o Laẓā
 o as-Sa‛īr o Saqar
 o all die vorigen Bezeichnungen.
-70. „Ein sehr heißes Feuer“
-– wir suchen Zuflucht bei Aḷḷāh davor – d.h. dessen Hitze
+70. „Ein sehr heißes Feuer“ – wir suchen Zuflucht bei Aḷḷāh davor – d.h. dessen Hitze
 übertrifft die der diesseitigen Hitze um:
 o das Siebzigfache
 o das Neunzigfache.
@@ -1219,7 +1198,7 @@ o Tadeln der Menschen, weil sie sich mit anderen Sachen beschäftigen, als das
 Ziel, wofür sie erschaffen wurden.
 73. In dieser Sure wird das Vermehren verboten, auch wenn es um Aḷḷāhs Willen wäre.
 (richtig-falsch).
-74. Der Ausdruck: „Jemand ist zu seiner letzten (Ruhe-)Stätte verlegt worden“ (als
+74. Der Ausdruck: „Jemand ist zu seiner letzten (Ruhe -)Stätte verlegt worden“ (als
 euphemistische Umschreibung des Todes):
 o impliziert eine Verleugnung der Auferstehung.
 o ist legitim.
@@ -1359,7 +1338,7 @@ o alle vorigen Bedeutungen.
 113. Der Ausdruck „er ist vom Guten abgetrennt“ bedeutet, dass derjenige, der den
 Propheten, Aḷḷāhs Segen und Frieden auf ihm, liebt, dauerhaft erwähnt und
 lobgepriesen wird. (richtig-falsch).
-114. Diese Sure beweist, dass die Anhänger und Gefolgsleute des Propheten, Aḷḷāhs
+114. Diese Sure beweist, dass die Anhänger und Gefolgsleute des Propheten, A ḷḷāhs
 Segen und Frieden auf ihm, zahlreich sein werden. (richtig-falsch).
 Fragen zur Exegese von Sure al-Kāfirūn (109: Die Ungläubigen)
 115. Sure al-Kāfirūn (109: Die Ungläubigen) ist eine:
@@ -1399,7 +1378,7 @@ falsch).
 124. Dieser Gemeinschaft und dieser Religion sind solche Barmherzigkeit und solche
 Huld Aḷḷāhs zuteil, was man sich weder denken noch vorstellen könnte. (richtig-
 falsch).
-125. Diese Sure impliziert ein Vorzeichen, dass der Prophet, Aḷḷās Segen und Frieden auf
+125.  Diese Sure impliziert ein Vorzeichen, dass der Prophet, Aḷḷās Segen und Frieden auf
 ihm, bald sterben wird. (richtig-falsch).
 126. Um dem Gebot in dieser Sure nachzukommen, hat der Prophet, Aḷḷāhs Segen und
 Frieden auf ihm, beim Knien und Niederwerfen oft wiederholt: „Gepriesen und
@@ -1446,7 +1425,7 @@ o in dem freiwilligen, überlieferten (Sunna-)Gebet in der Nacht (witr).
 o nach den Pflichtgebeten
 o wenn man sich ins Bett legt.
 o zu all den erwähnten Zeiten.
-136. Die beiden Suren al-Kāfirūn (109: Die Ungläubigen) und al-Iḫlāṣ (112: Die
+136. Die beiden Suren al-Kāfirūn (109: Die Ungläubigen) und al -Iḫlāṣ (112: Die
 Aufrichtigkeit) werden am Tag und in der Nacht rezitiert, damit man alle drei Teile
 des Glaubens an die Einzigkeit Aḷḷāhs verinnerlicht. (richtig-falsch).
 137. Sure al-Iḫlāṣ (112: Die Aufrichtigkeit) umfasst:
@@ -1506,7 +1485,7 @@ Die Erläuterung der fünf Säulen des Islams. Die erste und wichtigste ist: Das
 es keinen Gott außer Aḷḷāh gibt und dass Muḥammad der Gesandte Aḷḷāhs ist. Dabei muss die
 Bedeutung dieses Bekenntnisses erläutert werden, sowie die Bedingungen dessen.
 „Es gibt keinen Gott“ bedeutet, dass man alles verleugnet, was je außer Aḷḷāh angebetet wird.
-„außer Aḷḷāh“: bestätigt hingegen die Anbetung von einzig Aḷḷāh, ohne Ihm jemanden
+„außer Aḷḷāh“: bestätigt hingegen die Anbetung von einzig A ḷḷāh, ohne Ihm jemanden
 beizugesellen.
 Was aber die Bedingungen für das Glaubensbekenntnis angeht, so sind sie die folgenden:
 1. Ein solches Wissen, das Unwissen ausschließt.
@@ -1553,8 +1532,7 @@ erfüllen:
 Denn wer die Bedeutung des Glaubensbekenntnisses nicht weiß, dem nutzt dieses
 Bekenntnis nichts. Daher muss derjenige, der den Islam annehmen will, dessen
 Bedeutung begreifen. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, sagte: „Wer
-stirbt, während er weiß, dass es keinen Gott außer Aḷḷāh gibt, der geht ins Paradies“
-,
+stirbt, während er weiß, dass es keinen Gott außer Aḷḷāh gibt, der geht ins Paradies“,
 überliefert von Muslim.
 2. Die Gewissheit: d.h. 100%. Denn, wenn man nur ein Prozent an der Verleugnung
 aller falschen Götter zweifeln würde oder wenn man mit dieser Verleugnung aufhört
@@ -1638,8 +1616,7 @@ auf ihm, sagte: „Niemand
 wird wahrhaftig gläubig
 sein, wenn ich nicht ihm
 lieber bin als sein Kind, sein
-Vater und alle Menschen“
-.
+Vater und alle Menschen“.
 Taten, die Aḷḷāh
 wohlgefällig sind,
 und zwar alles, was
@@ -1715,12 +1692,11 @@ Gesandten in seiner
 Dienerschaft gegenüber
 Aḷḷāh gleichen.
 Ein Abriss der Biografie des Propheten, Aḷḷāhs Segen und Frieden auf ihm:
-Seine Abstammung: Seine Geburt: Er ist Moḥāmmad Ibn ‛Abdu-
-ʼḷḷāh Ibn ‛Abdul-Muṭṭalib Ibn Hāšim.
+Seine Abstammung: Er ist Moḥāmmad Ibn ‛Abdu-ʼḷḷāh Ibn ‛Abdul-Muṭṭalib Ibn Hāšim.
 Hāšim stammt aus Quraiš, einem arabischen Stamm; die Araber
 gehören zu den Nachfahren des Propheten Ismā‛īl, der Sohn des
 Propheten Ibrāhīm, Aḷḷāhs Frieden auf ihnen.
-Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wurde im Jahr des
+Seine Geburt: Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wurde im Jahr des
 Elefanten (571 n. Chr.) in Mekka geboren, und zwar im vierten
 (arabischen) Monat (Rabī‛ al-awwal). Er lebte 63 Jahre, 40 vor der
 Offenbarung und 23 Jahre als Propheten und Gesandten. Er war ein
@@ -1728,26 +1704,26 @@ Waisenkind, dessen Vater vor seiner Geburt starb. Er wurde dann
 von seinem Großvater ‛Abdul-Muṭṭalib großgezogen. Nach dem
 Tod seines Großvaters sorgte sein Onkel Abū Ṭālib für ihn.
 
-Seine Botschaft: Sein Aufruf: Die Nacht- und die
-Himmelsreise:
-Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wurde sowohl zu
+Seine Botschaft: Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wurde sowohl zu
 den Ğinn als auch zu den Menschen gesandt, so ist jeder, der von
 seinem Aufruf gehört und diesen trotzdem nicht angenommen hat,
 ein vollkommen Ungläubiger, egal, wer er ist.
-Der Prophet, Aḷḷās Segen und Frieden auf ihm, rief zum Glauben an
+Sein Aufruf: Der Prophet, Aḷḷās Segen und Frieden auf ihm, rief zum Glauben an
 einen einzigen Gott, sowie zu den guten Sitten und Taten auf und
 verbot die Beigesellung, die schlechten Manieren und Taten.
+Die Nacht- und die
+Himmelsreise:
 Aḷḷāh ließ den Propheten, Aḷḷāhs Segen und Frieden auf ihm, von
 Mekka nach Bayt al-Maqdis (Jerusalem) reisen, dann auch von dort
 bis in den siebten Himmel hinauf. Daraufhin sprach Aḷḷāh ihn an
 und verpflichtete ihn mit den fünf Gebeten.
 Seine Auswanderung
 und sein Tod:
-Seine Übermittlung: Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wanderte von
+Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wanderte von
 Mekka nach Medina aus, wo er auch starb. In dem dortigen Haus
-seiner Ehefrau und Mutter der Gläubigen Aiša, möge Aḷḷāh
+seiner Ehefrau und Mutter der Gläubigen Aiša, möge A ḷḷāh
 Wohlgefallen an ihr haben, wurde der Prophet begraben.
-Mit ihm hat Aḷḷāh die Religion (für die Menschheit) vervollständigt;
+Seine Übermittlung: Mit ihm hat Aḷḷāh die Religion (für die Menschheit) vervollständigt;
 der Prophet, Aḷḷāhs Segen und Frieden auf ihm, übermittelte seine
 Botschaft vollkommen, erfüllte seine Aufgabe, belehrte seine
 Gemeinschaft und bemühte sich um Aḷḷāhs Willen auf jeden und
@@ -1758,15 +1734,15 @@ Kriege:
 Sieben Kriege: Badr, Uḥud, al-Ḫandaq, Ḫaybar, die Eroberung
 Mekkas, Tabūk und Ḥunayn.
 
-Seine sieben Kinder: Seine zwölf Frauen: Seine Milchmütter: al-Qāsim, Ibrāhīm, ‛Abduḷḷāh auch aṭ-Ṭayyb aṭ-Ṭāhir genannt,
+Seine sieben Kinder: al-Qāsim, Ibrāhīm, ‛Abduḷḷāh auch aṭ-Ṭayyb aṭ-Ṭāhir genannt,
 Zaynab, Ruqaya, Umm Kulṯūm und Fāṭima. Alle starben zu seinen
 Lebzeiten, außer Fāṭima, die sechs Monate nach seinem Tod starb,
 möge Aḷḷāh Wohlgefallen an ihnen allen haben.
-Ḫadīğa, ‛Āiša, Sauda, Ḥafṣa, Zaynab al-Hilāliya, Umm Salama
+Seine zwölf Frauen: Ḫadīğa, ‛Āiša, Sauda, Ḥafṣa, Zaynab al-Hilāliya, Umm Salama
 Hend, Zaynab Bint Ğaḥš, Ğuayriyya Bint al-Ḥāriṯ, Ṣafeyya Bint
 Ḥuyayy, Umm Ḥabība Ramla, Rayḥāna Bint Zayd, Maymūna Bint
 al-Ḥāriṯ, möge Aḷḷāh Wohlgefallen an ihnen allen haben.
-Seine eigene Mutter Āmina Bint Wahb, Ṯuwayba, die Magd seines
+Seine Milchmütter: Seine eigene Mutter Āmina Bint Wahb, Ṯuwayba, die Magd seines
 Onkels Abū Lahab und Ḥalīma Bint Abū Ḏu’ayb as-Sa‛diyya, möge
 Aḷḷāh Wohlgefallen an ihr haben.
 Erste offenbarte
@@ -1785,22 +1761,21 @@ Sklaven Bilāl Ibn Rabāḥ, Aḷḷāhs Wohlgefallen an ihnen allen.
 
 Seine kleine und
 große Pilgerfahrt:
-Seine Manieren,
-Aḷḷāhs Segen und
-Frieden auf ihm:
-Die Wichtigkeit,
-seine Biografie zu
-lernen:
 Der Prophet verrichtete viermal die kleine Pilgerfahrt (‛umra), alle
 im elften Monat (ḏu l-qi‛da) und einmal die große Pilgerfahrt
 (ḥağğ), die als die Abschiedspilgerfahrt genannt wird, da sie im
 zehnten Jahr nach der Auswanderung nach Medina (seinem
 Todesjahr) stattfand.
+Seine Manieren,
+Aḷḷāhs Segen und
+Frieden auf ihm:
 Aḷḷāh, erhaben sei Er, sagt: „Und du bist wahrlich von großartiger
 Wesensart“ (68:4). Und die Mutter der Gläubigen ‛Āiša, Aḷḷāhs
 Wohlgefallen an ihr, sagte: „Seine Manieren waren der Qurʼān
-(d.h. dem Qurʼān entsprechend“
-.
+(d.h. dem Qurʼān entsprechend“.
+Die Wichtigkeit,
+seine Biografie zu
+lernen:
 Scheich Ibn al-Qayym, möge Aḷḷāh Sich seiner erbarmen, sagte:
 «Wenn das Glück des Menschen im Diesseits und im Jenseits von
 der Rechtleitung des Propheten, Aḷḷāhs Segen und Frieden auf ihm,
@@ -1817,7 +1792,7 @@ jenen aus, den Er will, und Aḷḷāḥ ist Besitzer der großen Huld».
 ## Erläuterung der dritten Lektion
 
 Die dritte Lektion
-Die Säulen des Glaubens sind sechs, nämlich, dass man an Aḷḷāh, Seine Engel, Bücher,
+Die Säulen des Glaubens sind sechs, nämlich, dass man an A ḷḷāh, Seine Engel, Bücher,
 Gesandten und an den Tag des Jungen Gerichts glaubt sowie daran, dass das Schicksal, sei es
 gut oder böse, von Aḷḷāḥ, erhaben sei Er, ist.
 Die Definition des Glaubens im islamischen Recht
@@ -1836,8 +1811,7 @@ höchste
 Glaubens) ist das
 Bekenntnis, dass
 es keinen Gott
-außer Aḷḷāh gibt“
-.
+außer Aḷḷāh gibt“.
 Als Beleg für die
 Umsetzung des
 Glaubens mit den
@@ -1861,8 +1835,7 @@ Segen und Frieden
 auf ihm, ihn: „Und
 die Scham ist ein
 Bestandteil des
-Glaubens“
-.
+Glaubens“.
 Dass der Glauben
 sich vermehrt, das
 beweist der
@@ -1889,7 +1862,7 @@ Verstand des
 Mannes zu rauben,
 außer bei einer von
 euch (Frauen)“4
-4 Übersetzung nach islamfatwa.de. Der Hadith geht so weiter: „Sie sagten: „Und was für einen Mangel an
+4  Übersetzung nach islamfatwa.de. Der Hadith geht so weiter: „Sie sagten: „Und was für einen Mangel an
 Verstand und Religion haben wir, o Gesandter Allahs?“ Er antwortete: „Entspricht nicht das Zeugnis einer
 Frau der Hälfte des Zeugnisses des Mannes?“ Sie sagten: „Doch.“ Er sagte: „Das ist der Mangel ihres
 Verstandes. Wenn sie ihre Menstruation hat, enthält sie sich nicht des Betens und Fastens?“ Sie antworteten:
@@ -1999,6 +1972,8 @@ der Fiṭra geboren,
 und seine Eltern
 machen dann aus ihm
 entweder einen Juden,
+einen Christen oder
+einen Feueranbeter.“
 Der Glauben den
 islamischen Quellen
 nach:
@@ -2010,16 +1985,13 @@ Vers im Qurʼān gibt,
 der keinen Beweis für
 die Einzigkeit Aḷḷāhs
 enthält.
-einen Christen oder
-einen Feueranbeter.
-“
 Die zweite Säule: Der Glauben an die Engel
 Die Engel gehören zu einer uns verborgenen Welt. Aḷḷāh hat sie aus Licht erschaffen; sie folgen Aḷḷāhs
 Geboten und widersetzen sich Ihm nie. Sie haben Seelen bzw. Geister „Und Wir gaben ʽIsa, dem Sohn
 Maryams, die klaren Beweise und stärkten ihn mit dem Heiligen Geist“ (2:87), Körper „Der die Engel
 zu Gesandten gemacht hat mit Flügeln, (je) zwei, drei und vier! Er fügt der Schöpfung hinzu, was Er
 will“ (35:1), Verstand und Herzen „Wenn dann der Schrecken von ihren Herzen genommen ist, sagen
-sie: „Was hat euer Herr gesagt?“ (34:23). Wir glauben an sie und an ihre Namen, die Aḷḷāh uns
+sie: „Was hat euer Herr gesagt?“ (34:23). Wir glauben an sie und an ihre Namen, die A ḷḷāh uns
 mitgeteilt hat, wie Ğibrīl, Mikāʼīl und Isrāfīl sowie an ihre Eigenschaften „die sich Aḷḷāh nicht
 widersetzen in dem, was Er ihnen befiehlt, sondern tun, was ihnen befohlen wird“ (66:6) und sie erfüllen
 auch Tätigkeiten.
@@ -2043,7 +2015,7 @@ sie gesandt, ihnen Schriften offenbart und sie mit Zeichen unterstützt hat. Sie
 Aufgaben erfüllt, ihre Gemeinschaften belehrt, ihre Botschaften ausgerichtet und sich bestens auf Aḷḷāhs
 Weg bemüht.
 Wir glauben an sie und an ihre Namen, Eigenschaften und Nachrichten im Ganzen und im Einzelnen,
-die Aḷḷāh uns mitgeteilt hat. Wir glauben auch daran, dass Ādam der erste Prophet, Nūḥ der erste
+die Aḷḷāh uns mitgeteilt hat. Wir glauben auch daran, dass Ādam der erste Prophet, Nū ḥ der erste
 Gesandte und dass unser Prophet Moḥammed, Aḷḷāhs Segen und Frieden auf ihnen allen, der letzte
 Prophet und Gesandte ist. Weiterhin glauben wir daran, dass alle vorigen Religionen durch den Islam
 abrogiert worden sind, und dass die Gesandten mit fester Entschlossenheit fünf waren, die in den Suren
@@ -2084,8 +2056,7 @@ nichts Verborgenes im
 Himmel und auf der
 Erde, das nicht in
 einem deutlichen Buch
-(verzeichnet) wäre.
-“
+(verzeichnet) wäre.“
 (27:75).
 Der Willen
 Der Glauben daran,
@@ -2167,12 +2138,10 @@ oder in den Sprüchen des Propheten als solche bezeichnet wird, wie die Augendie
 manchen Taten oder das Schwören bei etwas Anderem als Aḷḷāh oder auch der Ausdruck: „Was
 Aḷḷāh und was eine andere Person will“ und Ähnliches.
 Das beweist der Spruch des Propheten, Aḷḷāhs Segen und Frieden auf ihm: „Was ich am
-meisten für euch fürchte, ist der kleine širk (Beigesellung)“
-. Als er danach gefragt wurde,
+meisten für euch fürchte, ist der kleine širk (Beigesellung)“. Als er danach gefragt wurde,
 sagte er: „ar-riyāʼ (Augendienerei)“, berichtet von Maḥmūd Ibn Lubayd.
 Ebenso sagte der Prophpet, Aḷḷāhs Segen und Frieden auf ihm: „Wer bei etwas anderem außer
-bei Aḷḷāh schwört, der hat Aḷḷāh jemanden beigesellt“
-.
+bei Aḷḷāh schwört, der hat Aḷḷāh jemanden beigesellt“.
 Weiterhin sagte der Prophet, Aḷḷāhs Segen und Frieden auf ihm: „Sagt nicht, was Aḷḷāh und
 jemand woltle, sondern sagt: Was Aḷḷāh wollte und was daraufhin jemand wollte“, überliefert
 von Abū Daūd mit einer ununterbrochenen Überlieferungskette, berichtet von Ḥuḏayfa Ibn al-
@@ -2181,7 +2150,7 @@ Dieser Typ der Beigesellung bedeutet nicht, dass sein Urheber vom Glauben abgefa
 noch dass er im Höllenfeuer verewigt wird. Allerdings widerspricht die kleine Beigesellung
 dem erforderten, vollkommenen Glauben an die Einzigkeit Aḷḷāhs.
 
-Was den dritten Typ der Beigesellung betrifft, so ist sie die verborgene Beigesellung (širk
+Was den dritten Typ der Beigesellung betrifft, so ist sie die verborgene Beigesellung  (širk
 ḫafyy), auf die folgender Spruch des Propheten, Aḷḷāhs Segen und Frieden auf ihm, hinweist:
 „Soll ich euch nicht über das informieren, was ich für euch mehr fürchte als al-Masīḫ ad-
 Dajjal (den falschen Messias)?“ Wir (die Gefährten) sagten „Ja“! Er sagte: „Es ist die
@@ -2217,6 +2186,15 @@ Lossagung vom Täter, die Bezeichnung
 dessen als einen Ungläubigen oder
 Götzenanbeter, oder wenn der mit einem
 der hässlichsten Tiere verglichen wird...
+Die kleinen
+Sünden:
+Sie umfassen jede
+im islamischen
+Recht als verboten
+geltende Tat, so
+lange dafür keine
+bestimmte Strafe
+vorgesehen ist.
 Die großen Sünden:
 Ihre Anzahl:
 ist unbestimmt,
@@ -2246,19 +2224,9 @@ sagte: „Soll ich
 euch nicht von der
 größten aller
 großen Sünden
-benachrichtigen...“
-,
+benachrichtigen...“,
 überliefert von
 Buḫārī und Muslim.
-Die kleinen
-Sünden:
-Sie umfassen jede
-im islamischen
-Recht als verboten
-geltende Tat, so
-lange dafür keine
-bestimmte Strafe
-vorgesehen ist.
 Urteil dagegen:
 Man muss sie
 bereuen und Aḷḷāh
@@ -2277,47 +2245,46 @@ einem anderen
 Hadith heißt es:
 „Wenn die großen
 Sünden vermieden
-werden...“
-,
+werden...“,
 überliefert von
 Muslim.
 
 Die Unterschiede zwischen der großen und der kleinen Beigesellung
-Die große Beigesellung 1. Der Täter derer ist vom Glauben abgefallen. 2. Alle anderen Taten werden somit hinfällig. 3. Sie erfordert die Verewigung im Höllenfeuer. 4. Aufgrund derer kann der Herrscher den Täter
+Die große Beigesellung Die kleine Beigesellung:
+1.  Der Täter derer ist vom Glauben abgefallen. 1. Der Täter derer ist vom Glauben nicht abfallen.
+2.  Alle anderen Taten werden somit hinfällig. 2. Nicht alle anderen Taten werden somit
+hinfällig, sondern nur jene Tat, die damit
+bezeichnet wird.
+3.  Sie erfordert die Verewigung im Höllenfeuer. 3. Sie erfordert nicht die Verewigung im
+Höllenfeuer.
+4. Aufgrund derer kann der Herrscher den Täter
 als vogelfrei und sein Vermögen als erlaubt
 erklären,
-5. und zwar, wenn es genug Beweise dafür zur
+4. Aufgrund derer darf der Herrscher weder den
+Täter als vogelfrei noch sein Vermögen als
+erlaubt erklären,
+5.  und zwar, wenn es genug Beweise dafür zur
 Verfügung stehen.
-6. Eine Tat gilt als große Beigesellung, wenn der
+5. so lange Beweise dafür zur Verfügung stehen,
+dass es nur um kleine Beigesellung geht.
+6.  Eine Tat gilt als große Beigesellung, wenn der
 Täter daran glaubt, dass ein bestimmtes Mittel
 geheimnisvolle Macht über die Welt besitzt.
+6. Es gilt als kleine Beigesellung, wenn jemand
+ein bestimmtes Mittel als Ursache für ein
+Schicksal hält, ohne dass Aḷḷāh dies erwähnt
+hat.
 7. Dem Menschen wird nicht vergeben, wenn er
 bei dieser Einstellung stirbt.
+7. Alle Mittel, die zur großen Beigesellung führen
+(könnten), gelten als kleine Beigesellung.
 8. Wenn er Aḷḷāh um Vergebung dafür bittet,
 vergibt Aḷḷāh ihm, außer an zwei Stellen: Wenn
 die Sonne (als Vorzeichen des Jungen
 Gerichts) vom Westen aufgeht und beim
 Todesrasseln (beim Tod).
-Die kleine Beigesellung:
-1. Der Täter derer ist vom Glauben nicht abfallen.
-2. Nicht alle anderen Taten werden somit
-hinfällig, sondern nur jene Tat, die damit
-bezeichnet wird.
-3. Sie erfordert nicht die Verewigung im
-Höllenfeuer.
-4. Aufgrund derer darf der Herrscher weder den
-Täter als vogelfrei noch sein Vermögen als
-erlaubt erklären,
-5. so lange Beweise dafür zur Verfügung stehen,
-dass es nur um kleine Beigesellung geht.
-6. Es gilt als kleine Beigesellung, wenn jemand
-ein bestimmtes Mittel als Ursache für ein
-Schicksal hält, ohne dass Aḷḷāh dies erwähnt
-hat.
-7. Alle Mittel, die zur großen Beigesellung führen
-(könnten), gelten als kleine Beigesellung.
 8. Alles, was das islamische Recht als
-Beigesellung (širk) oder Unglauben (kufr)
+Beigesellung (širk) oder Unglauben ( kufr)
 bezeichnet, gilt als eine kleine, so lange es nicht
 in Verbindung mit dem bestimmten Artikel „al“
 vorkommt, außer dafür Beweise vorliegen, dass
@@ -2350,7 +2317,7 @@ Das trifft auf für jeden Muslim zu.
 
 Fragen zum Glauben an die Einzigkeit Aḷḷāhs
 1. Wie viele Stufen hat die Religion?  drei.  zwei.  fünf.
-2. Wie viele Säulen hat der Islam?  fünf.  sechs.  sieben.
+2. Wie viele Säulen hat der Islam?   fünf.  sechs.  sieben.
 3. Der Islam ist eine höhere Stufe als der Glauben. (richtig – falsch).
 4. Wie viele Säulen hat das Glaubensbekenntnis?
  sieben.  acht.  zwei.
@@ -2366,32 +2333,32 @@ nicht angenommen haben, ungläubig sind, dann gilt dieser Mensch selbst als:
  wenn die Gewissheit in seinem Herzen größer als der Zweifel ist, dann gilt er nicht als
 ungläubig.
 8. Die Annahme gilt als eine Bedingung des Glaubensbekenntnisses; damit ist gemeint:
- das verbale Bekennen.  die Umsetzung.
- den Glauben.  alle vorigen Aspekte.
+ das verbale Bekennen.    die Umsetzung.
+ den Glauben.     alle vorigen Aspekte.
 9. Die Heuchelei in dem Glaubensbekenntnis ist gleichzusetzen mit der Augendienerei beim
 Bezahlen von Almosen; beide gelten als kleine Beigesellung. (richtig – falsch).
 
 10. Wer lediglich mit Worten bekennt, dass es keinen Gott gibt außer Aḷḷāh, ohne daran mit
 dem Herzen zu glauben, gilt als:
- Monotheist.  ungläubiger Muslim.
- vom Glauben abgefallen.  von schwachem Glauben.
+ Monotheist.     ungläubiger Muslim.
+ vom Glauben abgefallen.   von schwachem Glauben.
 11. Wenn man den Propheten genauso viel liebt wie die Liebe zu Aḷḷāh:
  ist man vom Glauben abgefallen.  hat eine kleine Beigesellung begangen.
  hat eine der großen Sünden begangen.
-12. Wie viele Typen hat die Liebe?  vier.  drei.  zwei.
+12. Wie viele Typen hat die Liebe?   vier.  drei.  zwei.
 13. Die Liebe um Aḷḷāhs Willen gilt sowohl der Tat, als auch dem Täter, bestimmter Zeit und
 bestimmtem Ort. (richtig – falsch).
 14. Die Liebe, die den Geliebten mit Aḷḷāh gleichsetzt, gilt als:
- kleine Beigesellung.  obligatorisch.  große Beigesellung.
+ kleine Beigesellung.   obligatorisch.   große Beigesellung.
 15. Die Liebe um Aḷḷāhs Willen gilt als:
- legitim.  obligatorisch.  große Beigesellung.
+ legitim.    obligatorisch.   große Beigesellung.
 16. Wie viele Typen hat die Dienerschaft Aḷḷāh gegenüber?
- zwei.  drei.  vier.
+ zwei.     drei.     vier.
 17. Alle Kreaturen, selbst die Ungläubigen, sind willenlos die Diener Aḷḷāhs.
 (richtig – falsch).
-18. Wenn jemand bekennt, dass es keinen Gott außer Aḷḷāh gibt, und die Taten total
+18. Wenn jemand bekennt, dass es keinen Gott außer A ḷḷāh gibt, und die Taten total
 vernachlässigt, d.h. weder zu beten noch irgendeine religiöse Pflicht zu erfüllen, dann
-würde das Glaubensbekenntnis ihn:  nutzen.  nichts nutzen.
+würde das Glaubensbekenntnis ihn:   nutzen.    nichts nutzen.
 19. „Der Diener Aḷḷāhs und Sein Gesandte“ in dem Glaubensbekenntnis bedeutet, dass der
 Prophet, Aḷḷāhs Segen und Frieden auf ihm, ein Diener ist, dem man nicht dienen darf, und
 ein Gesandte, der nicht lügt. (richtig – falsch).
@@ -2404,7 +2371,7 @@ Botschaft glauben muss... Das gilt als:
 (rubūbyya) zuschreibt, der hätte somit nicht bekannt, dass der Prophet ein Diener Aḷḷāhs
 ist. (richtig – falsch).
 22. Als höchste Eigenschaft des Propheten, Aḷḷāhs Segen und Frieden auf ihm, gilt, dass er
- Aḷḷāhs Gesandte  Sein Diener und Gesandte  das Siegel der Propheten
+ Aḷḷāhs Gesandte  Sein Diener und Gesandte   das Siegel der Propheten
 ist.
 23. «Wer im Islam eine Häresie (bidʽa) einführt, indem er sie für gut hält, der würde damit
 behaupten, dass Muḥammad, Aḷḷāhs Segen und Frieden auf ihm, die Botschaft verraten hat,
@@ -2422,44 +2389,44 @@ Propheten:  Isḥāq (Isaak), Aḷḷāhs Frieden auf ihm.
 ...................... als Propheten und Gesandten. Er gilt als Prophet des ......................., ihm
 wurde ................... offenbart.
 26. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wurde gesandt zu:
- seinem Stamm.  zu den Menschen.  zu den Menschen und den Ǧinn.
+ seinem Stamm.  zu den Menschen.   zu den Menschen und den Ǧinn.
 27. Die Nachtreise des Propheten von Mekka nach Bayt al-Maqdis (Jerusalem) wird „al-
 miʽrāǧ“ genannt. (richtig – falsch).
 28. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, wanderte aus nach:
- Taif. Abbessinien.  Medina.  allen genannten Orten.
+ Taif. Abbessinien.   Medina.  allen genannten Orten.
 29. Wie viele große Schlachten führte der Prophet, Aḷḷāhs Segen und Frieden auf ihm?
- eine.  zwei.  drei  vier.  fünf.
+ eine.  zwei.  drei   vier.  fünf.
 
 30. Wie viele Kinder hatte der Prophet, Aḷḷāhs Segen und Frieden auf ihm?
- drei.  vier.  sieben.
+ drei.   vier.  sieben.
 31. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, verrichtete die Abschiedspilgerfahrt und
 das beweist, dass er vorhin die Pilgerfahrt verrichtet hatte. (richtig – falsch).
 32. Das Erlernen der Biografie des Propheten, Aḷḷāhs Segen und Frieden auf ihm, ist:
- obligatorisch.  wünschenswert.  legitim.
+ obligatorisch.   wünschenswert.   legitim.
 33. Ergänze: Der Glauben ist den islamischen Quellen nach eine Aussage mit .........................,
 eine Überzeugung mit .......................... , eine Umsetzung mit ............................... . Der
 Glauben vermehrt sich mit .................................... und verringert sich mit
 .................................. .
 34. Wie viele Säulen hat der Glauben?
- sechs.  fünf.  vier.
+ sechs.   fünf.  vier.
 35. Der Glauben an Aḷḷāh erfordert den Glauben an andere Sachen, wie viele sind sie?
- vier.  drei.  zwei.
-36. Die Beweise für die Existenz Aḷḷāhs sind insgesamt:  vier. unzählig.
+ vier.   drei.  zwei.
+36. Die Beweise für die Existenz Aḷḷāhs sind insgesamt:  vier.  unzählig.
 37. Mikāʼīl ist jener Engel, der für den Regen zuständig ist. (richtig – falsch).
 38. Nur Menschen haben Herzen, während die Engel keine haben. (richtig – falsch).
 39. Wie viele heilige Bücher kennen wir beim Namen?
- sechs.  vier.  sieben.  viele.
+ sechs.   vier.  sieben.  viele.
 40. Aḷḷāh, erhaben sei Er, offenbarte jedem Propheten eine heilige Schrift. (richtig – falsch).
 41. Der erste Gesandte ist Ādam, Aḷḷāhs Frieden auf ihm. (richtig – falsch).
 42. Muḥammad, Aḷḷāhs Segen und Frieden auf ihm, ist ein Gesandte und kein Prophet. (richtig
 – falsch).
 
 43. Wie viel ist die Anzahl der Gesandten mit fester Entschlossenheit?
- fünf.  vier.  viele.
+ fünf.   vier.  viele.
 44. Der Glauben an den Tag des Jungen Gerichts umfasst den Glauben an alle Geschehnisse
 nach dem Tod und bis zur Auferstehung der Menschen aus ihren Gräbern. (richtig – falsch).
 45. Der Glauben an das Schicksal besteht aus mehreren Stufen; wie viele sind sie?
- vier.  fünf.  drei.
+ vier.   fünf.  drei.
 46. Weiß Aḷḷāh von den Ereignissen, bevor sie stattfinden? (Ja – Nein).
 47. Ist alles, was die Menschen tun, Aḷḷāh bekannt? (Ja – Nein).
 48. Ist alles, was die Menschen tun, von Aḷḷāh vorgeschrieben. (Ja – Nein).
@@ -2467,7 +2434,7 @@ nach dem Tod und bis zur Auferstehung der Menschen aus ihren Gräbern. (richtig 
 will. (Ja – Nein).
 50. Sind die Taten der Menschen erschaffen? (Ja – Nein).
 51. Der Glauben an die Einzigkeit Aḷḷāhs lässt sich einteilen in:
- zwei Teile.  drei Teile.  das ist unbestritten.
+ zwei Teile.  drei Teile.   das ist unbestritten.
 52. Nenne fünf Unterschiede zwischen der großen und der kleinen Beigesellung.
 a) ....................................................................................................................................... .
 b) ....................................................................................................................................... .
@@ -2477,33 +2444,28 @@ e) .............................................................................
 
 53. Nenne fünf Beispiele für jeweils die große und die kleine Beigesellung.
 Die große Beigesellung Die kleine Beigesellung
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
-................................................................................
+................................................................................ ................................................................................
+................................................................................ ................................................................................
+................................................................................ ................................................................................
+................................................................................ ................................................................................
+................................................................................ ................................................................................
 54. Die Heuchelei im Glauben gilt als kleine Beigesellung, die einen nicht vom Glauben
 abfallen lässt. (richtig – falsch).
-55. Die Wohltätigkeit umfasst:  einen Aspekt.  zwei Aspekte.
+55. Die Wohltätigkeit umfasst:  einen Aspekt.   zwei Aspekte.
 
 ## Erläuterung der sechsten Lektion
 
 Die sechste Lektion
 Die Bedingungen für die Richtigkeit des Gebets
 Die Bedingungen für die Richtigkeit des Gebets sind neun:
-1. Der Islam. 2. Der Verstand. 4. Die körperliche Reinheit. 7. Die zeitliche Fälligkeit. 5. Reinheit der Kleidung und des
-Ortes.
-8. Die Hinstellung in Richtung
-Mekkas.
-3. Die Fähigkeit, Sachen
+1.  Der Islam. 2. Der Verstand. 3. Die Fähigkeit, Sachen
 auseinander zu halten.
+4.  Die körperliche Reinheit. 5. Reinheit der Kleidung und des
+Ortes.
 6. Das Verdecken der
 Schamteile.
+7.  Die zeitliche Fälligkeit. 8. Die Hinstellung in Richtung
+Mekkas.
 9. Die Beabsichtigung.
 Die erste Bedingung: Der Islam
 Das Gegenteil davon ist der Unglauben. Wenn jemand betet, während er Aḷḷāh beschimpft oder
@@ -2613,8 +2575,7 @@ man davon ausgenommen, wenn man nicht in der Lage ist, sich der Gebetsrichtung
 zuzuwenden, unter Anderem aus Furcht vor einem Feind.
 Die neunte Bedingung: Die Absicht
 Die Absicht befindet sich im Herzen; wenn man sie aussprechen würde, dann gilt das als
-Häresie (bidʽ
-a). Hätte man diese Absicht schon einige Zeit vor dem Gebet oder hätte man
+Häresie (bidʽa). Hätte man diese Absicht schon einige Zeit vor dem Gebet oder hätte man
 beabsichtigt, das fällige Gebet zu verrichten, dann ist sein Gebet richtig.
 Wichtige Hinseise:
 1. Beim Fehlen einer Bedingung wird das Gebet nicht akzeptiert, und zwar egal, ob man
@@ -2631,26 +2592,26 @@ Die Bestandteile des Gebets
 Die Bestandteile des Gebets sind vierzehn:
 1. Die Hinstellung, wenn man dazu
 fähig ist.
-3. Die Rezitation von Sure al-Fātiḥa (1:
-Die Eröffnung).
-5. Die Aufrichtung nach der
-Verbeugung.
-7. Die Aufrichtung nach der
-Niederwerfung.
-9. Die Zuversicht in allen Taten. 11. Die letzte Bezeugung (tašahhud). 13. Die Rezitation der Eulogie für den
-Propheten, Aḷḷāhs Segen und Frieden
-auf ihm.
 2. Die Aussprache der Formel „Aḷḷāhu
 akbar“ (Gott ist groß) zum Eintritt in
 den Weihezustand (iḥrām).
+3. Die Rezitation von Sure al-Fātiḥa (1:
+Die Eröffnung).
 4. Die Verbeugung (rukūʽ).
+5. Die Aufrichtung nach der
+Verbeugung.
 6. Sich auf die sieben Körperteile
 niederwerfen (suğūd).
+7. Die Aufrichtung nach der
+Niederwerfung.
 8. Das Sitzen zwischen den beiden
 Niederwerfungen.
-10. Die Reihenfolge aller Bestandteile.
-12. Das Sitzen zur Rezitation der Formel
+9. Die Zuversicht in allen Taten. 10. Die Reihenfolge aller Bestandteile.
+11. Die letzte Bezeugung (tašahhud). 12. Das Sitzen zur Rezitation der Formel
 der Bezeugung.
+13. Die Rezitation der Eulogie für den
+Propheten, Aḷḷāhs Segen und Frieden
+auf ihm.
 14. Die beiden Grüße rechts und links.
 Der erste Bestandteil: Die Hinrichtung, wenn man dazu fähig ist
 im Pflichtgebet
@@ -2688,7 +2649,7 @@ auch nicht mit einer zusätzlichen Niederwerfung wegen Unaufmerksamkeit (suğūd
 nachholen. Vielmehr obliegt einem in diesem Fall, das fällige Gebet zu wiederholen. Was aber
 die früheren Gebete angeht, in denen man bestimmte Bestandteile ausgelassen hat, so wird das
 ihm verziehen. Denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm, hat demjenigen Gefährten,
-der nicht richtig beten konnte, nicht befohlen, all seine früheren Gebete zu wiederholen.
+der nicht richtig beten konnte, nicht befohlen, all seine  früheren Gebete zu wiederholen.
 Vielmehr befahl der Prophet ihm, nur das fällige Gebet zu wiederholen, da er dabei einen
 wesentlichen Bestantteil ausgelassen hat, nämlich die Zuversicht. Und Aḷḷāh weiß es am besten.
 
@@ -2728,43 +2689,36 @@ Die Bezeugung (tašahhud) lautet wie folgt
 „At-taḥyyātu li-llāhi wa ʼṣ-ṣalāwātu wa ʼṭ-ṭayybāt. As-salāmu ʽalaika ayyuhā ʼn-abyyu wa
 raḥmatu ʼḷḷāhi wa barakātuhu, as-salāmu ʽalainā wa ʽalā ʽibādi ʼllāhi ʼṣ-ṣāliḥīn. Ašhadu an
 lā ilāha illā Aḷḷāh waḥdahu lā šarīka lahu wa ašhadu anna Muḥammadan ʽabduhu wa
-rasūluh“
-.
+rasūluh“ .
 Diese Formel ist sinngemäß zu übersetzen als: „Alle Ehrerweisungen, Gebete und schöne Worte
 gebühren Aḷḷāh. Der Friede sei auf dir, o Prophet, die Barmherzigkeit Aḷḷāhs und Sein Segen.
 Der Friede sei auf uns und den rechtschaffenen Dienern Aḷḷāh. Ich bezeuge, dass niemand den
 Anspruch darauf hat, angebetet zu werden, außer Aḷḷāh, der keinen Partner hat, und ich
-bezeuge, dass Muḥammad Sein Diener und Gesandter ist“
-.
+bezeuge, dass Muḥammad Sein Diener und Gesandter ist“.
 Dann folgt die Eulogie, in der man Aḷḷāh darum bittet, dem Propheten Segen und Frieden zu
 schenken:
 „Aḷḷāhumma ṣalli ʽalā Muḥammadin wa ʽalā āli Muḥammadin, kamā ṣallayta ʽalā Ibrāhīm,
 wa ʽalā āli Ibrāhīm, innaka ḥamīdun mağīd. Wa bārik ʽalā Muḥammadin wa ʽalā āli
-Muḥammadin, kamā bārakta ʽalā Ibrāhīm wa ʽalā āli Ibrāhīm, innaka ḥamīdun mağīd“
-.
+Muḥammadin, kamā bārakta ʽalā Ibrāhīm wa ʽalā āli Ibrāhīm, innaka ḥamīdun mağīd“.
 Diese Formel bedeutet etwa:
 „O Aḷḷāh schenke Muḥammad und seiner Familie Frieden, wie Du Ibrāhīm und der Familie
 von Ibrāhīm Frieden geschenkt hat. Du bist der Lobenswerte, der Ruhmreiche. Und schenke
 Muḥammad und seiner Familie Segen, wie Du Ibrāhīm und der Familie von Ibrāhīm Segen
-geschenkt hat. Du bist der Lobenswerte, der Ruhmreiche“
-.
-Wenn es die letzte Bezeugung (vor Abschluss des Gebets) ist, dann sollte man Aḷḷāh um
+geschenkt hat. Du bist der Lobenswerte, der Ruhmreiche“.
+Wenn es die letzte Bezeugung (vor Abschluss des Gebets) ist, dann sollte man A ḷḷāh um
 Zuflucht vor dem Höllenfeuer, der Qual im Grab, der Prüfung am Leben und nach dem Tod
 und vor der Prüfung des falschen Messias fragen (Aḷḷāhumma innī aʽūḏu bika min ʽaḏābi
 ğahannam wa min ʽaḏābi ʼl-qabr wa min fitnati ʼl-maḥyā wa min fitnati ʼl-mamāti wa min
 fitnati ʼl-masīḫi ʼd-dağğāl). Daraufhin sollte man sich Aḷḷāh mit einem Bittgebet zuwenden,
 vor allem mit einem der überlieferten Bittgebete, wie: „Aḷḷāhumma aʽinnī ʽalā ḏikrika wa
 šukrika wa ḥusni ʽibādatik. Aḷḷāhumma innī ẓalamtu nafsī ẓulmān kaṯīran fa-ʼġfir lī
-maġfiratan min ʽindik, wa ʼrḥamnī, ʼinnaka ʼanta ʼl-ġafūru ʼr-Raḥīm“
-.
+maġfiratan min ʽindik, wa ʼrḥamnī, ʼinnaka ʼanta ʼl-ġafūru ʼr-Raḥīm“.
 Das heißt etwa: „O Aḷḷāh, hilf mir Deiner zu gedenken, Dir zu danken und bestens zu dienen. O
 Aḷḷāh, ich habe mir selbst viel Unrecht getan, so vergib mir und erbarme Dich meiner. Du bist
-der Vergebende, der Barmherzige“
-.
+der Vergebende, der Barmherzige“.
 Was aber der ersten Bezeugung angeht, so richtet man sich nach dem Glaubensbekenntnis hin,
-um den dritten Gebetsabschnitt (rakʽa) zu verrichten, und zwar in dem Mittags- (ẓuhr),
-Nachmittags (ʽ
-aṣr), Abend- (maġrib) und Nachtgebet (ʽišāʼ). Würde man danach noch eine
+um den dritten Gebetsabschnitt (rakʽa) zu verrichten, und zwar in dem Mittags - (ẓuhr),
+Nachmittags (ʽaṣr), Abend- (maġrib) und Nachtgebet (ʽišāʼ). Würde man danach noch eine
 Eulogie für den Propheten aussprechen, so wäre es besser, da viele Sprüche des Propheten
 darauf hinweisen.
 
@@ -2806,13 +2760,10 @@ soll man den Finger während des Bittgebets bewegen.
 Ibrāhīm und seine Familie (auch) im Anschluss der ersten Bezeugung (tašahhud)
 auszusprechen.
 13. Ein Bittgebet nach der letzten Bezeugung aussprechen.
-14. Dass man den Qur ā
-ʼ n in dem Morgen-, dem Freitags-
-, dem Festgebet und dem
+14. Dass man den Qurāʼn in dem Morgen-, dem Freitags-, dem Festgebet und dem
 Regengebet sowie in den ersten beiden Abschnitten des Abend- und Nachtgebets laut
 rezitiert.
-15. Dass man den Qur ā
-ʼ n in dem Mittags- und Nachmittagsgebet sowie in dem dritten
+15. Dass man den Qurāʼn in dem Mittags- und Nachmittagsgebet sowie in dem dritten
 Abschnitt des Abendgebets und in den letzten zwei des Nachtgebets leise rezitiert.
 16. Dass man mehr Suren als al-Fātiḥa rezitiert.
 Dabei soll man den Rest aller weiteren überlieferten Bestandteile des Gebets berücksichtigen.
@@ -2828,8 +2779,7 @@ so, wie Du zwischen dem Osten und dem Westen distanziert hast. O Aḷḷāh, rei
 meinen Sünden, wie ein weißes Kleid von Unreinheit gereinigt wird. O Aḷḷāh, wasch mich von
 meinen Sünden mit Wasser, Schnee und Hagel“, oder auch „Gepriesen seist Du Aḷḷāh und lob
 sei Dir. Möge Dein Name gesegnet und Deine Allmacht erhaben sein; und es gibt keinen Gott
-außer Dir“
-.
+außer Dir“.
 
 ## Erläuterung der elften Lektion
 
@@ -3022,12 +2972,9 @@ rechts und links zu drehen.
 • Es ist wünschenswert, das Eröffnungsbittgebet nur zu Anfang des ersten
 Gebetsabschnitts auszusprechen; man sollte dabei immer wieder eines der
 verschiedenen überlieferten Bittgebete auswählen.
-• Dann sollte man eine der überlieferten Formel aussprechen, mit denen Aḷḷāh um
-Zuflucht bittet, wie: „Aʽuḏū bi-
-ʼllāhi mina ʼš-šayṭāni ʼr-rağīm“
-„Ich bitte Aḷḷāh um
-Zuflucht vor dem gesteinigten Satan“
-.
+• Dann sollte man eine der überlieferten Formel aussprechen, mit denen A ḷḷāh um
+Zuflucht bittet, wie: „Aʽuḏū bi-ʼllāhi mina ʼš-šayṭāni ʼr-rağīm“ „Ich bitte Aḷḷāh um
+Zuflucht vor dem gesteinigten Satan“.
 • Daraufhin fängt man mit dem Namen Aḷḷāhs an, indem man sagt: „Bismi-ʼllāḥi ʼr-
 Raḥmāni ʼr-Raḥīm“ (Im Namen Aḷḷāhs des Erbarmers des Barmherzigen).
 • Dann rezitiert man Sure al-Fātiḥa, und zwar in der richtigen Reihenfolge und mit all den
@@ -3080,7 +3027,7 @@ dem ersten. Allerdings braucht man hier weder die Eröffnungsformel „Aḷḷā
 Eröffnungsbittgebet.
 • Wenn man mit der zweiten Niederwerfung fertig ist, dann setzt man sich hin, um die
 Bezeugung (tašahhud) auszusprechen.
-• Dabei zeigt man mit dem Zeigefinger und bewegt ihn bittend, während man den
+• Dabei zeigt man mit dem Zeigefinger und bewegt ihn bit tend, während man den
 Mittelfinger und den Daumen zusammenzieht und die obgligarorische Formel der
 Bezeugung ausspricht.
 Wäre das ein Gebet aus nur zwei Gebetsabschnitten, dann muss man daraufhin die volle Eulogie
@@ -3090,8 +3037,7 @@ fragen (Aḷḷāhumma innī aʽūḏu bika min ʽaḏābi ğahannam wa min ʽa�
 fitnati ʼl-maḥyā wa min fitnati ʼl-mamāti wa min fitnati ʼl-masīḫi ʼd-dağğāl). Daraufhin sollte
 man sich Aḷḷāh mit einem Bittgebet zuwenden, vor allem mit einem der überlieferten
 Bittgebete, wie: „Aḷḷāhumma aʽinnī ʽalā ḏikrika wa šukrika wa ḥusni ʽibādatik.“. Das heißt
-etwa: „O Aḷḷāh, hilf mir Deiner zu gedenken, Dir zu danken und bestens zu dienen.“
-.
+etwa: „O Aḷḷāh, hilf mir Deiner zu gedenken, Dir zu danken und bestens zu dienen.“.
 
 Man soll rechts und links grüßen, indem man nur den Kopf und nicht die Schulter dreht,
 und ohne weder zu nicken noch mit der Hand zu winken.
@@ -3100,7 +3046,7 @@ und ohne weder zu nicken noch mit der Hand zu winken.
 nachdem man die erste Bezeugung ausgesprochen hat. Dabei ist es wünschenswert,
 auch danach die Eulogie auszusprechen.
 • Man spricht beim Aufstehen die Formel „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte) aus und
-verrichtet den dritten Abschnitt, dann setzt man sich hin, um die letzte Bezeugung
+verrichtet den dritten Abschnitt, dann setzt man sich hin, um die  letzte Bezeugung
 (tašahhud) auszusprechen, wenn das Gebet aus drei Abschnitten besteht. Wenn es
 jedoch aus vier Gebetsabschnitten bestünde, dann verrichtet man noch den vierten
 Abschnitt und setzt sich im Anschluss darauf wieder hin, um die letzte Bezeugung
@@ -3112,8 +3058,7 @@ Tod und vor der Prüfung des falschen Messias (Aḷḷāhumma innī aʽūḏu bi
 wa min fitnati ʼl-masīḫi ʼd-dağğāl). Daraufhin sollte man sich Aḷḷāh nach Belieben mit
 einem Bittgebet zuwenden, vor allem mit einem der überlieferten Bittgebete, wie:
 „Aḷḷāhumma aʽinnī ʽalā ḏikrika wa šukrika wa ḥusni ʽibādatik.“. Das heißt etwa: „O
-Aḷḷāh, hilf mir Deiner zu gedenken, Dir zu danken und bestens zu dienen“
-.
+Aḷḷāh, hilf mir Deiner zu gedenken, Dir zu danken und bestens zu dienen“.
 • Wäre es ein Pflichtgebet, dann wäre es wünschenswert, Aḷḷāh gemäß der
 Überlieferungen des Propheten, Aḷḷāhs Segen und Frieden auf ihm, zu gedenken.
 Darunter:
@@ -3136,8 +3081,7 @@ der Erde ist. Wer ist es denn, der bei Ihm Fürsprache einlegen könnte - außer
 mit Seiner Erlaubnis? Er weiß, was vor ihnen und was hinter ihnen liegt, sie
 aber umfassen nichts von Seinem Wissen - außer, was Er will. Sein
 Thronschemel umfasst die Himmel und die Erde, und ihre Behütung beschwert
-Ihn nicht. Er ist der Erhabene und Allgewaltige.
-“ (2:255), Sure al-Iḫlāṣ (112:
+Ihn nicht. Er ist der Erhabene und Allgewaltige.“ (2:255), Sure al-Iḫlāṣ (112:
 Die Aufrichtigkeit), Sure al-Falaq (113: Der Tagesanbruch) und Sure an-Nās
 (114: Die Menschen).
 
@@ -3150,9 +3094,12 @@ parallel zu ihm stellen. Mit anderen Worten darf man dem Imam weder voranschreit
 noch nachstehen. Dasselbe gilt für andere Mitbetende.
 
 Zusammenfassung der Gebete
-Name Typ Zeit
+Name
+Typ
+Zeit
 Anzahl der
-Gebetsabschnitte Beschreibung dessen
+Gebetsabschnitte
+Beschreibung dessen
 Freitagsgebet Pflicht Zur Zeit des
 Mittagsgebets
 zwei Gebets-
@@ -3213,7 +3160,7 @@ Gebet ab.
 zwei Gebetsabschnitten, dann
 verrichtet man ein Gebet aus einem
 einzigen Abschnitt.
-5 D.h. muss nicht von allen verrichtet werden, arab. farḍ kifāya; das Gegenteil ist die individuelle Pflicht, arab. farḍ ʽain.
+5  D.h. muss nicht von allen verrichtet werden, arab. farḍ kifāya; das Gegenteil ist die individuelle Pflicht, arab. farḍ ʽain.
 Anmerkung der Übersetzerin.
 
 Das regelmäßig
@@ -3234,7 +3181,7 @@ zwei
 Gebetsabschnitte
 Man sollte in dem ersten
 Gebetsabschnitt Sure al-Kāfirūn
-(109: Die Ungläubigen) und in
+(109: Die Ungläubigen)  und in
 dem zweiten Sure al-Iḫlāṣ (112:
 Die Aufrichtigkeit) rezitieren.
 Das freiwillige
@@ -3262,7 +3209,7 @@ zwei
 Gebetsabschnitte
 Man sollte in dem ersten
 Gebetsabschnitt Sure al-Kāfirūn
-(109: Die Ungläubigen) und in
+(109: Die Ungläubigen)  und in
 dem zweiten Sure al-Iḫlāṣ (112:
 Die Aufrichtigkeit) rezitieren.
 Das freiwillige
@@ -3276,7 +3223,7 @@ Nachtgebet.
 zwei
 Gebetsabschnitte
 Das freiwillige
-Nachtgebet im
+Nachtgebet  im
 Ramaḍān
 (at-tarāwīḥ)
 Überliefert
@@ -3396,7 +3343,7 @@ Viertelstunde davor.
 
 Fragen zum Gebet
 1. Wie viele Bedingungen hat das Gebet?
-Neun. Elf. Acht.
+Neun. Elf.  Acht.
 2. Die Bedingung des Islams ist keine Bedingung des Gebets, denn niemand betet außer den
 Muslimen. (richtig – falsch).
 3. Die Fähigkeit zu unterscheiden bedeutet, heiratsreif zu sein. (richtig – falsch).
@@ -3405,7 +3352,7 @@ Kleidung. (richtig – falsch).
 5. Die Unreinheit des Schweins ist:
 eine große Unreinheit. eine mittelmäßige Unreinheit.
 6. Das Sperma ist unrein, da man sich nach dessen Ausfluss waschen muss. (richtig – falsch).
-7. Es gibt keinen Unterschied zwischen dem Besprühen und dem Waschen. (richtig – falsch).
+7.  Es gibt keinen Unterschied zwischen dem Besprühen und dem Waschen. (richtig – falsch).
 8. Alle Leichen sind unrein. (richtig – falsch).
 9. Die Unreinheit von Hunden kann mit anderen Mitteln außer mit Staub beseitigt werden.
 Moderne Reinigungsmittel reichen aus. (richtig – falsch).
@@ -3414,3 +3361,1933 @@ die Katze für einige Menschen rein und für die anderen unrein sein. (richtig �
 11. „Mit Tieren, die kein fließendes Blut haben“ ist gemeint, dass solche Tiere keine Seele
 haben. (richtig – falsch).
 12. Das in den Adern verbleibende Blut ist:  unrein.  rein.
+
+13. Wie viele sind die Bestandteile des Gebets:  vierzehn.  neun.  acht.
+14. Die Eröffnungsformel beschränkt sich darauf, die beiden Hände hochzuheben. (richtig –
+falsch).
+15. Wenn jemand einen Bestandteil des Gebets aus Unaufmerksamkeit auslässt, dann muss
+man nur eine zusätzliche Niederwerfung (suğūd as-sahw) verrichten. (richtig – falsch).
+16. Wie viele sind die Pflichten des Gebets?  acht.  vierzehn.    neun.
+17. Wenn jemand in seiner Niederwerfung Aḷḷāh preist, indem er nur sagt: „Subūḥ qudūs,
+rabbu ʼl-malāʼikati wa ʼr-rūḥ“ (Gepriesen sei Er, der Heilige, Herr der Engel und des
+Geistes), während er weiß, dass er mindestens einmal „Subḥāna rabbya ʼl-aʽlā“ sagen
+muss, dann ist sein Gebet ungültig. (richtig – falsch)
+18. Im Gebet sollte man den rechten Handteller auf die linken Handrücken, Handgelenk und
+Arm legen. (richtig – falsch).
+19. Die hörbare Rezitation des Qurʼāns gilt  in den ersten beiden Abschnitten in allen
+Pflichtgebeten, wenn das Gebet am Abend bzw. in der Nacht (im Dunkeln) verrichtet wird,
+sowie in jedem Gemeinschaftsgebet, wie das Festgebet. (richtig – falsch).
+20. Wie viele Gründe machen das Gebet ungültig?  acht.  neun.  vierzehn.
+21. Das Sitzen auf dem Gesäß, während man den linken Fuß unter den rechten legt und den
+rechten senkrencht stellt, gilt nur in der Rezitation:
+der ersten Bezeugung.  der letzten Bezeugung. der beiden Bezeugungen.
+22. Die Hinzufügung von dem Ausdruck „wa ʼ-š-šukr“ (und der Dank) in dem Ausdruck:
+„Rabbanā wa laka ʼl-ḥamdu wa ʼ-š-šukr“ (O Gott, dir sei die Lobpreisung und der Dank)
+gilt als:
+ erlaubt.   erwünscht.   verboten.
+23. Der Ausdruck „Rabbi ʼġfir lī wa li-wālidayya“ (Gott vergib mir und meinen Eltern)
+zwischen den beiden Niederwerfungen gilt als:
+ erlaubt.   verboten.   unerwünscht.
+
+24. Dass man die beiden Ellbogen auf den Bogen während der Niederwerfung liegt, gilt als:
+ verboten.   erwünscht.   unerwünscht.
+25. Aus wie vielen Gründen soll man die zusätzliche Niederwerfung aus Unaufmerksamkeit
+(suğūd as-sahw) verrichten?
+ zwei.   drei.   vier.
+26. Der Zweifel an einer Tat, nachdem man sie verrichtet hat, hat keinen Einfluss, denn so
+vermehren sich die Zweifel. (richtig – falsch).
+27. Das bestätigte freiwillige Morgengebet hat gegenüber den anderen freiwilligen Gebeten nur
+folgende Vorteile: die reichliche Belohnung dafür, die Einfachheit dessen, die besondere
+Rezitation, die Möglichkeit, es selbst auf Reisen regelmäßig zu verrichten, und, dass man
+sich danach zu Hause ausruhen kann. (richtig – falsch).
+28. Erläutere das Urteil hinsichtlich der folgenden Fragen:
+Die Frage Das Urteil
+Das Gebet dessen, der die Religion
+beschimpft.
+Das Gebet des Betrunkenen.
+Das Gebet des Alzheimer-Kranken.
+Das Gebet des Kindes.
+Dass man aus Vergessenheit, das Gebet ohne
+rituelle Gebetswaschung (wuḍūʼ) verrichtet.
+Dass man aus Vergessenheit, das Gebet in
+unreiner Kleidung verrichtet.
+Der Urin von Kühen.
+Der Urin von Raben.
+Dass man mit nackten Oberschenkeln betet.
+Dass man aus Vergessenheit das Gebet
+verrichtet, bevor es fällig wird.
+Das Gebet im Flugzeug.
+
+Dass man die Absicht fasst, das fällige
+Gebet zu verrichten.
+Dass man das Gebet sitzend verrichtet.
+Dass man Sure al-Fātiḥa (1: Die Eröffnung)
+vergisst.
+Dass man sich das Gemeinschaftsgebet
+anschließt, während der Imam sich verbeugt.
+Dass man sich im Gebet beeilt.
+Dass man sich viel zweifelt, vor allem
+nachdem man mit dem Gebet fertig ist.
+Dass man sich nach dem Beitreten des
+Weihzustandes an seiner rituellen
+Gebetswaschung (wuḍūʼ) zweifelt.
+Dass man aus Vergessenheit sich zusätzlich
+verbeugt.
+Dass man die Eröffnungsformel „Aḷḷāhu
+akbar“ (Aḷḷāh ist der Größte) zum Beitreten
+des Weihzustandes auslässt.
+Dass man die erste Bezeugung auslässt.
+Dass man die letzte Bezeugung auslässt.
+Dass man sich daran zweifelt, ob man drei
+oder vier Abschnitte verrichtet hat.
+Dass man sich nach dem Gebet daran
+zweifelt.
+Dass man sich während des Gebets daran
+zweifelt.
+Dass man während der zusätzlichen
+Niederwerfung aus Unaufmerksamkeit
+wieder unaufmerksam wird.
+Dass man während des Gebets aus
+Unaufmerksamkeit redet.
+Dass man mit einem entblößten Schamteil
+betet und sich dessen erst nach dem Ende
+des Gebets bewusst wird.
+Die rituelle Gebetswaschung (wuḍūʼ) zu
+Hause, bevor man sich zur Moschee begibt.
+Das Verkaufen innerhalb der Moschee.
+Der Devisenwechsel innerhalb der Moschee.
+
+Dass man sich das Gebet anschließt,
+während der Imam schon die letzte
+Bezeugung rezitiert.
+Die Verhüllung während des Gebets.
+Sich leicht drehen
+Sich oft drehen.
+Das unkonzentrierte schnelle Beten.
+Die volle Eulogie nach der Bezeugung.
+Das Reden während des Gebets.
+Die Bewegung während des Gebets.
+Dass man Sure al-Fātiḥa (1: Die Eröffnung)
+vergisst.
+Das Freitagsgebet.
+Das Witr-Gebet (das freiwillige Nachtgebet
+mit einer ungeraden Anzahl von
+Abschnitten).
+Das Gebet zur Begrüßung der Moschee.
+29. Erläutere den Unterschied zwischen der Bedingung, dem Bestandteil, der Pflicht und den
+überlieferten zusätzlichen Formeln und Haltungen im Gebet (Sunna):
+Bedingung
+Bestandteil
+Pflicht Überlieferte
+zusätzliche Formel
+
+## Erläuterung der zwölften Lektion
+
+Die Erläuterung der zwölften Lektion
+Die Bedingungen der rituellen Gebetswaschung (wuḍūʼ)
+Die rituelle Gebetswaschung (wuḍūʼ) hat zehn Bedingungen:
+1. Der Islam.
+2. Der Verstand.
+3. Die Fähigkeit zu unterscheiden.
+4. Die Absicht.
+5. Dass man die Absicht behält, dabei zu bleiben, bis die Reinheit vollendet ist.
+6. Dass der Grund für die rituelle Gebetswaschung (wuḍūʼ) zu Ende ist.
+7. Dass man die Unreinheit von sich vor der Waschung beseitigt.
+8. Dass das Wasser, mit dem man sich wäscht, rein und erlaubt ist.
+9. Dass man alles entfernt, was hindern könnte, dass das Wasser die Haut berührt.
+10. Dass das Gebet fällig geworden ist, falls man aus Gesundheitsgründen ständig unrein
+ist.
+Erläuterung einiger Bedingungen
+• Die fünfte Bedingung bedeutet, dass die Absicht vom Anfang bis zum Ende der
+Waschung fortbleiben soll.
+• Die sechste Bedingung bedeutet, dass man sich nicht waschen soll, während man
+beispielsweise noch Fleisch eines Kamelfohlens isst oder während man noch uriniert.
+Vielmehr soll man damit abwarten, bis dieser Grund zur Unreinheit zu Ende ist, bevor
+man sich wieder wäscht.
+• Was die siebte Bedingung angeht, so gilt als Ausnahme de rer, dass die Unreinheit
+wegen Luftlassen bzw. Schlaf wäre oder, weil man Fleisch eines Kamelfohlens
+gegessen hat.
+
+• Die Reinheit des Wassers, mit dem man sich wäscht, bedeutet, dass man sich weder mit
+unreinem noch verfluchtem Wasser waschen darf.
+• Was das Wasser daran hindern könnte, die Haut zu berühren, ist beispielsweise Teig
+oder Nagellack. Denn dadurch kann das Wasser nicht zu dem jeweiligen Körperteil
+gelangen.
+Die islamischen Hygienerituale
+Zu den islamischen Hygieneritualen (arab. sunan al-fiṭra) zählt folgendes:
+1. Die Beschneidung: Die ist eine Pflicht für Männer und freiwillig für Frauen, wenn es
+dafür eine Notwendigkeit besteht.
+2. – 5. Das Schneiden des Schnurrbarts und der Fingernägel, die Entfernung der
+Achsel- und Schamhaare: Anas, Aḷḷāhs Wohlgefallen an ihm, sagte: „Es wurde uns
+hinsichtlich sowohl des Schneidens des Schnurrbarts und der Fingernägel, als auch
+der Entfernung der Achsel- und Schamhaare eine Frist von Maximum vierzig Nächte
+gegeben“. Mit anderen Worten soll man diese Rituale nicht mehr als vierzig Nächte
+aufschieben.
+6. Das Wachsenlassen des Bartes: Die gilt als eine Pflicht. Das Rasieren dessen ist somit
+eine große Sünde.
+7. Die Baumbürste: Damit ist das Putzen der Zähne mit einem Ast des Zahnbürstenbaums
+(bzw. des Arākbaums) oder ähnlichem gemeint. Das gilt als ein freiwilliges Ritual, das
+der Prophet zu jeder Zeit, vor allem bei der rituellen Gebetswaschung (wuḍūʼ) bzw. vor
+dem Beten, bevor man sein Haus betritt oder den Qurʼān rezitiert, wenn man aufwacht,
+wenn man im Sterbebett liegt und wenn überhaupt der Mund schlecht riecht.
+
+## Erläuterung der dreizehnten Lektion
+
+Die dreizehnte Lektion
+Die Pflichten der rituellen Gebetswaschung (wuḍūʼ)
+Die Plichten der rituellen Gebetswaschung (wuḍūʼ) sind sechs:
+1. Das Waschen des Gesichts zusammen mit dem Waschen des Mundes und der Nase.
+2. Das Waschen der Arme bis einschließlich die Ellbogen.
+3. Das Abwischen des Kopfes zusammen mit den Ohren.
+4. Das Waschen der Füße samt den Fersen.
+5. Die Reihenfolge
+6. Die Pausenlosigkeit
+Es ist wünschenswert, das Gesicht, die Arme und Füße dreimal zu waschen. Das gilt ebenso
+für das Waschen des Mundes und der Nase. Die Pflicht beschränkt sich allerdings auf das
+Waschen (dieser Körperteile) ein einziges Mal. Was aber das Abwischen des Kopfes
+angeht, so ist es nicht erwünscht, dies mehr als einmal zu tun, wie die authentischen
+Hadithen darauf hinweisen.
+Die Pausenlosigkeit
+Diese erfolgt, indem man das Waschen des jeweiligen Körperteils nicht so lange verschiebt,
+bis der vorige trocken wird.
+
+Es sind sechs Gründe, die die rituelle Gebetswaschung (wuḍūʼ) ungültig machen lassen:
+1. Alles, was aus dem Harngang oder dem Anus kommt.
+2. Alle Unreinheiten, die aus dem Körper stammen.
+3. Die Bewusstlosigkeit durch den Schlaf oder ähnliches.
+4. Die unmittelbare Berührung der Scheide oder des Anus.
+5. Kamelfleisch essen.
+6. Das Abfallen vom Islam.
+Wichtiger Hinweis:
+Die Totenwaschung: Sie gehört zwar nicht zu den Gründen, die die rituelle Gebetswaschung
+(wuḍūʼ) ungültig machen lassen, darüber sind die meisten Gelehrten einig, da es dafür kein
+Beleg vorliegt. Allerdings, falls die Hand des Waschenden die Schamteile des Toten
+unmittelbar berührt hat, dann muss er sich für das Gebet neu waschen. Es ist eigentlich seine
+Pflicht, die Schamteile des Toten nur mittelbar zu berühren.
+Ebenso gehört es nicht zu den Gründen, die die rituelle Gebetswaschung (wuḍūʼ) ungültig
+machen lassen, dass man eine (bzw. seine) Frau berührt, egal ob man das aus Leidenschaft
+tut oder nicht. Darüber sind sich die renomierten Gelehrten einig, und zwar so lange nichts
+dabei aus dem Körper herausfließt, denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm,
+küsste einige seiner Frauen, dann betete er, ohne davor die Waschung zu wiederholen.
+Was allerdings den Ausdruck „oder ihr Frauen berührt habt“ (4:43) angeht, so ist damit
+das Geschlechtsverkehr gemeint, wie man es den Aussagen der Gelehrten entnimmt.
+Ebenso ist es die Meinung von Ibn ʽAbbās, Aḷḷāhs Wohlgefallen an ihm, sowie die Meinung
+einer Gruppe der früheren und späteren Gelehrten.
+
+Die Erläuterung einiger Gründe, warum die rituelle Gebetswaschung (wuḍūʼ) ungültig wird:
+• Mit dem ersten Grund ist alles gemeint, was aus dem Harnweg oder dem Anus
+herauskommt, wie Urin, Fäkalien, Sperma, Präejakulat, Lusttropfen, Luft, Steine, Blut,
+Würmer, Menustration oder Wochenfluss.
+• Was die Unreinheiten, die aus dem Körper stammen, betrifft, so werden sie meistens
+nicht als ein Grund für die Ungültigkeit der Waschung betrachtet, außer, wenn sie
+ähnlich wie der Urin oder die Fäkalien sind.
+• Die Bewusstlosigkeit durch den Schlaf oder ähnliches: Der Schlaf an sich ist kein Grund
+dafür, dass die Waschung ungültig wird, außer, dass man möglicherweise während des
+Schlafs Luft läßt. Wenn man aber sicher ist, dass man keine Luft gelassen hat, dann ist
+der Schlaf in diesem Fall kein Grund für die Ungültigkeit der Waschung.
+• Scheich Ibn Taymiyya sieht, dass die Waschung nach der unmittelbaren Berührung der
+Scheide oder des Anus wünschenswert und nicht obligatorisch ist.
+
+Eine Zusammenfassung der rituellen Gebetswaschung (wuḍūʼ) mit Bildern
+• Wenn man die rituelle Gebetswaschung beabsichtigt, dann soll man im Namen Aḷḷāhs,
+erhaben sei Er, anfangen.
+• Dann wäscht man seine Hände dreimal, indem man das Wasser auf seine Hände gießt.
+• Dann nimmt man eine Handvoll Wasser mit der rechten Hand, um damit seinen Mund
+zu waschen. Dabei muss man das Wasser im Mund kreisen, dann spucken. Dann soll
+man die Nase waschen, indem man das Wasser einatmet, dann schnaubt. Das soll man
+dreimal wiederholen.
+• Dann wäscht man sein Gesicht dreimal. Die Grenze des Gesichts ist längs vom normalen
+Anfang der Haare bis zum Ende des Bartes und quer von einem Ohr zum anderen.
+• Daraufhin wäscht man seine beiden Arme samt den Ellbogen dreimal, und fängt dabei
+mit dem rechten Arm an, dann wäscht man den linken.
+• Dann wischt man seinen Kopf ab, indem man ihn von vorne zum Genick, dann zurück
+abwischt.
+• Dann tut man seine beiden Zeigefinger in die Ohrmuschel und reinigt sie.
+• Zum Schluss wäscht man seine beiden Füße samt den Fersen dreimal.
+
+1. Nachdem man mit der rituellen Gebetswaschung (wuḍū) fertig wird, sollte man auch
+folgende Bezeugung aussprechen: „Ašhadu anna lā ilaha ilā Aḷḷāh, waḥdahu lā šarīka
+lah, wa anna Muḥammadan ʽabduhu wa rasūluh“ (D.h. Ich bezeuge, dass es keinen
+Gott außer Aḷḷāh gibt und dass Moḥāmmad Sein Diener und Gesandter ist). In der
+Überlieferung von at-Tirmiḏī kommt noch dazu: „Aḷḷāhumma ʼğʽalnī mina ʼt-tawābīn
+wa ʼğʽalnī mina ʼl-mutaṭahirīn“ (D.h.: O Aḷḷāh lass mich zu einem der Reumütigen
+und Reinigen sein).
+Urteil über die Hinzufügung über das vorgeschriebene Maß hinaus
+Man sollte nichts über das vorgeschriebene Maß in der rituellen Gebetswaschung (wuḍūʼ)
+hinzufügen, z.B. dass man den jeweiligen Körperteil mehr als dreimal wäscht oder dass man
+sogar den Oberarm oberhalb der Ellbogen bzw. das Bein oberhalb der Fersen wäscht oder den
+Hals abwischt.
+
+Anhang über einiges, was mit den Säulen des Islams zusammenhängt
+Erstens: Die Reinheit
+Die rituelle Trockenreinigung (tayammum)
+Diese gilt als Ersatz für die Reinigung mit Wasser, wenn man daran gehindert wird, alle oder
+einige der zu reinigenden Körperteile mit Wasser zu waschen, und zwar da es kein Wasser zur
+Verfügung steht oder aus Frucht davor, dass durch die Verwendung von Wa sser Schaden
+entsteht. In diesem Fall ersetzt der Staub das Wasser.
+Beschreibung der Trockenreinigung (tayammum):
+Man hegt die Absicht der Trockenreinigung, dann fängt man im Namen Aḷḷāhs, erhaben sei Er,
+an, dann schlägt man auf den Boden einmal, dann rei bt man sich das Gesicht und die
+Händerücken mit den beiden Händen.
+
+Es wurde nicht überliefert, dass man weder die Finger beim Schlagen des Staubs spreizt noch
+dass man beim Reiben der beiden Händerücken auch zwischen den Fingern reibt.
+Beschreibung der obligatorischen großen rituellen Waschung (ġusl):
+Man soll die Absicht zur großen rituellen Waschung und zur Entfernung der Unreinheit hegen,
+dann soll man im Namen Aḷḷāhs, erhaben sei Er, anfangen. Daraufhin soll man den ganzen
+Körper sowie die Stellen unter den leichten und schweren Haaren mit Wasser reinigen und
+dabei ebenso den Mund und die Nase waschen.
+Die nach dem Propheten überlieferte große rituelle Gebetswaschung (ġusl):
+Es ist vom Propheten, Aḷḷāhs Segen und Frieden auf ihm, überliefert, dass man mit dem
+Waschen der Schamteile (vorne und hinten) anfängt, dann sich die Hände wäscht, dann die
+rituelle Gebetswaschung (wuḍūʼ) verrichtet, dann wäscht man sich die Haare, dann die rechte
+Körperseite, dann die linke Körperseite, dann die Füße.
+Wann obliegt einem die große rituelle Körperwaschung (ġusl):
+1. Dass man unrein geworden ist: Entweder wegen der Ejakulation, mit oder ohne
+Geschlechtsverkehr, oder wenn die Schamteile der beiden Ehepartner sich berühren.
+2. Der Ausfluss von Blut während der Menstruation oder des Wochenbetts.
+3. Der Tod von jedem Menschen außer dem Märtyrer.
+4. Die Annahme des Islams.
+
+Wann darf man sich die Pantoffel abwischen (anstelle die Füße zu waschen):
+Dass man sie angezogen hat, nachdem man sich
+gereinigt hat, d.h. nachdem man sich die Füße
+während der rituellen Gebetswaschung (wuḍūʼ)
+gewaschen hat.
+Dass die Pantoffel oder die Socken sauber sind.
+Dass sie die Füße zum größten Teil bedecken. Dass dieses Abwischen zur rituellen
+Gebetswaschung (wuḍūʼ) und nicht zur großen
+rituellen Waschung (ġusl) erfolgt.
+Dass das Abwischen innerhalb der vorgesehenen Frist erfolgt, nämlich einen Tag und eine Nacht
+(24 Stunden) für den Sesshaften, und drei Tage und drei Nächte (72 Stunden) für den Reisenden.
+Die Frist beginnt mit dem ersten Abwischen, nachdem man die rituelle Gebetswaschung (wuḍūʼ)
+verrichtet hat.
+Beschreibung der Weise, wie man sich die Pantoffel / Socken abwischt:
+Dass man die Pantoffel bzw. die Socken von den Zehen bis zum Fußgelenk abwischt, d.h. dass nur
+der Pantoffelrücken abgewischt wird, und zwar mit den beiden Händen über die beiden Füße zugleich.
+Mit anderen Worten soll die rechte Hand den rechten Fuß zur gleichen Zeit abwischen, in der die
+linke Hand den linken Fuß abwischt, wie man das mit den Ohren tut. Denn so wurde es von dem
+Propheten überliefert.
+Fragen bezüglich des Abwischens
+1. Wenn die Frist für das Abwischen abgelaufen ist oder wenn man die Pantoffel bzw. Socken
+auszieht, dann bleibt man rein und muss die rituelle Gebetswaschung (wuḍūʼ) nicht
+wiederholen.
+2. Es ist erlaubt, zerrissene Pantoffel bzw. Socken abzuwischen, sowie solche, die so hell oder
+dünn sind, das man die Haut dadurch sehen kann.
+
+Anstandsregeln auf der Toilette
+Folgendes ist wünschenswert:
+• Wenn man die Toilette betritt, soll man mit dem linken Fuß anfangen und sagen: „Bi-
+ʼsmi ʼllāḥ, Aḷḷāhumma innī aʽūḏū bi-ka mina ʼl-ḫubṯi wa ʼl-ḫabāʼiṯ“ (Im Namen
+Aḷḷāhs, o Aḷḷāh ich suche Zuflucht bei Dir vor den Üblen und Bösen).
+• Wenn man dann die Toilette verlässt, dann soll man mit dem rechten Fuß anfangen und
+dabei sagen: „Ġufrānak“ (Ich bitte Dich um Vergebung).
+Dabei soll man sich hinter eine Wand oder ähnliches verstecken und sich distanzieren,
+wenn man im Freien wäre.
+Dabei darf man nicht:
+• sein Geschäft in folgenden Plätzen verrichten: auf dem Weg; wo Menschen sitzen; unter
+fruchtbaren Bäumen; an einem Ort, wo andere davon Schaden tragen; in Totwasser.
+• der Gebetsrichtung weder mit dem Gesicht noch mit dem Rücken konfrontieren,
+während man sein Geschäft verrichtet.
+• dass man sein Geschlechtsorgan mit der rechten Hand berührt.
+• dass man Aḷḷāhs Namen, erhaben sei Er, ausspricht.
+Wenn man aber mit seinem Geschäft fertig ist, dann soll man sich mit Wasser reinigen oder
+abwischen. Für das Abwischen gelten folgende Bedingungen:
+• Dass man dies mindestens dreimal tut; dabei darf man nicht  (mit demselben
+Gegenstand: Papier oder ähnlichem) an derselben Stelle wiederholt abwischen.
+• Dass man dadurch rein wird; die Reinheit ist daran zu erkennen, dass das Papier oder
+ähnliches (beim letzten Mal) trocken (und sauber) wird.
+• Dass man sich nicht mit etwas Unreinem noch Verbotenem, wie Nahrung, Knochen
+oder Mist reinigt.
+Es ist (Männern) erlaubt, stehend zu urinieren, unter der Bedingung, sich davor zu hüten,
+dass Urin auf seinen Körper oder sein Gewand verfliegt oder dass sein Schamteil sich
+entblösst. Das beruht auf folgenden Hadith: „Der Prophet, Aḷḷāhs Segen und Frieden auf
+ihm, kam zu einer Abfalldeponie, so verrichtete er sein Geschäft stehend“, überliefert von
+Buḫārī und Muslim.
+
+Fragen zur Reinheit
+1. Wie viele Bedingungen hat die rituelle Gebetswaschung (wuḍūʼ)?
+ neun.  zehn.  acht.
+2. Die Pflichten der kleinen rituellen Waschung (wuḍūʼ) sind:
+ die vier Körperteile.
+ das Vorige samt der Reihenfolge und der Pausenlosigkeit.
+3. Wie viele Gründe machen die rituelle Gebetswaschung (wuḍūʼ) ungültig?
+ sechs.  fünf.  acht.
+4. Welche der folgenden Gründe machen die rituelle Gebetswaschung (wuḍūʼ) ungültig?
+ Kamelfleisch essen.  Gazellenfleisch essen.  das Bauchgeräusch.
+ Luft lassen.    der Schlaf.    die Totenwaschung.
+ Berührung der Ehefrau.
+5. Erkläre, wie die rituelle Trockenreinigung (tayammum) zu verrichten ist:
+...........................................................................................................................................
+...........................................................................................................................................
+...........................................................................................................................................
+6. Erkläre, wie die große rituelle Körperwaschung (ġusl) zu verrichten ist:
+...........................................................................................................................................
+...........................................................................................................................................
+...........................................................................................................................................
+
+7. Erläutere das Urteil hinsichtlich folgender Fragen:
+Die Frage Das Urteil
+Die Absicht auszusprechen.
+Dass man mit der kleinen rituellen
+Waschung (wuḍūʼ) das Verrichten eines
+Gebets beabsichtigt, dann damit mehr als ein
+Gebet verrichtet.
+Dass man die rituelle Gebetswaschung
+(wuḍūʼ) zum Qurʼān-Rezitieren verrichtet,
+dann damit auch betet.
+Dass man die Absicht mitten in der rituellen
+Gebetswaschung (wuḍūʼ) unterbricht.
+Jemand verrichtet die rituelle
+Gebetswaschung (wuḍūʼ), während auf
+seinem Bein Teig klebt.
+Jemand verrichtet die rituelle
+Gebetswaschung (wuḍūʼ), während er
+Kamelfleisch isst.
+Jemand verrichtet die rituelle
+Gebetswaschung (wuḍūʼ) mit gestohlenem
+Wasser.
+Jemand verrichtet die rituelle
+Gebetswaschung (wuḍūʼ), bevor er sich nach
+der Toilette wäscht bzw. abwischt.
+Jemand nimmt neues Wasser, um seine
+Ohren abzuwischen.
+Jemand wischt seinen Kopf dreimal ab.
+Jemand wäscht jeden Körperteil nur einmal.
+Jemand wäscht jeden Körperteil dreimal.
+Das Waschen der beiden Hände während der
+rituellen Gebetswaschung (wuḍūʼ).
+Das Reiben zwischen den Barthaaren mit
+Wasser.
+Das man jeden zu waschenden Körperteil
+während der rituellen Gebetswaschung
+(wuḍūʼ) auch reibt.
+Dass man die zu waschenden Körperteile nur
+abwischt.
+Den Kopf zu waschen.
+
+Die Hände in das Wassergefäß hineintun.
+Dass man in der rituellen Gebetswaschung
+(wuḍūʼ) immer mit dem Waschen des
+rechten Körperteils anfängt.
+Dass man den jeweiligen Körperteil mehr
+als dreimal wäscht.
+Das Bein zu waschen.
+Dass man nach dem Schwimmen betet.
+Dass man nach der großen rituellen
+Waschung (ġusl) ohne zusätzliche
+Gebetswaschung (wuḍūʼ) betet.
+
+## Erläuterung der vierzehnten Lektion
+
+Die vierzehnte Lektion
+Zweitens: Die Pflichtabgabe (zakāt)
+Diese lässt sich in zwei Typen einteilen:
+Vermögensabgabe Persönliche Abgabe
+Das ist die dritte Säule des Islams und
+obliegt jedem freien Muslim, der den
+Mindestbetrag besitzt. Die
+Vermögensabgabe (zakāt al-māl) gilt erst
+dann als Pflicht, nachdem ein ganzes
+Mondjahr seit dem Besitz dieses Vermögens
+vergangen ist. Ausgenommen davon sind
+die Ernte und alles, was zum Ursprung des
+Vermögens gehört, wie der Zuwachs des
+Mindesbetrags oder die finanziellen
+Gewinne durch Handel. In diesem Fall gilt
+das Mondjahr für den Ursrpung dieser
+Gewinne. Die Vermögensabgabe lässt sich
+einteilen in vier Typen
+Damit ist die Fastenbrechenabgabe (zakāt
+al-fiṭr) gemeint, die jedem Muslim, ob
+mündig oder nicht, Mann oder Frau, frei
+oder versklavt obliegt.
+Gold und Silber:
+und alles, was den
+gleichen Wert an
+Währung u.ä. hat. So
+gilt als Mindestbetrag
+für Gold 85 Gramm
+und für Silber 200
+Dirham, (d.h. 595
+Gramm).
+Weidenvieh:
+D.h. solche Tiere, die
+(fast) das ganze Jahr
+durch weiden. Damit
+sind Kamele, Kühe
+und Schafe gemeint.
+Die Ernte:
+Damit sind Getreide
+und Früchte gemeint.
+Die Handelsangebote:
+Damit ist alles, was
+zum Kaufen und
+Verkaufen
+bereitgestellt ist.
+
+Wer verdient die Pflichtabgabe (zakāt)?
+1. Die Armen: Das sind diejenigen, die nichts besitzen oder die ihre Bedürfnisse nur
+teilweise decken können.
+2. Die Bedürftigen: Das sind nämlich solche, die ihre meisten Bedürfnisse oder die Hälfte
+davon decken können. Wenn wir also die Genüge für ein Jahr mit 12000 einschätzen
+würden, dann besitzt der Arme weniger als sechstausend oder gar nichts, während der
+Bedürftige sechstausend oder mehr dennoch weniger als 12000 besitzt. Denn wir
+bezahlen dem Armen und dem Bedürftigen, was ihnen für ein ganzes Jahr ausreicht, da
+die Pflichtabgabe ja jährlich obliegt.
+3. Diejenigen, die sich damit beschäftigen: Das sind nämlich deren Einsammler,
+Verwalter und die dafür Zuständigen, die der Herrscher damit beaufträgt. Sie müssen
+nicht als arm gelten, vielmehr empfangen sie einen Teil von den Pflichtabgaben, auch
+wenn sie reich wären.
+4. Diejenigen, deren Herzen vertraut gemacht werden sollen, und zwar solche, von denen man
+hofft, dass sie den Islam annehmen, oder solche, deren Schaden dadurch vermieden oder deren
+Glauben gestärkt werden kann.
+5. Die Sklaven und Gefangenen, damit sind nämlich gemeint:
+a. muslimische Sklaven, die sich von ihrem Herrn gemäß eines Vertrags
+freizukaufen versuchen.
+b. der Loskauf von muslimischen Sklaven.
+c. muslimische Gefangene.
+Dazu gehört aber nicht, dass man seinen eigenen Sklaven befreit und das zur Zakāt zählt.
+Denn das darf nicht zur Pflichtabgabe gezählt werden.
+6. Die Verschuldeten: Diese sind:
+a. jemand, der sich verschuldet, um das Geld zur Versöhnung von Streitenden oder
+zur Vermeidung von einer Zwietracht auszugeben.
+b. jemand, der sich aus eigenen Gründen verschuldet.
+Dabei darf man nicht Schulden eines Armen streichen und diesen Betrag als Teil der
+Pflichtabgaben zählen.
+
+7. Auf Aḷḷāhs Weg: Das umfasst die Krieger und alles, was sie an Waffen und anderen
+Mitteln brauchen.
+8. Der Sohn des Weges: Damit ist der Reisende gemeint, der sein ganzes Geld ausgegeben
+hat. Dem soll man nämlich so viel Geld geben, dass er in seine Heimat zurückkehren
+kann.
+Man darf seine Pflichtabgabe ausschließlich zu einem dieser Zwecke bezahlen. Weiterhin darf
+man die Pflichtabgabe weder einem Reichen, bzw. einem starken Erwerbstätigen, noch einem
+Angehörigen der Familie des Propheten, Aḷḷāhs Segen und Frieden auf ihm, aus dem Stamm
+„Hāšim“ oder seinen Gefolgsleuten, um so weniger einem, den man unterhalten muss, oder
+einem Ungläubigen geben. Was aber die freiwillige Abgabe (sadaqa) angeht, so darf man sie
+diesen und anderen bezahlen. Aber je mehr man die Abgaben zum öffentlichen oder privaten
+Nutzen bezahlen kann, desto vollständiger wird sie.
+Wichtige Definitionen
+• „Bint al-maḫāḍ“ (Tochter der Schwangeren): D.h. ein einjähriges Kameljunges, da
+dessen Mutter schwanger ist.
+• „Bint al-labūn“ (Tochter der Gemolkten): D.h. ein zweijähriges Kameljunges, da dessen
+Mutter gemolken wird.
+• „Al-ḥiqqa“ (Die Reife): D.h. eine dreijährige Kamelstute, die mit einem Kamel
+verkehren kann.
+• „Al-ğaḏʽah“ (Die Zahnwechselnde): D.h. die vierjährige Kamelstute, die in diesem
+Alter ihre vorderen Zähne verliert.
+• „At-tabīʽ“ oder „at-tabīʽah“ (Die Nachlaufende): Das ist die einjährige Kuhstute.
+• „Al-musinna“ (Die Alte): Das ist die zweijährge Kuhstute.
+
+Berechnung der Pflichtabgaben
+Das Vermögen
+Ablauf eines Jahres
+Mindestbetrag Maß der
+Pflichtabgaben
+Weidenvieh
+ist vorausgesetzt
+siehe nächste Tabelle
+siehe nächste Tabelle
+Ernte
+ist nicht vorausgesetzt
+300 Ṣāʽ (= ca. 780 kg)
+Was natürlich bewässert
+wird, d.h. mit Regen- oder
+Quellwasser, oder solche
+Pflanzen, die lange Wurzeln
+haben, so dass sie nicht
+gegossen werden müssen:
+ein Zehntel (1/10)
+Was gegossen wird:
+die Hälfte des Zehntels
+Was sowohl natürlich
+bewässert als auch gegossen
+wird:
+Dreiviertel des Zehntels
+Gold und Silber
+ist vorausgesetzt
+85 g Gold oder 595 g
+Silber
+Ein Viertel des Zentels
+Handelsangebote
+ist vorausgesetzt
+Sie werden je nachdem,
+was nützlicher für die
+Armen wäre, in Gold
+oder Silber eingeschätzt.
+Ein Viertel des Zentels
+
+Berechnung der Pflichtabgaben an Weidenvieh und deren Maß
+Berechnung der Pflichtabgaben an Weidenvieh und deren Maß
+Schafe und Ziege  Kamele  Kühe und Büffel
+Das Maß Die Pflicht-
+abgabe
+Das Maß Die Pflicht-
+abgabe
+Das Maß Die Pflicht-
+abgabe von bis  von bis  von bis
+40 120 1 Schaf  5 9 1 Schaf  30 39 1 einjähriges
+Kalb (weiblich
+oder
+männlich)
+10 14 2 Schafe
+121 200 2 Schafe  15 19 3 Schafe  40 59 1 zweijährige
+Kuh
+20 24 4 Schafe
+201 300 3 Schafe  25 35 1 einjähriges
+Kamelfohlen
+60 69 2 einjährige
+Kälber
+(weiblich oder
+männlich)
+Dann zu jeder Hundert: 1 Schaf 36 45 1 zweijähriges
+Kamelfohlen
+Zu den Pflichtabgaben sollen
+weder Böcke, noch alte oder
+mangelhafte Kühe gehören und
+überhaupt keine minderwertige
+Tiere.
+Ebenso sollen zu den
+Pflichtabgaben weder die
+mageren, noch die schwangeren,
+essgierigen oder besten Tiere
+gehören.
+46 60 1 dreijährige
+Kamelstute
+Dann zu jeder 30: 1 einjähriges Kalb
+Und zu jeder 40: 1 zweijähriges
+Kalb 61 75 1 vierjährige
+Kamelstute
+76 90 1 zweijährige
+Kamelstute
+91 120 2 dreijährige
+Kamelstuten
+121 129 3 zweijährige
+Kamelstute
+Dann zu jeder Vierzig: 1
+zweijährige Kamelstute.
+Zu jeder Fünfzig: 1 dreijährige
+Kamelstute.
+Zwischen diesen beiden
+Pflichtabgaben gilt 9 und
+weniger.
+
+Fragen zur Pflichtabgabe (zakāt)
+1. Es besteht keine Pflichtabgabe von einem Vermögen, bevor ein Jahr seit dessen Besitz
+vergangen ist. Dieses Jahr ist ....:
+ ein Mondjahr.   ein Sonnenjahr.  egal, ob Mond- oder Sonnenjahr.
+2. Vom Vergehen eines Jahres wird ausgenommen:
+ die Bodenschätze (zakāt ar-rikāz).  die Ernte.   beide.
+3. Der Mindestbetrag für Pflichtabgabe von Gold ist der Besitz von:
+ 85 g.    595 g.   95 g.
+4. Der Mindestbetrag für Pflichtabgabe von Silber ist der Besitz von:
+ 200 Dirham.   595 g.   beide Beträge.
+5. Das Vieh umfasst sowohl Kamele, als auch Kühe, Wasserbüffel, Schafe und Ziegen.
+(richtig – falsch).
+6. Man muss keine Pflichtabgaben von Obst bezahlen. (richtig – falsch).
+7. Das Weidenvieh bedeutet:
+ Vieh, das teurer wird.   Vieh, das ein Jahr durch oder länger weidet.
+8. Vieh, das das Zulässige weidet, d.h.:
+ das gutes Futter frisst.   das keinen Besitzer hat.
+9. Wenn man die Bedürftigen nennt, dann bezieht sich das auch auf die Armen.
+(richtig – falsch).
+10. Dem Armen gibt man von der Pflichtabgabe, was ihm ausreicht für:
+ ein Jahr lang.    einen Monat lang.
+11. Diejenigen, die sich mit der Pflichtabgabe beschäftigen, sind:
+ alle, die daran arbeiten.  alle, die der Herrscher damit beauftragt.
+
+12. Berechne das Maß der Pflichtabgaben von dem folgenden Vermögen:
+Das Vermögen
+Das Maß der Pflichtabgabe
+Das Zwischenmaß, falls
+vorhanden.
+100 Dirham
+300 Dinar
+400 Dirham
+80 g Gold
+500 g Silber
+30 Schafe
+60 Schafe
+565 Schafe
+4 Kamele
+17 Kamele
+449 Kamele
+30 Kühe
+49 Kühe
+77 Kühe
+99 Kühe
+20 Millionen SAR (Rial)
+40 SAR (Rial)
+45679 SAR (Rial)
+255 ṣāʽ6 (= 520 kg) Getreide
+6 Dieses islamische Maß beträgt ungefähr 2,04 kg. Anmerkung der Übersetzerin.
+
+13. Diejenigen, deren Herzen vertraut sein sollen, umfassen jenen Ungläubigen, von dem man
+nicht hofft, dass er den Islam annehmen würde. (richtig – falsch).
+14. Wenn ein Herr einen Sklaven befreit, dann darf er von den Pflichtabgaben ( zakāt)
+bekommen. (richtig – falsch).
+15. Wenn ein reicher einem Armen einen Geldbetrag verschuldet, dann könnte er darauf
+verzichten und ihn als einen rechtmäßigen Teil seiner Pflichtabgabe berechnen. (richitg –
+falsch).
+16. „Auf Aḷḷāhs Weg“ umfasst alle gütigen Zwecke, wie der Bau von Moscheen. (richtig –
+falsch).
+17. Die Pflichtabgabe von Gold und Silber (und Geld im selben Wert) wird berechnet, indem
+man den Betrag auf vierzig teilt. (richtig – falsch).
+18. Die Pflichtabgabe gilt nur dem Weidenvieh und weder den Arbeitstieren noch den
+Gefütterten. (richtig – falsch).
+19. Die Pflichtabgabe gilt dem Getreide und den Früchten, wenn sie den Mindestbetrag
+erreichen, und zwar wenn die Kerne (voll) und die Früchte reif sind. (richtig – falsch).
+20. Das Maß der Pflichtabgabe von dem Getreide und den Früchten beträgt die Hälfte des
+Zehntels, wenn sie mit Kosten gegossen werden. (richtig – falsch).
+21. Es obliegt eine Pflichtabgabe vom Gold, wenn es den Mindestbetrag von 20  miṯqāl
+(20×3.6g=72g) erreicht. (richtig – falsch).
+22. Kreuze an, von welchem Vermögen eine Pflichtabgabe obliegt:
+ Hühner.   ein Handelsgeschäft.  gefütterte Schafe.
+ Weidenkamele.  eine Palmenplantage.  25 miṯqāl (25×3.6g =90g) Gold.
+23. „At-tabīʽ“ ist der Name von zweijährigen Kühen. (richtig – falsch).
+
+24. Der Mindestbetrag von Geldscheinen (Banknoten) beruht auf:
+ Handelsangebote.  den Mindestbetrag im selben Wert wie in Gold oder Silber.
+ den Mindestbetrag im selben Wert wie in Gold und Silber.
+25. Das Maß der Pflichtabgabe von Banknoten beträgt:
+ Viertel des Zehntels.  Hälfte des Zehntels.
+26. Das Maß der Pflichtabgabe von 80g Gold ist:  2g.  4g. nichts.
+27. Es obliegt eine Pflichtabgabe von den Häusern, die man zum Wohnen bereitstellt. (richtig
+– falsch).
+28. Jedem Reisenden kann man einen Anteil von der Pflichtabgabe geben, weil er als Sohn des
+Weges gilt. (richtig – falsch).
+
+Drittens: Das Fasten
+Begrifflich bedeutet das Fasten: Das Aufhören. Im islamischen Recht bedeutet es aber, die
+Anbetung Aḷḷāhs, indem man mit dem Essen und Trinken und alles, was das Fasten brechen
+könnte, und zwar vom richtigen Morgenanbruch bis zum Sonnenuntergang.
+Säulen des Fastens
+1. Die Absicht 2. Das Aufhören mit allem, was das Fasten
+brechen könnte.
+Die Absicht für das obligatorische Fasten
+Was das obligatorische Fasten angeht, so muss
+man in der Nacht davor die Absicht dafür
+fassen. Es reicht auch, die Absicht am Anfang
+des (Mond-)Monates zu fassen. Die Absicht
+ist etwas Innerliches; deren Aussprechen gilt
+hingegen als Ketzerei (bidʽa).
+Die Absicht für das freiwillige Fasten
+Diese kann man zu jeder Zeit am Tag hegen,
+so lange man nichts an solchen Taten
+unternommen hat, die das Fasten brechen
+könnten. Allerdings wird die Belohnung dafür
+erst mit dem Fassen der Absicht berechnet.
+Typen des Fastens
+obligatorisches Fasten:
+im Ramaḍān, als Buße oder zum Erfüllen
+eines geleisteten Gelübdes.
+freiwilliges Fasten:
+jedes Fasten außer dem obligatorischen.
+
+Bedingungen der Verpflichtung mit dem Fasten
+1. Der Islam.
+2. Der Verstand.
+3. Die Heiratsreife: Kinder hingegen sollen von den Eltern daran gewöhnt und dazu
+motiviert werden.
+4. Die Ansässigkeit: Einem Reisenden obliegt also kein Fasten. Es ist aber wünschenswert,
+dass er trotzdem fastet, wenn es ihm nicht schwer fällt, da der Prophet, Aḷḷāhs Segen
+und Frieden auf ihm, dies tat und da man damit auch seine Verpflichtung sc hneller
+erfüllt, was dem Erwachsenen auch einfacher fällt. Damit wird einem auch die Gunst
+des Monats Ramaḍān zuteil.
+5. Die Gesundheit.
+6. Dass eine Frau weder ihre Menstruation noch ihren Wochenfluss hat.
+Typen der Kranheit im Hinblick auf das Fasten
+Eine chronische, unheilbare Krankheit:
+Dazu gehören ältere Leute, die nicht imstande
+sind zu fasten. Diese sind mit dem Fasten nicht
+verpflichtet, allerdings sollen sie anstelle jeden
+Fastentages einem Bedürftigen eine Mahlzeit
+zum Fastenbrechen spenden, entweder indem
+man so viele Bedürftige wie die zu fastenden
+Tage zum Essen einlädt oder indem man die
+Mahlzeiten auf verschiedene Bedürftige
+verteilt so, dass jeder Bedürftige ein 510g von
+gutem Getreide bekommt. Es wäre
+wünschenswert auch, damit etwas Fleisch oder
+Fett zu spenden.
+Eine heilbare Krankheit, mit der das
+Fasten schwer fällt:
+Dazu gehören Frauen, wenn sie ihre
+Menstruation oder ihren Wochenfluss haben
+oder wenn sie stillen, sowie Reisende: All
+diese sollen die Tage nachholen, die sie nicht
+fasten konnten, wenn sie wieder gesund sind.
+Wenn man aber davor sterben würde, dann
+wird man nicht dafür zur Rechenschaft
+gezogen.
+
+Wie vergewissert man sich, dass der Fastenmonat Ramaḍān angefangen hat?
+Entweder, indem man den Halbmond des Monats Ramaḍān sichtet oder indem man (bei
+Zweifel) dreißig Tage für den Vormonat Šaʽbān zählt.
+Was macht das Fasten ungültig
+1. Das absichtliche Essen und Trinken; wenn man aber aus Vergessenheit isst oder trinkt,
+dann gilt sein Fasten trotzdem als richtig.
+2. Das Geschlechtsverkehr: Wenn man es am Tag vom Monat Ramaḍān tut, während er fasten
+soll, dann muss er die große Buße verrichten, nämlich die Befreiung eines Sklaven. Wer
+jedoch keinen Sklaven findet, dem obliegt das Fasten von zwei aufeinander folgenden
+Monaten. Falls man dessen nicht imstande ist, dann muss er sechzig Bedürftige n eine
+Mahlzeit spenden.
+3. Sperma ejakulieren, entweder während des Geschlechtsverkehrts, des Küssens, de r
+Umarmung oder Ähnliches.
+4. Andere Ernährungsmethoden, wie die Ernährungsspritzen, andere Spritzen würden das
+Fasten aber nicht brechen.
+5. Der Verlust von Blut während des Schröpfens, allerdings würden Blutentnahmen zum
+Zweck der Untersuchung das Fasten nicht brechen.
+6. Das absichtliche Erbrechen.
+7. Die Blutung während der Menstruation und des Wochenbetts.
+Einiges, was dem Fastenden erlaubt wird
+Den Speichelfluss hinunterzuschlucken, das Essen aus Bedarf zu kosten (z.B. beim Kochen und
+ohne es jedoch hinunterzuschlucken), das Baden und Duschen, die Zähne zu putzen, das
+Parfümieren, sich aufzufrischen.
+
+Wünschenswert beim Fasten ist:
+1. Eine Mahlzeit vor dem Morgenanbruch (saḥūr) zu sich zu nehmen.
+2. Das Verschieben dieser Mahlzeit, bis kurz vor dem Morgenanbruch.
+3. Das frühe Fastenbrechen, wenn es fällig wird.
+4. Dass man sein Fasten mit reifen Datteln bricht. Würde man keine reifen Datteln finden,
+dann mit anderen Datteln, und zwar mit einer ungeraden Zahl davon. Sollte man gar keine
+Datteln finden, dann sollte man sein Fasten mit Wasser brechen. Wenn man auch kein
+Wasser findet, dann sollte man die Absicht fassen, das Fasten zu brechen.
+5. Ein Bittgebet beim Fastenbrechen und während des Fastens auszusprechen.
+6. Die vielen Spenden.
+7. Dass man sich bemüht, viele freiwillige Nachtgebete (tarāwīḥ) zu verrichten.
+8. Den Qurʼān zu rezitieren.
+9. Würde jemand einem während seines Fastens beschimpfen, dann sollte man nur
+antworten: Ich faste.
+10. Dass man die kleine Pilgerfahrt (ʽumra) verrichtet.
+11. Dass man die letzten zehn Tage im Ramaḍān in der Moschee verbringt.
+12. Dass man sich in der Nacht der Bestimmung (in den letzten zehn Tagen) bemüht.
+Unerwünscht während des Fastens
+1. Dass man den Mund und die Nase übertrieben wäscht.
+2. Dass man ohne Notwendigkeit das Essen kostet.
+Es ist dem Fastenden verboten:
+1. Dass man den Schleim hinunterschluckt oder sein Fasten damit bricht.
+2. Das Küssen, wenn man nicht sicher isst, dass dadurch sein Fasten gebrochen wird.
+3. Das Lügen (d.h. alle verbotenen Aussagen).
+4. Das Schimpfen (d.h. das wütende Schreien und die Geduldlosigkeit).
+5. Das kontinuierliche Fasten (d.h. dass man für zwei Tage sein Fasten nicht bricht).
+
+Freiwilliges Fasten:
+1. Das Fasten von sechs Tagen im Monat Šawwāl, für denjenigen, der Ramaḍān vollständig gefastet
+hat. Es ist wünschenswert, diese sechs Tage hintereinander zu fasten und damit gleich am zweiten
+Tag nach Ramaḍān anzufangen.
+2. Dass man den Tag von ʽArafa (9. des Monats Ḏū ʼl-Ḥiğğā) fastet, wenn man die Pilgerfahrt nicht
+verrichtet.
+3. Dass man den Tag von ʽĀšūrāʼ (10. des Monats Muḥarram) fastet, und zwar zusammen mit dem
+9. und dem 11. desselben Monats.
+4. Dass man wöchentlich am Montag und Donnerstag fastet, während Montag mehr bestätigt ist.
+5. Dass man monatlich die drei mittleren (hellen) Tage, d.h. den 13., 14., 15., fastet.
+6. Dass man alternierend fastet.
+7. Dass man den Monat Muḥarram fastet.
+8. Dass man die ersten neun Tage von dem Monat Ḏū ʼl-Ḥiğğā fastet.
+9. Dass man den Monat Šaʽbān (aber nicht bis zu dessen Ende) fastet.
+Das unerwünschte Fasten
+Es ist unerwünscht, Freitag, Samstag oder Sonntag alleine zu fasten, außer, dass man einen dieser Tage
+aus einem bestimmten Grund fastet, dass er z.B. dem Tag von ʽArafa (9. des Monats Ḏū ʼl-Ḥiğğā)
+entspricht. In diesem Fall ist das Fasten erlaubt.
+Das verbotene Fasten
+1. Dass man den Monat Rağab alleine fastet.
+2. Dass man den Tag des Festes selbst fastet.
+3. Dass man einen Tag vor Ramaḍān (genannt auch Tag des Zweifels) fastet, außer, dass man jenen
+(Wochen-)Tag normalerweise fastet.
+4. Dass man die drei Tage nach dem Opferfest fastet, außer für einen Pilgerer, der sowohl die kleine
+Pilgerfahrt als auch die große verrichtet, allerdings sich dafür kein Opfertier (hadiyy) leisten kann.7
+5. Das dauerhafte Fasten, d.h. das ganze Jahr durch.
+7  Dieser Typ der Pilgerfahrt wird ḥağğ at-tamatuʽ genannt und erfordert ein separates Be itreten des
+Weihzustandes (iḥrām) und ein Tieropfer, das durch das Fasten von 10 Tagen (3 während der Pilgerfahrt und
+7 nachher) ersetzt werden kann, wie dies folgendem Vers zu entnehmen ist: „Wenn ihr aber in Sicherheit seid,
+dann soll derjenige, der die Besuchsfahrt mit der Pilgerfahrt durchführen möchte, an Opfertieren (darbringen),
+was ihm leichtfällt. Wer jedoch nicht(s) finden kann, der soll drei Tage während der Pilgerfahrt fasten und
+sieben, wenn ihr zurückgekehrt seid; das sind im ganzen zehn“ (2:196). Anmerkung der Übersetzerin.
+
+Urteile hinsichtlich des Nachholens von verpassten Fastentagen
+• Es ist erwünscht, diese Tage ununterbrochen nachzuholen.
+• Ebenso wäre es erwünscht, damit gleich nach dem Festtag anzufangen.
+• Es ist nicht erlaubt, diese Tage so lange zu verschieben, bis der nächste Ramaḍān fällig
+wird.
+• Wenn man das Nachholen ohne Grund verschiebt, dann obliegt einem nichts mehr als das
+Nachholen des Fastens. Allerdings wäre es eine Sünde.
+Die Fastenbrechenabgabe (zakāt al-fiṭr)
+Sie obliegt jedem Muslim, der den letzten Ramaḍāntag erlebt hat, ob er alt oder jung, ein Mann
+oder eine Frau, ein Freier oder ein Sklave wäre. Am besten bezahlt man diese Abgabe am Tag
+des Fastenbrechenfestes oder in der Nacht davor; sie beträgt 2,04 kg von der Nahrung und den
+Hauptbedürfnissen des Menschen bzw. seiner Familie, selbst im Namen des Embryos.
+Die Weisheit dahinter ist, dass:
+• sie den Fastenden von jenen Sünden, die mit schlechtem Gerede und mit Leidenschaft
+zusammenhängen, läutert.
+• dadurch Arme und Bedürftige am Festtag Genüge haben, so dass sie niemandem etwas
+fragen müssen.
+Zeit, an der die Fastenbrechenabgabe bezahlt werden soll
+erlaubte Zeit erwünschte Zeit verbotene Zeit
+einen oder zwei Tage vor dem
+Fastenbrechenfest
+am Festtag selbst: zwischen
+dem Morgengebet bis vor dem
+Festgebet
+nach dem Festgebet
+
+Das Maß der Fastenbrechenabgabe
+2,04 kg Nahrungsmittel für Menschen, daher soll sie nicht durch Geld ersetzt werden, am besten
+von gutem Getreide.
+Das Festgebet
+Es gilt als eine individuelle Pflicht (farḍ ʽain) und soll eine Viertelstunde nach Sonnenaufgang
+(d.h. wenn die Sonne ungefähr ein Meter hoch am Horizont liegt) und bis vor dem Mittagsgebet.
+Man kann es nicht nachholen, wenn man es verpasst hat. Es ist auch nach dem Propheten
+überliefert, dieses Gebet im Freien zu verrichten; allerdings ist es erlaubt, es auch in der
+Moschee zu beten. Ebenso ist es überliefert, eine ungerade Zahl von Datteln vor dem Gebet zu
+essen, dass man sich auch wäscht, parfümiert, seine beste Kleidung anzieht, einen anderen Weg
+von der Moschee nach Hause zu gehen. Es wäre auch gut, den anderen zum Fest zu gratulieren,
+indem man sagt: „Taqabala Aḷḷāhu minnā wa minkum“ (Möge Aḷḷāh von uns und von euch
+(die guten Taten) annehmen). Weiterhin ist es überliefert, die Formel „Aḷḷāhu akbar“ (Aḷḷāh
+ist der Größte) in der Nacht zum Festtag und im Anschluss an jedes Gebet bis zum
+Sonnenuntergang des Festtages zu wiederholen, und zwar wie folgt: „Aḷḷāhu akbar, Aḷḷāhu
+akbar, lā ilāha ilā Aḷḷāḥ, Aḷḷāhu akbar, Aḷḷāhu akbar, wa li-ʼllāhi ʼl-ḥamd“ (Aḷḷāh ist der
+Größte, Aḷḷāh ist der Größte, es gibt keinen Gott außer Aḷḷāh, Aḷḷāh ist der Größte, Aḷḷāh ist der
+Größte und Aḷḷāh sei die Lobpreisung). Das Festgebet besteht aus zwei Gebetsabschnitten vor
+der Predigt: Im ersten Abschnitt wird die Formel „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte)
+sechsmal (außer der Eröffnungsformel zum Beitreten des Weihzustandes) wiederholt, wobei
+man sie im zweiten Gebetsabschnitt vor der Qurʼān-Rezitation fünfmal (außer der
+Übergangsformel beim Aufstehen) wiederholen soll.
+
+Fragen zum Fasten
+1. Wie viele Säulen hat das Fasten?  zwei.  drei.   vier.
+2. Wem obliegt das Fasten?
+a) ....................................................................................................................................
+b) ....................................................................................................................................
+c) ....................................................................................................................................
+d) ....................................................................................................................................
+3. Mit jeder Krankheit entfällt die Pflicht zum Fasten. (richtig – falsch).
+4. Nenne das Urteil hinsichtlich der kommenden Taten:
+Die Frage Das Urteil
+Jemand fasst nach dem Morgenanbruch die
+Absicht zu fasten.
+Jemand fastet ohne jede Absicht.
+Das Fasten des Kindes.
+Das Fasten des Reisenden.
+Das Fasten einer Frau im Wochenbett.
+Das Fasten eines Behinderten.
+Jemand isst während des Fastens.
+Die Nahrungsspritzen für einen Fastenden.
+
+Die Augentropfen
+Die schmerzlindernde Injektion
+Das Schröpfen
+Das Erbrechen
+Den Speichel hinunterschlucken
+Das Essen zu kosten
+Der Schlaf
+Das Baden
+Die Auffrischung
+Das Putzen der Zähne mit dem Zahnputzholz
+Der Weihrauch
+Die (empfohlene) Zeit für die Morgenmahlzeit
+(saḥūr).
+Was soll man zur Morgenmahlzeit essen?
+Was soll man zum Fastenbrechen essen? ................., falls er keine findet, dann
+................., falls er keine findet, dann
+................., falls er keins findet, dann
+.......................................... .
+Das freiwillige Nachtgebet im Ramaḍān
+(Tarāwīḥ-Gebet)
+Das Verrichten der kleinen Pilgerfahrt (ʽumra)
+im Ramaḍān.
+Das übertriebene Mundwaschen während des
+Fastens.
+Das Küssen für den Fastenden.
+Das kontinuierliche Fasten zwei Tage durch,
+ohne das Fasten zu brechen.
+
+Das Fasten von sechs Tagen im Monat
+Šawwāl.
+Das Fasten am Tag von ʽArafa (9. Ḏū ʼl-
+Ḥiğğa).
+Das Fasten am letzten Tag vor Ramaḍān (dem
+Zweifelstag).
+Das Fasten am Festtag.
+Das Fasten an den drei Tagen nach dem
+Opferfest (dem 11., 12., 13. von Ḏū ʼl-Ḥiğğa).
+Das Fasten des Monats Muḥārram.
+Das Fasten des Monats Rağab.
+Das Fasten das ganze Jahr durch.
+Das Fasten am Freitag.
+Dass man das Nachholen der verpassten
+Fastentage bis zum nächsten Ramaḍān
+verschiebt.
+
+Viertens: Die Pilgerfahrt
+Das Verrichten der Pilgerfahrt gilt als die fünfte Säule des Islams und ist eine Pflicht unter den
+Bedingungen: Muslim zu sein, Verstand zu besitzen, die Heiratsreife erreicht zu haben, frei und
+dazu (physisch und finanziell) fähig zu sein. Hinsichtlich der Frauen kommt noch dazu, dass
+der Ehemann oder einer der heiratsverbotenen Angehörigen (maḥram) sie begleitet, wenn sie
+zur Pilgerfahrt reisen muss. Die Pilgerfahrt umfasst vier Säulen:
+Das Beitreten des
+Weihzustandes
+(iḥrām)
+Damit ist das Fassen
+der Absicht gemeint,
+die Rituale beizutreten,
+und ist zu
+unterscheiden von der
+Wiederholung der
+Formel „Labayyka
+Aḷḷāhumma labayk“
+(Wir sind Deinem Ruf
+nachgekommen, o
+Aḷḷāh) und vom
+Anziehen des
+zweiteiligen
+Weihgewandes (eines
+Lendenschurzes und
+eines Überwurfs) für
+Männer.
+Das Stehen auf der
+ʽArafa-Ebene
+Und zwar vom Mittag
+des 9. Ḏū ʼl-Ḥiğğā bis
+zum Morgenanbruch
+des Festttages. Der
+Prophet, Aḷḷāhs Segen
+und Frieden auf ihm,
+sagte nämlich: „Die
+Pilgerfahrt ist (das
+Stehen d.h. das Sich-
+Befinden auf) ʽArafa“.
+Die
+Strömungsumrundung
+Mit dem „ṭawāf al-
+ifāḍa“ ist jenes
+siebenmalige
+Umrundung der Kaaba
+gemeint, nachdem die
+Pilgerer von ʽArafa
+hergeströmt sind, und
+ist nicht zu
+verwechseln mit der
+ersten Umrundung,
+wenn man in Mekka
+eingetroffen ist,
+genannt „ṭawāf al-
+qudūm“
+(Ankunftsumrundung).
+Der Lauf zwischen den
+beiden Hügeln aṣ-Ṣafā
+und al-Marwa
+Aḷḷāh, erhaben sei Er,
+sagt nämlich: „Gewiss,
+aṣ-Ṣafā und al-Marwa
+gehören zu den (Orten
+der) Kulthandlungen
+Aḷḷāhs“ (2:158)
+Verschiedene Arten der Pilgerfahrt
+Die isolierte Pilgerfahrt
+„ifrād“
+Damit ist gemeint, dass man
+die Absicht fasst, einzig die
+große Pilgerfahrt (ḥağğ) und
+die dazu gehörigen Rituale
+zu verrichten.
+Die begleitete Pilgerfahrt
+„qirān“
+Dabei fasst der Pilgerer die
+Absicht, sowohl die kleine
+(ʽumra) als auch die große
+Pilgerfahrt (ḥağğ) zu
+verrichten. Dafür muss er
+ein Tieropfer darbringen.
+Die angenehme Pilgerfahrt
+„tamatuʽ“
+Damit ist das Verrichten der
+kleinen Pilgerfahrt (ʽumra)
+während der Pilgermonaten
+gemeint. Danach kann der
+Pilgerer aus dem
+Weihzustand heraustreten
+und sich alles (während des
+Weihzustandes Verbotene)
+wieder genießen, dann muss
+er noch einmal Mekka
+verlassen, dem Weihzustand
+wieder beitreten und die
+Absicht zur Verrichtung der
+großen Pilgerfahrt (ḥağğ)
+fassen. Dafür muss der
+Pilgerer auch ein Tieropfer
+darbrinen.
+
+Die Pflichten der großen Pilgerfahrt
+Wer eine dieser Pflichten auslässt, muss sie ersetzen, indem man ein Tieropfer darlegt; damit
+ist das Schlachten eines Schafs in Mekka gemeint, deren Fleisch auf die Armen dort verteilt
+wird. Dem Pilgerer ist es aber nicht erlaubt, davon zu essen.
+Dass man von der bestimmten Weihgrenze
+außerhalb Mekkas (mīqāt) dem Weihzustand
+(iḥrām) beitritt.
+Das Stehen auf der ʽArafa-Ebene bis zum
+Sonnenuntergang, wenn man sich dort tagsüber
+befand.
+Die Übernachtung auf der Muzdalifa-Ebene (bei
+Mekka), nachdem man ʽArafa verlassen hat.
+Die Übernachtung in Minā (bei Mekka) die drei
+Nächte von dem 11., 12. und 13. Ḏū ʼl-Ḥiğğa.
+Die Besteinigung des Satan-Symbols. Das Rasieren (für Männer) oder das Schneiden
+der Kopfhaare.
+Die Abschiedsumrundung der Kaaba (ṭawāf al-wadāʽ) - für alle, außer Frauen, die ihre
+Menustration oder Wochenfluss haben-, wenn man Mekka verlassen will, auch wenn es nach den
+Pilgermonaten ist.
+Die Grenzen für die kleine (ʽumra) und die große Pilgerfahrt (ḥağğ)
+Zeitliche
+• Damit sind die Pilgermonaten: Šawwāl, Ḏū
+ʼl-Qiʽda und Ḏū ʼl-Ḥiğga gemeint.
+Diese gelten nur für die große Pilgerfahrt
+(ḥağğ); für die kleine Pilgerfahrt (ʽumra) gibt es
+hingegen keine zeitlichen Grenzen bzw. keine
+bestimmte Zeiten.
+Örtliche
+• Ḏū ʼl-Ḥulayfa: für die Bewohner Medinas
+und alle, die daran vorbeigefahren sind.
+• Al-Ğaḥfa: für die Bewohner Syriens,
+Ägyptens und des Maghrib.
+• Qarn al-Manāzil: für die Bewohner von
+Nağd.
+• Yalamlam: für die Bewohner Yemens.
+• Ḏāta ʽIrq: für die Bewohner des Iraks.
+
+Wünschenswerte Taten währen der Pilgerfahrt
+Die Waschung mit der Absicht, dem
+Weihzustand beizutreten, und das Parfümieren
+(für Männer).
+Das Anziehen von einem zweiteiligen weißen
+Gewand (Lendenschurz und Überwurf) für
+Männer.
+Die Nägel und die Haare zu kürzen, bevor man
+die Absicht zum Verrichten der Pilgerfahrt fasst.
+Dass man die Formel „Labayyka Aḷḷāhumma
+labayk“ (Wir sind Deinem Ruf nachgekommen,
+o Aḷḷāh) wiederholt, und zwar ab dem Beitreten
+des Weihzustandes und bis zur Besteinigung des
+Satan-Symbols.
+Die Ankunftsumrundung (ṭawāf al-qudūm) der
+Kaaba für die isolierte (ḥağğ mufrad) und
+begleitete Pilgerfahrt (ḥağğ muqrin).
+Dass man sich in den ersten drei Runden um die
+Kaaba sich beeilt, und zwar während der
+Ankunftsumrundung (ṭawāf al-qudūm) und in
+der ʽUmra-Umrundung während der kleinen
+Pilgerfahrt für den Verrichter der angenehmen
+Pilgerfahrt (ḥağğ at-tamatuʽ).
+Dass die Männer ihre rechte Schulter enthüllen,
+und zwar nur während der Ankunftsumrundung
+(ṭawāf al-qudūm) und der ʽUmra-Umrundung
+für den Verrichter der angenehmen Pilgerfahrt
+(ḥağğ at-tamatuʽ)
+Das Verrichten des Abend- und des Nachtgebets
+in Muzdalifa zur Zeit vom Abendgebet, gleich
+nachdem man dort ankommt.
+Die Übernachtung in Minā in der Nacht zum
+Tag von ʽArafa (dem 9. Ḏū ʼl-Ḥiğğā).
+Das Küssen des Schwarzen Steins (an der
+südöstlichen Ecke der Kaaba).
+Dass man sich in Muzdalifa (bei Mekka) vom Morgenanbruch bis kurz vor dem Sonnenaufgang
+befindet.
+
+Verbotenes währed des Weihzustandes
+Das sind neun Taten: Das Rasieren und Schneiden der Kopf- und Körperhaare, das Schneiden
+der Fingernägel, das direkte Decken des Kopfes für Männer, das Anziehen von genähten
+Gewändern für Männer (die für die Gesamtkörpergröße oder einen bestimmten Körperteil
+geschneidert sind), das Anziehen vom Gesichtsschleier und von Handschuhen für Frauen, das
+Parfüm, dazu gehört auch parfümierte Seife, die Jagd, die Eheschließung für sich oder für
+jemanden andern, das Geschlechtsverkehr, das sonstige Flirten zwischen Ehepartnern.
+Wer allerdings etwas davon aus Vergessenheit oder Unwissen tut oder dazu aufgezwungen
+wird, dem obliegt nichts, außer, wer ein Tier jagt, dem obliegt (im Fall des Vergessens oder
+Unwissens) ein Sühneopfer. Wer aber eine dieser verbotenen Taten absichtlich tut, dann werden
+die Verbote in dieser Hinsicht in vier Typen eingeteilt:
+Taten, die kein
+Sühneopfer erfordern:
+Damit ist die
+Eheschließung gemeint,
+entweder für sich oder
+für jemanden andern.
+Dazu zählt auch das
+Flirten, auch ohne
+Geschlechtsverkehr, und
+solange es zu keiner
+Ejakulation gekommen
+ist. Dabei obliegt es dem
+Pilgerer nicht, aber er
+muss seine Tat bereuen.
+Taten, die ein
+äquivalentes Sühneopfer
+erfordern:
+Damit ist die Jagd von
+wilden Tieren gemeint.
+Wer dies unabsichtlich
+während des
+Weihzustandes begeht,
+dem obliegt ein
+Sühneopfer, und zwar
+das Darbringen eines
+Viehopfers, was zwei
+rechtmäßige Richter
+urteilen sollen.
+Taten, deren Sühneopfer
+gravierend ist:
+Das bezieht sich auf das
+Geschlechtsverkehr. Wer
+also vor dem ersten
+Verlassen des
+Weihzustandes (nach
+ṭawāf al-ifāḍa:
+Strömungsumrundung
+nach dem Strömen aus
+ʽArafa) dies tut, der hat
+seine Pilgerfahrt selbst
+verdorben; alle darauf
+folgenden Rituale
+werden ebenso
+verdorben sein. Da muss
+man die ganze
+Pilgerfahrt wiederholen
+und ein Sühneopfer
+darbringen.
+Taten, deren Sühneopfer
+dem für einen Kranken
+entspricht:
+Das bezieht sich auf die
+anderen Verbote und ihr
+Sühneopfer, die einem
+zur Wahl stehen:
+Entweder das Fasten von
+drei Tagen, das Spenden
+von sechs Mahlzeiten
+(jeweils im Wert von
+1,6kg) oder das
+Schlachten eines Schafs,
+dessen Fleisch auf die
+Armen in Mekka verteilt
+wird.
+
+Namen der Pilgertage:
+Yaum at-
+tarwiyya
+(Tag der
+Bewässerung),
+der 8. Ḏū ʼl-
+Ḥiğğā; erhielt
+diese
+Bezeichnung,
+da man an
+diesem Tag
+früher das
+Wasser nach
+Minā
+transportierte.
+Yaum ʽArafa
+(Tag von
+ʽArafa), der 9.
+Ḏū ʼl-Ḥiğğā
+Yaum al-ʽĪd
+(Der Festtag),
+oder yaum an-
+Naḥr (Tag der
+Schlachtopfer):
+der 10. Ḏū ʼl-
+Ḥiğğā
+Yaum al-Qarr
+(Tag der
+Niederlassung),
+der 11. Ḏū ʼl-
+Ḥiğğā; erhielt
+diese
+Bezeichnung,
+da die Pilgerer
+an diesem Tag
+sich in Minā
+niederlassen.
+Yaum an-Nafr
+(Tag der
+Strömung), der
+12. Ḏū ʼl-
+Ḥiğğā.
+Yaum an-Nafr
+aṯ-Ṯānī (Tag
+der zweiten
+Strömung), der
+13. Ḏū ʼl-
+Ḥiğğā.
+Laylat ğamʽ war der Name der Nacht vor dem Fest; sie erhielt diesen Namen, da die Menschen sich in dieser
+Nacht versammelt haben, denn die Bewohner Mekkas gingen vor dem Islam nicht auf die ʽArafa-Ebene.
+Bevorzugte Zeiten des Bittgebets während der Pilgerfahrt sind die folgenden fünf:
+Am Tag von ʽArafa
+(dem 9. Ḏū ʼl-
+Ḥiğğā nach dem
+Mittag bis zum
+Sonnenuntergang
+In Muzdalifa nach
+dem
+Morgenanbruch des
+9. Ḏū ʼl-Ḥiğğā bis
+zum
+Sonnenaufgang.
+Nach dem
+Besteinigen des
+kleinen und des
+mittleren Satan-
+Symbols an dem
+11., 12., 13. Ḏū ʼl-
+Ḥiğğā
+Während der
+Umrundung der
+Kaaba.
+Während des
+siebenmaligen
+Laufs zwischen den
+beiden Hügeln aṣ-
+Ṣafā und al-
+Marwā.
+
+Beschreibung der kleinen und großen Pilgerfahrt
+Scheich Moḥāmmad Ibn Ṣāliḥ al-ʽUṯaymīn, möge Aḷḷāh Sich seiner erbarmen, schrieb:
+Wenn ihr die örtliche Grenze (mīqāt) erreicht habt, dann wascht euch und parfümiert eure
+Körper am Kopf und am Bart, dann fasst die Absicht, die kleine Pilgerfahrt (ʽumra) zusammen
+mit der großen Pilgerfahrt (ḥağğ) in einer angenehmen Pilgerfahrt (ḥağğ at-tamatuʽ) zu
+verrichten. Dann begebt euch nach Mekka, indem ihr die Formel „Labayyka Aḷḷāhumma
+labayk“ (Wir sind Deinem Ruf nachgekommen, o Aḷḷāh) wiederholt. Wenn ihr aber die heilige
+Moschee erreicht, dann umrundet die Kaaba siebenmal als ʽUmra-Umrundung (genannt auch ṭawāf az-
+ziara: Besuchsumrundung) und wisst, dass die ganze Moschee geeignet ist, die Kaaba zu umrunden, ob
+von der Nähe oder von der Ferne. Bestimmt ist die nahe Umrundung besser, wenn einem durch die
+großen Menschenmengen kein Schaden zuteil wird, ansonsten sollte man sich von dem Gedränge
+fernhalten. Gott sei Dank ist die Moschee geräumig. Wenn man dann mit der Umrundung fertig ist, dann
+sollte man zwei Gebetsabschnitte hinter dem Stand des Propheten Ibrāhīm, Aḷḷāhs Frieden auf ihm,
+verrichten, und zwar entweder in dessen Nähe, wenn das möglich ist, sonst könnte man diese zwei
+Abschnitte etwas ferner verrichten. Hauptsache soll der Stand des Propheten Ibrāhīm zwischen dem
+Betenden und der Kaaba sein. Dann soll man zwischen den beiden Hügeln aṣ-Ṣafā und al-Marwā
+siebenmal laufen, indem man mit der Ṣafā-Hügel anfängt. Wenn man mit den sieben Läufen fertig ist,
+dann sollte man sich die Haare (vom ganzen Kopf und nicht von einer Seite, wie viele es tun)
+abschneiden.
+Wenn der 8. von Ḏū ʼl-Ḥiğğa fällig ist, dann sollt ihr euch waschen, parfümieren und dem Weihzustand
+für die Pilgerfahrt beitreten, und zwar je nachdem, wo ihr hergekommen seid, dann sollt ihr euch nach
+Minā begeben und dort das Mittags-, Nachmittags-, Abend-, Nacht- und Morgengebet in gekürzter Form
+(qaṣr: für die Gebete aus vier Abschnitten) verrichten, und zwar ohne die Gebete zusammenzuführen
+(ğamʽ), da der Prophet, Aḷḷāhs Segen und Frieden auf ihm, in Minā und in Mekka die langen Gebete
+kürzte, ohne sie zusammenzuführen. Wenn die Sonne am Tag von ʽArafa aufgeht, so geht dorthin, indem
+ihr gottesfürchtig die Formel „Labayyka Aḷḷāhumma labayk“ (Wir sind Deinem Ruf
+nachgekommen, o Aḷḷāh) wiederholt. Dort (d.h. auf der ʽArafa-Ebene) sollt ihr das Mittags- und
+Nachmittagsgebet gekürzt (jeweils zwei Gebetsabschnitte) und zur Zeit des Mittagsgebet (ğamʽ taqdīm)
+verrichten. Dann sollt ihr euch mit dem Beten und Flehen Aḷḷāhs beschäftigen. Versucht dabei rein zu
+sein, richtet euch in die Gebetsrichtung, auch wenn der Berg hinter euch ist, da man der Gebetsrichtung
+konfrontieren soll. Achtet dabei auf die Grenzen der Ebene und deren Markierungen, da viele Pilgerer
+sich außerhalb deren stellen. Wer sich allerdings nicht auf der ʽArafa-Ebene befand, dessen Pilgerfahrt
+wird dann ungültig, denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm sagte:
+
+„Die Pilgerfahrt ist ʽArafa“, die ganze ʽArafa-Ebene gilt als Stand, ihr Osten, Westen, Süden und
+Norden, außer dem Tal (ʽArana-Tal), denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm, sagte „Ich
+stand hier und Ganz-ʽArafa ist ein Stand“.
+Wenn die Sonne untergeht und ihr dessen sicher seid, dann strömt nach Muzdalifa hin, indem ihr
+gottesfürchtig die Formel „Labayyka Aḷḷāhumma labayk“ (Wir sind Deinem Ruf nachgekommen, o
+Aḷḷāh) wiederholt. Seid dabei gemächlich, so weit ihr das könnt und wie euer Prophet, Aḷḷāhs Segen und
+Frieden auf ihm, euch befohlen hat. Denn er verließ ʽArafa, indem er seiner Kamelstute die Zügel weit
+nach hinten zog (damit sie langsam geht), so dass ihr Kopf seinen Sattel berührte, indem er den Leuten
+winkte und sagte: „O ihr Leute, Ruhe, Ruhe“.
+Wenn ihr Muzdalifa erreicht, so sollt ihr dort das Abend- und das Nachtgebet verrichten, dann dort
+übernachten und bis zum Morgengebet bleiben. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, erlaubte
+niemandem Muzdalifa vor dem Morgengebet zu verlassen, außer den Schwachen; denen erlaubte er,
+Muzdaliafa am Ende der Nacht zu verlassen. Wenn ihr dann das Morgengebet verrichtet habt, dann
+wendet euch der Gebetsrichtung zu, lobpreist Aḷḷāh, dankt Ihm und bittet Ihn, bis der Morgen richtig
+anbricht. Dann begebt euch vor dem Sonnenaufgang nach Minā. Sammelt danach sieben Kieselsteine
+und geht zum letzten Satan-Symbol (nämlich demjenigen, der Mekka am nächsten ist) und besteinigt es
+nach dem Sonnenaufgang mit sieben Steinen, indem ihr Aḷḷāh lobpreist, Ihm unterwürfig seid und Ihn
+mit jedem Stein lobt und „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte) sagt.
+Wisst, dass die Besteinigung darauf zielt, Aḷḷāh zu ehren und Ihm zu gedenken. Die Kieselsteine sollen
+in den Becken (darunter) fallen, und man muss nicht unbedingt den Satan-Stab treffen. Wenn man mit
+der Besteinigung fertig ist, so soll man die Tieropfer schlachten. Dies ist weder zu ersetzen noch kann
+darauf verzichtet werden. Dabei könnte man jemanden mit dem Schlachten beauftragen. Danach sollten
+Männer sich die Haare rasieren (bzw. rasieren lassen), und zwar den ganzen Kopf. Es ist nicht erlaubt,
+lediglich einen Teil des Kopfes zu rasieren (bzw. rasieren zu lassen). Was die Frauen angeht, so sollen
+sie ungefähr ein Zentimeter lang von den Haaren abschneiden. Damit hat man den Weihzustand
+teilweise verlassen. Daraufhin kann man sich (ein genähtes Gewand) anziehen, sich die Fingernägel
+schneiden und sich parfümieren, allerdings ist das Geschlechtsverkehr noch nicht erlaubt. Dann sollte
+man sich vor dem Mittagsgebet nach Mekka begeben, die Kaaba siebenmal umrunden und zwischen
+den beiden Hügeln aṣ-Ṣafā und al-Marwā ebenfalls siebenmal laufen. Wenn man mit der Umrundung,
+dem Lauf zwischen den beiden Hügeln, und vorhin schon mit der Besteinigung und dem Rasieren fertig
+ist, dann hat man den Weihzustand völlig verlassen; dem Pilgerer ist dann alles erlaubt , selbst das
+Geschlechtsverkehr.
+
+O, ihr Leute, der Pilgerer soll am Festtag vier Rituale verrichten: Die Besteinigung, das Schlachten des
+Tieropfers, das Rasieren, dann die Umrundung (ṭawāf) und der Lauf (saʽiyy) zwischen den beiden
+Hügeln aṣ-Ṣafā und al-Marwā. Diese ist die richtige Reihenfolge, allerdings sollte man sie ändern,
+indem man beispielsweise sich zuerst rasiert, dann das Tieropfer schlachtet, dann wäre es kein Problem.
+Wenn man auch die Umrundung und den Lauf aufschiebt, bis man Minā verlässt, dann ist es kein
+Problem. Auch wenn man das Schlachten des Tieropfers aufschiebt und erst in Mekka am 13. Ḏū ʼl-
+Ḥiğğā schlachtet, dann ist es kein Problem, insbesondere, wenn man das aus Notwendigkeit und
+Berücksichtigung des Interesses tut.
+Weiterhin soll man in Minā die Nacht auf den 11. Ḏū ʼl-Ḥiğğā übernachten. Wenn es Mittag ist, dann
+soll man die drei Satan-Stäbe besteinigen, angefangen mit der ersten, dann der mittleren, dann der
+letzten, jeweils mit sieben Steinen und mit jedem Wurf die Formel „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte)
+wiederholen. Die Zeit zur Besteinigung am Festtag beginnt für denjenigen, der dazu fähig ist, nach dem
+Sonnenaufgang, und für den Schwachen am Nachmittag und dauert bis zum Sonnenuntergang. Nach
+dem Fest soll man vom Mittag an bis zum Sonnenuntergang besteinigen und darf das nicht vor dem
+Mittag tun; vielmehr ist die Besteinigung in der Nacht erlaubt, wenn das Gedränge tagsüber sehr groß
+ist. Wer selbst nicht besteinigen kann, entweder weil er zu jung, zu alt oder krank ist, der kann jemanden
+beauftragen, für ihn zu besteinigen. Der Beauftragte kann dann für sich und für den Aufträger zugleich
+besteinigen. Allerdings soll er zuerst mit der Besteinigung für sich selbst anfangen. Wenn man am 12.
+Ḏū ʼl-Ḥiğğā mit der Besteinigung fertig ist, damit hat man die Pilgerfahrt erledigt. Dann hat man die
+Wahl, entweder Minā zu verlassen, oder wenn man will, kann man die Nacht auf den 13. Ḏū ʼl-Ḥiğğā
+in Minā übernachten und die drei Satan-Stäbe nach dem Mittag besteinigen. Und das ist besser, weil der
+Prophet, Aḷḷāhs Segen und Frieden auf ihm, es getan hat.
+Wenn man Mekka verlassen will, dann soll man die Abschiedsumrundung (ṭawāf al-wadāʽ) verrichten;
+allerdings darf eine Frau, die ihre Blutung (entweder wegen der Menustration oder des Wochenbetts)
+hat, die Kaaba nicht umrunden. Noch darf sie die Moschee betreten.
+
+Fragen zur großen Pilgerfahrt (ḥağğ)
+5. Wem obliegt die große Pilgerfahrt?
+a. .....................................................................................................................................
+b. .....................................................................................................................................
+c. .....................................................................................................................................
+d. .....................................................................................................................................
+e. Und für die Frau kommt noch hinzu: .........................................................................
+6. Wie viele Säulen hat die große Pilgerfahrt?  zwei.  drei.  vier.
+7. Das Beitreten des Weihzustandes ist eine Säule der großen Pilgerfahrt und bedeutet, das
+zweiteilige Gewand (für Männer) von der örtlichen Grenze (mīqāt) anzuziehen. (richtig-
+falsch).
+8. Die Strömungsumrundung (ṭawāf al-ifāḍa) ist anders als die ʽUmra-Umrundung (ṭawāf al-
+ʽumra); die erste ist nämlich eine Säule der großen Pilgerfahrt, während die zweite
+freiwillig und vom Propheten überliefert (sunna) ist. (richtig-falsch).
+9. Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, verrichtete die große Pilgerfahrt dreimal.
+(richtig – falsch).
+10. Man soll die große Pilgerfahrt möglichst bald verrichten. (richtig – falsch).
+11. Die Bewohner von Medina sollen dem Weihzustand beitreten, wenn sie die örtliche Grenze
+von „Yalamlam“ erreicht haben. (richtig – falsch).
+12. Die zeitliche Grenze für die kleine Pilgerfahrt (ʽumra) ist der Monat Ramaḍān. (richtig –
+falsch).
+
+13. Ergänze folgende Sätze: Die große (ḥağğ) und die kleine Pilgerfahrt (ʽumra) sind
+.................. im Leben ein ................; wer die große Pilgerfahrt verrichtet, ohne weder
+.......................... noch ....................... , dem wurden seine Sünden vergeben, als ob er wieder
+geboren wäre. Die angenommene Pilgerfahrt wird mit .................................. vergolten.
+14. Die örtliche Grenze für die Bewohner von Mekka ist ein Ort namens „at-Tanʽīm“. (richtig
+– falsch).
+15. Die Frau zieht sich ein weißes Gewand für den Weihzustand an. (richtig – falsch).
+16. Demjenigen, der dem Weihzustand beitreten soll, ist es erwünscht .................... zu
+parfümieren, allerdings nicht ........................... .
+17. Der Frau ist es nicht erlaubt, während des Weihzustandes ein genähtes Gewand zu tragen.
+(richtig – falsch).
+18. Dem Pilgerer ist es während des Weihzustandes nicht erlaubt, einen Gürtel zu tragen.
+(richtig – falsch).
+19. Die Frau darf während des Weihzustandes weder ...................... noch .......................... zu
+tragen.
+20. Es ist nach dem Propheten überliefert (sunna), die rechte Schulter (für Männer) zu
+enthüllen, und zwar während:
+ʽUmra-Umrundung.  Ankunfsumrundung.  Besuchsumrundung.
+ der ersten und zweiten Umrundung.    allen vorigen Umrundungen.
+21. Es ist erwünscht, zwischen den beiden Hügeln aṣ-Ṣafā und al-Marwā schnell zu laufen.
+(richtig – falsch).
+22. Der Lauf zwischen den beiden Hügeln beginnt bei dem Hügel ................ und endet mit dem Hügel
+...................... .
+23. Die Pilgerer sollen die ʽArafa-Ebene vor dem Sonnenuntergang verlassen. (richtig – falsch).
+24. Das Stehen auf der ʽArafa-Ebene ist eine Pflicht der großen Pilgerfahrt. (richtig – falsch).
+25. Die Rituale der Pilgerfahrt beginnen an dem ........................ Tag und enden am Ende des
+........................ Tages.
+
+26. Es gilt nicht als Pflicht, den Berg auf der ʽArafa-Ebene zu besteigen. (richtig – falsch).
+27. Das Schlachten eines Tieropfers obliegt dem Pilgerer, wenn er eine angenehme Pilgerfahrt
+(ḥağğ at-tamatuʽ) und eine begleitete (ḥağğ al-qirān) verrichtet; für den Pilgerer, der eine
+isolierte Pilgerfahrt (ḥāğğ mufrad) verrichtet, ist es jedoch nur erwünscht. (richtig – falsch).
+28. Man soll aufhören, die Formel „Labayyka Aḷḷāhumma labayk“ (Wir sind Deinem Ruf
+nachgekommen, o Aḷḷāh) zu wiederholen, wenn man anfängt, den ersten Satan-Stab am
+Festtag zu besteinigen. (richtig – falsch).
+29. Wenn der Pilgerer den Satan-Stab nicht treffen konnte, allerdings fiel sein Stein in den
+Becken darunter, dann ist die Besteinigung gültig. (richtig – falsch).
+30. Der Pilgerer besteinigt am zehnten von Ḏū ʼl-Ḥiğğa alle drei Satan-Stäbe. (richtig – falsch).
+31. Die Besteinigung beginnt am 11., 12., 13. erst nach dem Mittag. (richtig – falsch).
+32. Man soll nach der Besteinigung ein Bittgebet aussprechen. (richtig – falsch).
+33. Wenn man die Strömungsumrundung ( ṭawāf al-ifāḍa) bis zum Verlassen Mekkas
+aufschiebt, dann braucht man keine Abschiedsumrundung (ṭawāf al-wadāʽ) zu verrichten;
+die Strömungsumrundung (ṭawāf al-ifāḍa) gleicht der ʽUmra-Umrundung, außer in
+....................... und ........................... .
+34. Der Pilgerer, der eine begleitete (ḥağğ al-qirān) oder eine isolierte Pilgerfahrt (ḥāğğ
+mufrad) verrichtet, muss ......................... laufen, allerdingst derjenige, der eine angenehme
+Pilgerfahrt (ḥağğ at-tamatuʽ) verrichtet, läuft ............................ .
+35. Nenne das Urteil hinsichtlich folgender Taten:
+Frage Urteil
+Die Pilgerfahrt eines Kindes. ............................................................................
+Die Pilgerfahrt einer Frau, ohne von ihrem
+Ehemann oder einem anderen Verwandten,
+der ihr heiratsverboten ist, begleitet zu
+werden.
+............................................................................
+Die Pilgerfahrt eines Verschuldeten. ............................................................................
+
+## Erläuterung der fünfzehnten Lektion
+
+Die fünfzehnte Lektion
+Die guten Manieren, die sich für jeden Muslim gebühren
+Die guten Manieren, die sich für jeden Muslim gebühren, sind unter anderem: Die
+Wahrhaftigkeit, die Ehrlichkeit, die Keuschheit, die Scham, der Mut, die Großzügigkeit, die
+Treue, die Redlichkeit gegenüber allem, was Aḷḷāh verboten hat, die gute Nachbarschaft, die
+Hilfe von Bedürftigen so weit man kann, und andere gute Manieren, auf die der edle Qurʼān
+und die Überlieferungen des Propheten uns hinweisen.
+Wichtige Anmerkungen:
+• (Die Wahrhaftigkeit): Das bedeutet, dass man in seinen Aussagen, Taten und Glauben Aḷḷāh
+gegenüber wahrhaftig ist. Ebenso soll man Aḷḷāhs Dienern gegenüber wahrhaftig sein; das
+Gegenteil ist das Lügen.
+• (Die Ehrlichkeit): Das gilt als eine große Pflicht, die der Mensch trägt und ist das Gegenteil
+von dem Betrug.
+• (Die Keuschheit): bedeutet, dass man sich vom Verbotenen distanziert.
+• (Die Scham): ist eine Sitte, die einen dazu veranlasst, alle guten Taten zu unternehmen und
+alle hässlichen zu unterlassen.
+• (Die gute Nachbarschaft): Das erfordert, die Blicke zu senken und das Erspähen der privaten
+Angelegenheiten der Nachbarn zu unterlassen.
+• (Den Bedürftigen zu helfen): Der Prophet, Aḷḷāhs Segen und Frieden auf ihm, sagte: „Wer
+einem Gläubigen eine Drangsal im Diesseits erleichtert, dem erleichtert Aḷḷāh eine
+Drangsal am Tag der Auferstehung. Und wer einem Zahlungsunfähigen die Zahlung
+erleichtert, dem erleichtert Aḷḷāh seine Angelegenheiten im Diesseits und im Jenseits.
+Wer die Geheimnisse eines Muslims bewahrt, dessen Geheimnisse wird Aḷḷāh im
+Diesseits und im Jenseits bewahren. Und Aḷḷāh hilft dem Menschen, so lange der Mensch
+seinem Bruder hilft“. Überliefert von Muslim.
+
+## Erläuterung der sechzehnten Lektion
+
+Die sechzehnte Lektion
+Die islamischen Sitten
+Zu den islamischen Sitten gehört: Der Gruß, das Lächeln, das Essen mit der rechten Hand und
+das Trinken damit, das Essen im Namen Gottes anfangen und Ihm zu danken, wenn man fertig
+ist, ebenso Aḷḷāh zu danken, wenn man niest, dem Niesenden ein Bittgebet aussprechen (dass
+Aḷḷāh Sich seiner erbarmt), wenn er Aḷḷāh nach dem Niesen gedankt hat, den Kranken besuchen,
+Trauerzügen zu folgen, um am Totengebet teilzunehmen und der Beerdigung beizuwohnen,
+ebenso die Sitten beim Betreten der Moschee und des eigenen Hauses und beim Verlassen der
+beiden, beim Reisen, gegenüber den Eltern, den Verwandten, den Älteren, Jüngeren, der
+Gratulation, wenn man ein Kind bekommt oder wenn man heiratet, den anderen in Todesfällen
+sein Beileid aussprechen und alle weiteren islamischen Sitten beim Anziehen, Ausziehen von
+Kleidung, Schuhen usw.
+Wichtige Hinweise:
+• (Der Gruß): bedeutet, dass man den Gruß ausspricht, und zwar ist die vollständigste
+Grußformel dafür „As-salamu ʽaleikum wa raḥmatu ʼḷḷāhi wa barakātuh“ (Aḷḷāhs Frieden,
+Barmherzigkeit und Segen seien auf euch). Damit grüßt man denjenigen, den man kennt
+und den man nicht kennt; ebenso soll man damit den Gruß von anderen erwirdern.
+• (Das Essen und Trinken mit der rechten Hand): ist obligatorisch, und zwar soll man (wenn
+mit der Hand) mit drei Fingern essen; ebenso ist es erwünscht, mit der rechten Hand das
+Essen zu nehmen und zu geben.
+• (Im Namen Aḷḷāhs das Essen anfangen), d.h. vor dem Essen sagen: „Bi-ʼsmi ʼllāhi ar-
+Raḥmān ar-Raḥīm“ (Im Namen Aḷḷāhs des Erbarmers des Barmherzigen).
+• (Aḷḷāh zu danken, wenn man mit dem Essen fertig ist), und zwar soll man dabei die vom
+Propheten, Aḷḷāhs Segen und Frieden auf ihm, überlieferte Dankformel aussprechen: „Al-
+ḥamdu li-ʼllāhi ʼl-laḏī aṭʽamanī haḏā wa razaqanīh min ġayri ḥaulin minī wa lā quwwā“
+(Ich danke Aḷḷāh, der mir dies zum Essen gab und es mir bescherte, ohne weder Macht noch
+Kraft von mir).
+• Man soll darüber hinaus von dem essen, was einem am nächsten ist und kein Essen
+bemängeln.
+
+1. (Aḷḷāh nach dem Niesen danken) bedeutet, dass man „Al-ḥamdu li-ʼllāh“ (Aḷḷāh sei
+lobgepriesen) sagt.
+2. (Dem Niesenden ein Bittgebet auszusprechen, wenn er danach Aḷḷāh gedankt hat) bedeutet,
+dass man ihm sagt „Yarḥamuka Aḷḷāḥ“ (Möge Aḷḷāh Sich deiner erbarmen), darauf hin
+antwortet der Niesende: „Yahdīkumu ʼḷḷāhu wa yuṣliḥu bālakum“ (Möge Aḷḷāh euch
+rechtleiten und euren Gemütszustand bessern).
+3. (Den Kranken besuchen): bedeutet, dass man ihn wiederholt besuchen soll, und zwar zu
+den passenden Zeiten, bei ihm nicht lange bleiben und ihm keine Hoffnungslosigkeit
+einreden soll.
+4. (Trauerzügen zu folgen, um an dem Totengebet teilzunehmen und der Beerdigung
+beizuwohnen): Dieses Gebot gilt eher den Männern und nicht den Frauen.
+5. (Die Sitten beim Betreten der Moschee und des eigenen Hauses und beim Verlassen der
+beiden): Dabei soll man die Moschee mit dem rechten Fuß betreten, indem man sagt: „Bi-
+ʼsmi ʼllāh, wa ʼṣ-ṣalātu wa ʼs-salāmu ʽalā rasūli ʼllāh, Aḷḷāhumma aftaḥ lī abwāba
+raḥmatik“ (Im Namen Aḷḷāhs, Aḷḷāhs Segen und Frieden seien auf Aḷḷāhs Gesandte. O
+Aḷḷāh, öffne mir die Tore Deiner Barmherzigkeit). Hingegen soll man die Moschee mit dem
+linken Fuß verlassen und dabei sagen: „Bi-ʼsmi ʼllāhi wa ʼṣ-ṣalātu wa ʼs-salāmu ʽalā rasūli
+ʼllāh, Aḷḷāhumma innī asʼaluka min faḍlik“ (Im Namen Aḷḷāhs, Aḷḷāhs Segen und Frieden
+seien auf Aḷḷāhs Gesandte. O Aḷḷāh, ich frage Dich um Deine Gunst). Was das eigene Haus
+angeht, so verlässt man und betritt es mit dem rechten Fuß und sagt beim Verlassen: „Bi-
+ʼsmi ʼllāhi tawakkaltu ʽalā Aḷḷāḥ, wa lā ḥawla wa lā quwwata ilā bi-ʼllāh. Aḷḷāhumma
+innī aʽūḏu bi-ka an aḍilla ū uḍall, au azilla au uzall, au aẓlima au uẓlam, au ağhala au
+yuğhala ʽalayy“ (Im Namen Aḷḷāhs, auf Aḷḷāh verlasse ich mich und es gibt weder Macht
+noch Kraft außer von Aḷḷāh. O Aḷḷāh, ich suche Zuflucht bei Dir davor, dass ich mich irre
+oder irregeführt werde, dass ich eine Sünde begehe oder dazu veranlasst werde, dass ich
+Unrecht tue oder dass mir Unrecht getan wird, dass ich Sündhaftes sage oder dass mir
+Sündhaftes gesagt wird). Beim Betreten des Hauses soll man sagen: „Aḷḷāhumma innī
+asʼaluka ḫayra ʼl-mauliğ wa ḫayra ʼl-maḫrağ. Bi-ʼsmi ʼllāhi walağnā wa bi-ʼsmi ʼllāhi
+ḫarağnā, wa ʽalā rabbinā tawakkalnā“ (O Aḷḷāh, ich frage dich um den besten Eintritt und
+den besten Austritt, im Namen Aḷḷāhs traten wir ein und im Namen Aḷḷāhs traten wir aus.
+Und auf Aḷḷāh verließen wir uns). Dann begrüßt man seine Familie.
+6. (Die Gratulation zur Eheschließung) bedeutet, dass man den Ehpartnern sagt: „Bāraka
+Aḷḷāhu lakumā, wa bāraka ʽalaykumā, wa ğamaʽa baynakumā fī ḫayr“ (Möge Aḷḷāh euch
+und für euch segnen und euch in Wohlfahrt vereinen).
+7. (Beileid in Todesfällen auszusprechen), das soll man innerhalb von drei Tagen und nicht
+danach tun.
+
+## Erläuterung der siebzehnten Lektion
+
+Die siebzehnte Lektion
+Warnung vor der Beigesellung und anderen Sünden
+Es ist vor der Beigesellung und den verschiedenen Sünden zu warnen, darunter sind zu
+nennen:
+Die sieben großen Sünden, nämlich dass man A ḷḷāh jemanden beigesellt, die Zauberei,
+Ermordung eines Menschen außer mit Recht, die Annahme von Zinsen, die Aneignung von der
+Erbschaft eines Waisenkindes, die Flucht beim Vormarsch im Krieg und die Verleumdung von
+Unzucht.
+Zu den großen Sünden gehören auch: Respektlosigkeit den Eltern gegenüber, Abbruch der
+Familienbande, falsche Aussagen, Meineid, Schaden des Nachbarn, anderen Unrecht zu tun,
+sei das durch Mord, Enteignung oder Schändung, sowie Konsum von allen Rauschmitteln
+(darunter auch Alkohol), Lotto- und Glücksspiele, Lästerung und Nachrede sowie alle
+ähnlichen Sünden, die Aḷḷāh, erhaben sei Er, oder sein Gesandte verboten haben.
+Wichtige Kommentare
+• (Dass man Aḷḷāh jemanden beigesellt): umfasst die große (širk akbar) und die kleine
+Beigesellung (širk aṣġar).
+• (Die Zauberei): Dazu gehören solche Zaubereien, die zu Hass oder Liebe zwischen
+Menschen führen sollen. Wer diese Zaubereien selbst begeht oder sie annimmt, der ist vom
+Glauben abgefallen. Es ist ebenso verboten, zu Zauberern zu gehen, ihre Websites zu
+besuchen, die TV-Kanäle des Zaubers, die Horoskope in den Zeitungen und Zeitschriften
+zu lesen; ebenso ist Zauberei nicht mit einer anderen zu begegnen, sondern mit der
+Rezitation von Qurʼān, mit Bittgebeten, sowie mit den erlaubten Heilungsmethoden wie das
+Schröpfen.
+• (Dass man keine Seele ermordet außer mit Recht), egal ob dieser Mensch ein Muslim, ein
+Ausländer, mit dem man ein Abkommen geschlossen hat, ein Jude, ein Christ oder jemand,
+dem man Sicherheit gewehrt hat.
+
+• (außer mit Recht) bezieht sich auf drei Fälle: „Eine Seele für eine andere, die Mordstrafe an
+den Unzucht-Treibenden, wenn er verheiratetet ist (und wenn genügend Beweise dafür
+vorlegen) und einen Apostaten, der vom islamischen Glauben abgefallen ist und sich gegen
+seine Gemeinschaft gewendet hat“.
+• (Das Waisenkind) ist jenes Kind, dessen Vater gestorben ist, bevor es die Heiratsreife
+erreicht hat.
+• (Die Flucht am Tag des Vormarsches) bezieht sich auf jene Armeen, die um Aḷḷāhs Willen
+einen Krieg führen.
+• (Die Verleumdung von Unzucht). Das bezieht sich auf freie Frauen allgemein, nicht nur
+verheiratete.
+• (Der Meineid), ebenso gilt es als eine Sünde, dass man bei etwas oder jemandem andern als
+Aḷḷāh schwört, wie das Schwören beim Propheten, Aḷḷāhs Segen und Frieden auf ihm, oder
+bei der Ehre, beim Leben, bei dem Ruf, dem Grab oder den grauen Haaren.
+• (Lotto- und Glücksspiele): Damit ist jedes Spiel gemeint, dass nur Gewinn oder Verlust
+(von Geld) zulässt.
+• (Die Lästerung): Die hat der Prophet, Aḷḷāhs Segen und Frieden auf ihm, damit definiert:
+„Dass man seinen Bruder auf eine Weise erwähnt, die er hassen würde“.
+• (Die Nachrede): Damit ist gemeint, dass man das Gerede von einem Menschen zum anderen
+weiterleitet.
+Spiele und Wetteiferung
+Mit und ohne Vergütung
+erlaubt:
+Das bezieht sich auf Wettrennen
+von Pferden und Kamelen sowie
+auf Schützwettbewerbe, da der
+Prophet, Aḷḷāhs Segen und Frieden
+auf ihm sagte: „Es ist kein
+Wetteifern zulässig außer
+Wettrennen von Kamelen und
+Pferden oder
+Schützwettbewerbe“.
+Absolut verboten:
+sind Würfelspiele, Schach und
+Ähnliches.
+Ist erlaubt ohne Vergütung und
+verboten gegen Vergütung:
+Damit sind alle anderen
+Wettbewerbe gemeint.
+
+## Erläuterung der achtzehnten Lektion
+
+Die achtzehnte Lektion
+Die Bestattung
+Im Folgenden werden die Waschung des Toten, das Totengebet und das Begräbnis ausgeführt:
+Erstens: Man soll Menschen im Sterbebett das Glaubensbekenntnis „Lā ilaha ilā Aḷḷāh“ (Es
+gibt keinen Gott außer Aḷḷāh) vorsagen bzw. einflüstern, da der Prophet, Aḷḷāhs Segen und
+Frieden auf ihm, sagte: „Sagt euren Sterbenden Lā ilaha ilā Aḷḷāh (Es gibt keinen Gott außer
+Aḷḷāh) vor.“ Mit den Sterbenden sind Menschen im Sterbebett gemeint, d.h. Leute, an denen
+man die Todesvorzeichen erkennen kann.
+Zweitens: Wenn man sich des Todes von dem Sterbenden gewiss ist, dann soll man ihm die
+Augen und den Mund zumachen, indem man das Gesicht von unterhalb des Kinns mit einem
+Band umrundet und diesen oberhalb des Kopfes zubindet, da dies vom Propheten überliefert
+ist.
+Drittens: Ein verstorbener Muslim wird gewaschen, außer dass er als Märtyrer in einer
+Schlacht gefallen ist, erst dann wird er weder gewaschen, noch wird ihm ein Totengebet
+verrichtet. Vielmehr wird er in seiner Kleidung begraben (in der er gestorben ist). Denn der
+Prophet, Aḷḷāhs Segen und Frieden auf ihm, hat die Toten von der Uḥud-Schlacht weder
+gewaschen noch für sie das Totengebet verrichtet.
+Viertens: Die Totenwaschung: Seine Schamteile werden bedeckt, dann wird von unterhalb
+dessen gemächlich auf den Bauch gedrückt, dann nimmt der Wäscher einen Lappen oder
+ähnliches und putzt damit den Anus und das Geschlechtsorgan. Daraufhin wäscht man den
+Verstorbenen wie für die rituelle Gebetswaschung (wuḍūʼ), dann wird ihm der Kopf und den
+Bart mit Wasser, Christusdorn (Sidar) oder ähnlichem gewaschen, dann die rechte Seite, dann
+die linke. Danach wird der ganze Köpfer ein zweites und ein drittes Mal gewaschen und bei
+jedem Mal wird auf den Bauch gedrückt. Wenn dabei etwas aus dem Körper herauskommt,
+dann wird das geputzt, dann wird die Öffnung mit einem Stück Watte oder Ähnlichem gestopft.
+Wenn es nicht taugt, dann mit sauberem Lehm oder mit den modernen medizinischen Mitteln
+wie Pflaster oder ähnlichem. Dann wird die rituelle Gebetswaschung wiederholt. Wenn drei
+Waschungen nicht ausreichen, um den Körper zu reinigen, dann werden sie zu fünf oder sogar
+zu sieben aufgestockt. Dann wird der Körper mit einem Tuch getrocknet, dann werden die
+Achselhöhlen, die Leisten und die Stellen, auf die man sich beim Beten niederwirft (Stirn,
+Handteller, Knien, Zehen) gesalbt. Wenn man sogar den ganzen Körper salben würde, dann
+wäre es besser. Die Leichentücher werden dem Weihrauch ausgesetzt. Wenn sein Schnurrbart
+oder seine Fingernägel zu lang wären, dann ist es erlaubt, sie zu kürzen. Allerdings wäre es
+auch legitim, dies zu unterlassen.
+
+Auch sollen die Haare nicht gekämmt werden, umso weniger soll man die Schamteile rasieren
+oder jenen Verstorbenen beschneiden, da es dafür keinen Beweis vorliegt. Einer Frau sollen die
+Haare in drei Zöpfe hinter dem Rücken geflochten werden.
+Fünftens: Den Verstorbenen in ein Leichentuch einzuhüllen. Das Beste ist, dass der
+verstorbene Mann in drei weiße (ungenähte) Tücher eingehüllt wird, darunter soll sich weder
+ein Hemd noch ein Turban befinden, wie es mit dem Propheten, Aḷḷāhs Segen und Frieden,
+getan wurde. Der Verstorbene wird in diese Tücher eingewickelt; falls man ihn in ein Hemd,
+einen Lendenschurz und ein Tuch einhüllt, dann wäre es auch in Ordnung.
+Eine Frau hingegen wird in fünf Tüchern eingehüllt: einem Hemd, einer Kopfbedeckung, einen
+Lendenschurz und zwei Tüchern.
+Der Junge wird in einem Tuch eingehüllt, das zu drei aufgestockt werden kann, ein Mädchen
+hingegen in einem Hemd und zwei Tüchern.
+Die Pflicht für alle ist ein einziges Tuch, das die ganze Leiche verhüllt.
+Wäre der Verstorbene in dem Weihzustand, dann wird er mit Wasser und Sidar gewaschen und
+in seinem Weihgewand (dem Überwurf und dem Lendenschurz) oder in einem anderen
+eingehüllt, allerdings sollen ihm weder der Kopf noch das Gesicht verdeckt, ebenso wird er
+nicht eingesalbt. Denn er wird am Tag des Jungen Gerichts auferstehen, indem er die Formel
+„Labayyka Aḷḷāhumma labayk“ (Wir sind Deinem Ruf nachgekommen, o Aḷḷāh) ausspricht,
+wie das in dem authentischen Hadith des Propheten, Aḷḷāhs Segen und Frieden auf ihm,
+überliefert ist.
+Würde eine Frau in dem Weihzustand sterben, so wird sie wie sonst jede andere Frau eingehüllt,
+allerdings wird sie weder eingesalbt, noch werden ihr das Gesicht mit einem Gesichtsschleier
+oder die Hände mit Handschuhen bedeckt. Vielmehr werden ihr Gesicht und ihre Hände mit
+demselben Tuch bedeckt, indem sie eingewickelt wird, wie die Einhüllung der verstorbenen
+Frau oben erklärt ist.
+Sechstens: Wer am meisten das Recht darauf hat, einen Mann zu bestatten, ist derjenige, den
+er dafür in seinem Testament genannt hat, dann der Vater, dann der Großvater, dann die
+weiteren Verwandten des verstorbenen Mannes, je nach dem Verwandtschaftsgrad.
+Genauso gilt es für eine verstorbene Frau: Wer am meisten das Recht darauf hat, eine
+verstorbene Frau zu bestatten, ist diejenige, die sie dafür in ihrem Testament genannt hat, dann
+die Mutter, dann die Großmutter, dann die weiteren weiblichen Verwandten der verstorbenen
+Frau, je nach dem Verwandtschaftsgrad.
+
+Den Ehepartnern ist es erlaubt, dass der eine von ihnen den anderen verstorbenen zu bestatten,
+da die Frau von Abū Bakr ihm die Totenwaschung verrichtete, ebenso verrichtete Alyy seiner
+Frau Fāṭima, möge Aḷḷāh Wohlgefallen an ihr haben, die Totenwaschung.
+Siebtens: Das Totengebet: Man spricht die Eröffnungsformel „Aḷḷāhu akbar“ (Aḷḷāh ist der
+Größte) viermal aus. Nach dem ersten Mal rezitiert man Sure al-Fātiḥa (1: Die Eröffnung),
+wenn man danach eine andere kurze Sure bzw. einen oder zwei Verse rezitiert, dann wäre es
+gut, und zwar aufgrund des authentischen Hadith, von Ibn ʽAbbās, Aḷḷāhs Wohlgefallen auf
+beiden. Danach spricht man die Eröffnungsformel „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte) ein
+zweites Mal und die Eulogie für den Propheten, Aḷḷāhs Wohlgefallen auf ihm, wie nach der
+Bezeugung am Ende des Gebets aus. Dann spricht man „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte)
+zum dritten Mal aus, gefolgt von diesem Bittgebet: „O Aḷḷāh, vergib unseren Lebendigen und
+Toten, unseren Anwesenden und Abwesenden, unseren Jüngeren und Älteren, unseren
+Männern und Frauen. O Aḷḷāh, wen Du von uns am Leben lässt, dann lass ihn als Muslim leben.
+Und wen Du von uns sterben lässt, dann lass ihn als Gläubigen sterben. O Aḷḷāh, vergib ihm,
+erbarme Dich seiner, verzeih ihm, unterbringe ihn in eine ehrwürdige Stätte, erweitere seinen
+Empfang, reinige ihn mit Wasser, Schnee und Hagel und erläutere ihn von den Sünden wie ein
+weißes Tuch von Unreinheiten geläutert wird; o Aḷḷāh gib ihm eine bessere Unterkunft als sein
+Haus und eine bessere Gesellschaft als seine Familie, lass ihn das Paradies betreten und
+verschone ihn vor der Qual im Grab und im Höllenfeuer. O Aḷḷāh erweitere ihm das Grab und
+beleuchte es ihm. O Aḷḷāh, verwehre uns ein Lohn wie seins nicht und lass uns nach ihm nicht
+irregehen“. Dann spricht man zum vierten Mal „Aḷḷāhu akbar“ (Aḷḷāh ist der Größte) aus und
+grüßt zum Schluss nur auf seiner rechten Seite mit „As-salamu ʽaleikum wa raḥmatu ʼḷḷāh“.
+Es ist wünschenswert, die Hände jedes Mal mit der Eröffnungs- bzw. Übergangsformel „Aḷḷāhu
+akbar“ (Aḷḷāh ist der Größte) hochzuheben.
+Wenn der Verstorbene eine Frau ist, dann sagt man im Bittgebet: „O Aḷḷāh, vergib ihr… usw.“
+Wenn das Totengebet für zwei wäre, dann sagt man: „O Aḷḷāh, vergib ihnen beiden… usw.“
+Und wenn das Totengebet für mehr als zwei Verstorbene wäre, dann sagt man: „O Aḷḷāh,
+vergib ihnen… usw.“
+Wenn der Verstorbene ein Kind wäre, dann wird anstatt des Bittgebets, dass Aḷḷāh ihm vergibt,
+das folgende Bittgebet ausgesprochen: „O Aḷḷāh, lass es einen Schatz für seine Eltern und
+einen erhörten Fürsprecher für sie sein. O Aḷḷāh lass mit ihm (d.h. mit seinem Tod) ihre
+Waagschalen schwerer werden und belohne sie dafür reichlich. Oh Aḷḷāh, nimm es unter
+den rechtschaffenen gläubigen Vorfahren auf und lass es in dem Obhut des Propheten
+Ibrāhīm sein und schone es mit Deiner Barmherzigkeit vor dem Höllenfeuer“.
+
+Es ist vom Propheten überliefert, dass der Imam sich gegenüber dem Kopf des verstorbenen
+Mannes und dem Rump der verstorbenen Frau stellt. Wenn es mehrere Verstorbene gibt, denen
+man das Todesgebet verrichtet, dann ist der verstorbene Mann dem Imam am nächsten,
+während die verstorbene Frau weiter vorne in die Gebetsrichtung gestellt wird. Wären auch
+Kinder dabei, dann wird der Junge vor der Frau gestellt, dan ach folgt die Frau, dann das
+Mädchen. Der Kopf des verstorbenen Jungen soll parallel zu dem des verstorbenen Mannes
+sein, dann soll der Rumpf der Frau parallel zum Kopf des Mannes liegen, während der Kopf
+des verstorbenen Mädchens parallel zu dem der Frau so liegt, dass auch ihr Rumpf parallel zu
+dem Kopf des Mannes liegt. Alle Betende sollen sich hinter den Imam stellen, außer, wenn
+einer von ihnen keinen Platz hinter dem Imam findet, dann soll er sich an seine rechte Seite
+stellen.
+Achtens: Das Begräbnis: Das Grab soll so tief begraben werden, bis es den Rumpf eines
+Mannes erreicht. Ebenso soll in der Gebetsrichtung eine Nebenhöhle (laḥd) begraben werden,
+in die der Verstorbene auf seine rechte Seite (in die Gebetsrichtung) gelegt wird, dann soll der
+Knoten des großen Leichentuchs aufgelöst werden, ohne das Band zu entfernen. Ebenso darf
+das Gesicht nicht enthüllt werden, egal ob der Verstorbene ein Mann oder eine Frau ist.
+Daraufhin wird diese Nebenhöhle mit Lehmsteinen bedeckt und so verschlossen, dass kein
+Staub darin gelingt. Wenn keine Lehmsteine zur Verfügung stehen, dann verschließt man diese
+Nebenhöhle (laḥd) mit Brettern, Steinen oder Holzstücken, die den Verstorbenen vor Staub
+verschonen. Dann wird das Grab mit Staub verhe hlt. Dabei sollte man das Bittgebet
+aussprechen: „Bi-ʼsmi ʼllāh, wa ʽalā millati rasūli ʼllāh“ (Im Namen Aḷḷāhs und nach der
+Überlieferung von Aḷḷāhs Gesandten). Dann soll das Grab um eine Handbreite erhoben werden,
+darauf soll man – wenn möglich – Kieselsteine legen und es mit Wasser gießen.
+Die Trauernden sollen beim Grab stehen und für den Verstorbenen ein Bittgebet aussprechen,
+denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm, pflegte es, wenn er mit dem Begräbnis
+fertig war, am Grab zu bleiben und zu sagen: „Bittet Aḷḷāh darum, eurem Bruder zu
+vergeben und ihn standhaft zu machen, denn er unterzieht sich jetzt einer Prüfung“.
+Neuntens: Es ist auch erlaubt, dass Leute, die das Totengebet verpasst haben, ein anderes nach
+dem Begräbnis verrichten. Denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm, tat das.
+
+Allerdings soll dieses nachgeholte Totengebet innerhalb von Maximum einem Monat sein;
+wäre bereits mehr als ein Monat seit dem Begräbnis vergangen, dann darf man kein Totengebet
+mehr am Grab verrichten. Denn es wurde nicht vom Propheten überliefert, dass er ein
+Totengebet am Grab nach mehr als einem Monat (seit dem Begräbnis) verrichtete.
+Zehntens: Die Familie des Verstorbenen soll kein Festmahl geben, da der Gefährte Ğarīr Ibn
+ʽAbdu ʼḷḷāh al-Bağlī, Aḷḷāhs Wohlgefallen auf ihm, sagte: „Wir betrachteten die Versammlung
+bei der Familie des Verstorbenen und die Bereitung einer Mahlzeit nach dem Begräbnis als eine
+Art Totenklage“. Hingegen ist es legitim, dass andere für die Familie des Verstorbenen bzw.
+für ihre Gäste kochen. Verwandten und Nachbarn sollen diese Aufgabe sogar übernehmen, da
+der Prophet, Aḷḷāhs Segen und Frieden auf ihm, seiner Familie befahl, für die Familie seines
+Onkels Ğaʽfars Ibn Abī Ṭālib zu kochen, als er von seinem Tod in Syrien hörte. Dabei sagte
+der Prophet: „Zu ihnen kam, was sie bekümmert.“ Die Familie des Verstorbenen darf ihre
+Nachbarn und andere Bekannte zu dieser geschenkten Mahlzeit einladen. Dafür gibt es keine
+bestimmte Zeit, soweit wir das vom islamischen Recht wissen.
+Elftens: Eine Frau darf nicht mehr als drei Tage über einen Verstorbenen trauern, außer, wenn
+dieser Verstorbene ihr eigener Ehemann ist. Über den soll sie nämlich vier Monate und zehn
+Tage trauern, außer sie wäre schwanger, dann soll die Trauer bis zur Entbindung dauern, wie
+dies in den authentischen Überlieferungen des Propheten, Aḷḷāhs Segen und Frieden auf ihm,
+bestätigt ist.
+Hingegen darf der Mann über keine seiner Verwandten oder Bekannten trauern.
+Zwölftens: Es ist Männern erlaubt, ab und zu die Gräber zu besuchen, um den Verstorbenen
+ein Bittgebet auszusprechen, Aḷḷāh darum zu bitten, Sich ihrer zu erbarmen, sowie des Todes
+und des Jenseits zu gedenken. Denn der Prophet, Aḷḷāhs Segen und Frieden auf ihm sagte:
+„Besucht die Gräber, denn sie erinnern euch an das Jenseits“. Er brachte seinen Gefährten
+bei, wenn sie die Gräber besuchen, folgendes Bittgebet auszusprechen: „Aḷḷāhs Frieden sei auf
+euch, o ihr Gläubigen und Muslime unter den Bewohnern dieser Stätte. Wir werden euch
+mit Gottes Erlaubnis nachholen. Wir bitten Aḷḷāh für uns und für euch um Verschonung.
+Aḷḷāh erbarme Sich den früheren von uns und den späteren“.
+
+Frauen hingegen dürfen die Gräber nicht besuchen, denn der Prophet, Aḷḷāhs Segen und Frieden
+auf ihm, sagte: „Aḷḷāh verfluche die Besucherinnen der Gräber“, denn man fürchtet, dass die
+Frauen beim Besuch der Gräber nervenschwach und ungeduldig werden.
+Ebenso sollten sie dem Trauerzug nicht bis zu den Gräbern folgen, da der Prophet, Aḷḷāhs Segen
+und Frieden auf ihm, dies verbot. Was aber das Totengebet in der Moschee oder in dem
+Gebetsraum angeht, so ist es zulässig sowohl für Männer als auch für Frauen.
+Hiermit kommen wir zum Ende des Buches. Möge Aḷḷāh unserem Propheten Moḥāmmad,
+seiner Familie und seinen Gefährten Segen und Frieden schenken.
+Besuch der Gräber lässt sich in drei Typen einteilen
+Zulässiger Besuch Ketzerischer Besuch Verbotener Besuch aufgrund
+von Beigesellung (širk)
+Wenn man damit das Gedenken
+des Jenseis beabsichtigt, deswegen
+keine Reise unternehmen muss,
+dem Verstorbenen nur überlieferte
+Bittgebete ausspricht und keine
+verbotenen Taten am Grab begeht.
+Wenn man damit beabsichtigt,
+Aḷḷāh am Grab um etwas zu bitten.
+Wenn man damit beabsichtigt, den
+Verstorbenen um etwas zu bitten.
+
+Auswertungsfragen
+Fragen zum Vorigen
+1. Es gehört zu den Manieren des Muslims, sich an der Disziplin und an den allgemeinen Sitten zu
+halten. (richtig – falsch).
+2. Der Islam befiehlt, sich mit den Boshaften anzufreunden und sich von den Gütigen zu distanzieren.
+(richtig – falsch).
+3. Der Islam brachte uns bei, mit den Dienern und Handwerkern und anderen gut umzugehen. (richtig
+– falsch).
+4. Ich soll mich mit dem anfreunden, der den anderen mit Worten und Taten leidtut. (richtig – falsch).
+5. Wenn jemand mich beschimpft, dann soll ich darauf antworten und mich dabei amüsieren. (richtig
+– falsch).
+6. Der Islam brachte mir bei, Bedürftigen und Schwachen zu helfen. (richtig – falsch).
+7. Einem Muslim obliegt es gegenüber seinem Bruder im Islam, ihn im Fall seiner Krankheit zu
+besuchen und für ihn ein Bittgebet auszusprechen. (richtig – falsch).
+8. Es gehört zu den Eigenschaften der Gläubigen, die Geheimnisse der Nachbarn zu erspähen. (richtig
+– falsch).
+9. Aḷḷāh sind solche Menschen am liebsten, die den anderen Menschen am nützlichsten sind. (richtig
+– falsch).
+10. Das überlieferte Bittgebet, wenn man das Haus verlässt ist: „Bi-ʼsmi ʼllāhi walağnā wa bi-ʼsmi
+ʼllāhi ḫarağnā, wa ʽalā rabbinā tawakkalnā“ (Im Namen Aḷḷāhs traten wir ein und im Namen
+Aḷḷāhs traten wir aus. Und auf Aḷḷāh verließen wir uns). (richtig – falsch).
+11. Wenn jemand mir die Erbarmung Aḷḷāhs wünscht, nachdem ich geniest habe, dann soll ich ihm
+dieses Bittgebet aussprechen: „Yahdīkumu ʼḷḷāhu wa yuṣliḥu bālakum“ (Möge Aḷḷāh euch
+rechtleiten und euren Gemütszustand bessern). (richtig – falsch).
+12. Wenn man sich Aḷḷāh gedenkt und Ihn, erhaben sei Er, lobpreist, dann wird einem Schutz zuteil. Es
+wird einem dadurch auch Nähe zu Aḷḷāh gewährt. (richtig – falsch).
+
+Auswertungsfragen
+13. Was ist das Zeichen für deine Liebe zu deinem Bruder im Islam?
+……………………………………………………………………………………………………
+14. Als Zeichen des wenigen Glaubens gilt, dass man auf seinen Bruder im Islam neidisch ist. (richtig
+– falsch).
+15. Was sind die Mittel dafür, Liebe herbeizuführen?
+……………………………………………………………………………………………………
+16. Die verbotenen Rauschmittel sind alles, was als Alkohol genannt wird. (richtig – falsch).
+17. Es ist unerwünscht in Speisen und Getränke zu blasen. (richtig – falsch).
+18. Es ist erwünscht, die Finger nach dem Essen und vor dem Händewaschen zu lecken. (richtig –
+falsch).
+19. Die Mäßigkeit ist der erwünschte Weg hinsichtlich des Essens, der Kleidung und des Schmucks.
+(richtig – falsch).
+20. Wer am meisten das Recht darauf hat, einen Mann zu bestatten, ist
+………………………………………., dann ………..…………, dann ……………………, dann
+…………………………………………… .
+21. Dass man die Schulden eines Verstorbenen zurückbezahlt, gilt als:
+ obligatorisch.   nach dem Propheten überliefert.   erlaubt.
+22. Das Begräbnis des Verstorbenen gilt als:   Sunna (nach dem Propheten überliefert).
+ obligatorisch.   Kollektivpflicht.
+23. Dass man dem Sterbenden das Glaubensbekenntnis einflüstert bzw. vorsagt, gilt als:
+ obligatorisch.   nach dem Propheten überliefert.   verboten.
+24. Das Beiwohnen der Totenwaschung, wenn man dabei nicht hilft, gilt als:
+ verboten.   erlaubt.      unerwünscht.
+
+Auswertungsfragen
+25. Der Knoten des Leichentuchs wird aufgelöst, wenn man den Verstorbenen ins Grab legt. (richtig –
+falsch).
+26. Ein Ehepartner darf den anderen nicht bestatten, da das Eheband mit dem Tod aufgelöst ist. (richtig
+– falsch).
+27. Es ist sowohl dem Mann als auch der Frau erlaubt, denjenigen bzw. diejenige zu bestatten, der / die
+……………………………………………….. .
+28. Wer das Totengebet verpasst hat, darf ………… ………….. beten, allerdings nur innerhalb
+………………………………….. .
+29. Das Beweinen eines Verstorbenen ist absolut erlaubt. (richtig – falsch).
+30. Der Verstorbene wird in sein Grab in die Gebetsrichtung gelegt. (richtig – falsch).
+
+## Inhaltsverzeichnis
+
+Inhaltsverzeichnis
+Erläuterung der Einführung ………………………………………………………………………………... 2
+Erläuterung der ersten Lektion: Sure al-Fātiḥa und die kurzen Suren ausführlich ………………………... 4
+Erläuterung der Exegese von as-Saʽdī (Taysīr al-Karīm ar-Raḥman) …………………………………….. 6
+Fragen zur Einführung und zur Exegese …………………………………………………………………... 31
+Erläuterung der zweiten Lektion: Die Säulen des Islams ………………………………………………...... 48
+Erläuterung der dritten Lektion: Die Säulen des Glaubens ………………………………………………... 56
+Erläuterung der vierten Lektion: Typen und Bestandteile des Glaubens an die Einzigkeit Aḷḷāhs (tawhīd)
+und die der Beigesellung (širk) …………………………………………..
+Erläuterung der fünften Lektion: Die Wohltätigkeit ………………………………………………………. 66
+Fragen zum Glauben an die Einzigkeit Aḷḷāhs …………………………………………………………...... 67
+Erläuterung der sechsten Lektion: Die Bedingungen für die Richtigkeit des Gebets …………………….. 73
+Erläuterung der siebten Lektion: Die Säulen des Gebets ………………………………………………...... 77
+Erläuterung der achten Lektion: Die Pflichten des Gebets ………………………………………………... 79
+Erläuterung der neunten Lektion: Erläuterung der Bezeugung (tašahhud) …………….…………………. 80
+Erläuterung der zehnten Lektion: Die überlieferten zusätzlichen Formel und Haltungen im Gebet ……… 81
+Erläuterung der elften Lektion: Was macht das Gebet ungültig? ..……………………..………………….. 83
+Die zusätzliche Niederwerfung wegen Unaufmerksamkeit (suğūd as-sahw) ………..……………………. 85
+Eine kurze Zusammenfassung des Gebets in Bildern ………………………………..……………………. 86
+Zusammenfassung der Gebete und deren Urteile ….………………………………………………………. 96
+Fragen zum Gebet ………………………………………………………………………………….………. 99
+
+Erläuterung der zwölften Lektion: Die Bedingungen der rituellen Gebetswaschung (wuḍūʼ) ………….. 104
+Erläuterung der dreizehnten Lektion: Die Pflichten der rituellen Gebetswaschung (wuḍūʼ) ……………. 106
+Sechs Gründe, die die rituelle Gebetswaschung (wuḍūʼ) ungültig machen lassen ……………………… 107
+Eine Zusammenfassung der kleinen rituellen Waschung (wuḍūʼ) mit Bildern ………………………….. 109
+Anhang über einiges, was mit den Säulen des Islams zusammenhängt. Erstens: Die Reinheit …………. 112
+Fragen zur Reinheit ……………………………………………………………………………………… 116
+Anhang: Zweitens: Die Pflichtabgabe (zakāt) ………………………………………………………… 119
+Fragen zur Pflichtabgabe (zakāt) ……………………………………………………………………… 124
+Anhang: Das Fasten ……………………………………………………………………………………… 128
+Fragen zum Fasten ……………………………………………………………………………………….. 135
+Anhang: Die kleine (ʽumra) und die große Pilgerfahrt (ḥağğ) ………………………………………….. 138
+Fragen zur großen Pilgerfahrt (ḥağğ) ……………………………………………………………………. 146
+Erläuterung der fünfzehnten Lektion: Die guten Manieren, die sich für jeden Muslim gebühren ………. 149
+Erläuterung der sechzehnten Lektion: Die islamischen Sitten …………………………………………... 150
+Erläuterung der siebzehnten Lektion: Warnung vor der Beigesellung und anderen Sünden ……………. 152
+Erläuterung der achtzehnten Lektion: Die Bestattung …………………………………………………… 154
+Fragen zu den Sitten und den Trauerzügen ……………………………………………………………… 160
+
+## Literaturverzeichnis
+
+Literaturverzeichnis
+al-Buḫāri al-Ğaʽfī, Abū Moḥāmmad ʽAbdu ʼḷḷāh Ibn Ismāʽil (256 i.Z.): „Al-ğāmiʽ al-musnad aṣ-ṣaḥīḥ
+al-muḫtaṣar min umūri rasūli ʼllāh, ṣaḷā Aḷḷāhu ʽalayhi wa sallam, wa sunanihi wa
+ayāmih“.
+al-Qurʼān al-karīm. Bi-ruwāyat Ḥafṣ ʽan ʽĀṣim.
+an-Naisābūrī, Abū ʼl-Ḥussayn Muslim Ibn al-Ḥağğāğ (261 i.Z.): „Al-ğāmiʽ al-musnad aṣ-ṣaḥīḥ“.
+as-Saʽdī, ʽAbder-Raḥmān Ibn Nāṣir (1376 i.Z.):: „Taysīr al-karīm ar-Raḥmān fī tafsīr kalām al-
+Mannān“.
+Ibn ʽUṯaymīn, Muḥammad Ibn Ṣāliḥ (1421 i.Z.): „Al-Qaul al-mufīd ʽalā kitāb at-tawḥīd“.
+Ibn ʽUṯaymīn, Muḥammad Ibn Ṣāliḥ (1421 i.Z.): „Aš-Šarḥ al-mumtiʽ ʽalā zād al-mustaqniʽ“.

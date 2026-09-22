@@ -25,4 +25,4 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
   Protokoll, Klassenliste) im DEEN-Bildungszentrum-Design
 - `uebersetzungen/durus-al-muhimmah/` – Ad-Durus al-Muhimmah li ʿĀmmat al-Ummah (Ibn Bāz): arabisch/
   deutsche und englische Ausgabe sowie die vollständige Erläuterung (Šarḥ) von Scheich Hayṯam
-  Sarḥān, Lektion 1–11, als Markdown extrahiert
+  Sarḥān, alle 18 Lektionen, als Original-PDF und als durchsuchbares Markdown
