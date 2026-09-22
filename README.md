@@ -13,8 +13,7 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
 - **`protokolle/`** – Gesprächs-/Meeting-Protokolle der Lehrkräfte (z. B. Unterrichtsplanung,
   Klassenorganisation) sowie zugehörige Klassenlisten, jeweils als Markdown und – wo erstellt – als
   formatiertes PDF.
-- **`uebersetzungen/`** – Platzhalter für Buchübersetzungen; wird befüllt, sobald konkrete Texte/Bücher
-  dazukommen.
+- **`uebersetzungen/`** – Buchübersetzungen/-materialien, je Buch ein eigener Unterordner.
 
 ## Aktueller Stand
 
@@ -24,3 +23,6 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
   korrigiert und alphabetisch sortiert
 - `protokolle/2026-09-16_Gespraechsprotokoll_Klasse3.pdf` – formatiertes PDF (Deckblatt mit Logo,
   Protokoll, Klassenliste) im DEEN-Bildungszentrum-Design
+- `uebersetzungen/durus-al-muhimmah/` – Ad-Durus al-Muhimmah li ʿĀmmat al-Ummah (Ibn Bāz): arabisch/
+  deutsche und englische Ausgabe, das GoodNotes-Notizbuch dazu sowie eine Markdown-Abschrift der
+  bisher einzigen ausgefüllten Notizseite (Erläuterung Lektion 6)
