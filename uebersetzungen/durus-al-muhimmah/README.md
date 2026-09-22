@@ -10,15 +10,18 @@ Unterricht vorgesehene Werk von Scheich ʿAbdul-ʿAzīz Ibn Bāz.
   Totengebet/Bestattung etc.), inkl. Inhaltsverzeichnis.
 - **`important-lessons-for-the-muslim-ummah-en.pdf`** – englische Ausgabe (Übersetzung/Bearbeitung
   von Dr. Saleh as-Saleh).
-- **`die-wichtigen-lektionen-notizbuch.pdf`** – das Hintergrund-PDF eines GoodNotes-Notizbuchs
-  (166 Seiten, größtenteils als Vorlage angelegt für eigene Notizen/Erläuterungen zu den
-  Lektionen). **Aktuell ist nur eine Seite (Seite 75, entspricht Buchseite 74) tatsächlich
-  ausgefüllt** – eine Tabelle zur Erläuterung der sechsten Lektion (Reinheitsbedingungen des
-  Gebets). Die restlichen Seiten sind leer.
-- **`notizen-lektion-6.md`** – lesbare Markdown-Abschrift dieser einen ausgefüllten Seite.
+- **`die-wichtigen-lektionen-notizbuch.pdf`** – Hintergrund-PDF des GoodNotes-Notizbuchs (166
+  Seiten).
+- **`erlaeuterung-sarhan.md`** – der eigentliche Buchinhalt dieses Notizbuchs: die vollständige
+  **Erläuterung (Šarḥ)** des Buches von Scheich **Hayṯam Ibn Muḥammad Ğamīl Sarḥān**
+  (ehem. Dozent am Ḥaram-Institut der Propheten-Moschee Medina), Lektion 1 bis 11, inkl.
+  Verständnisfragen am Ende der Lektionen. Extrahiert aus dem internen GoodNotes-Volltextindex
+  (OCR-Grundlage des importierten Buches – nicht handschriftliche Notizen). Reihenfolge und
+  Absatzgrenzen können an einzelnen Stellen vom gedruckten Original abweichen; bei Bedarf gegen
+  das PDF gegenprüfen. Lektionen 12–18 waren im Notizbuch (noch) nicht enthalten.
 
 ## Hinweis
 
-Handschriftliche Anmerkungen/Tinte, die in GoodNotes zusätzlich zum Hintergrund-PDF gespeichert
-sein könnten, liegen in einem proprietären Binärformat (Protobuf) vor und wurden hier nicht
-dekodiert – nur der PDF-Inhalt selbst wurde ausgewertet.
+Persönliche handschriftliche Anmerkungen/Tinte, sofern in GoodNotes vorhanden, liegen in einem
+separaten proprietären Binärformat vor und wurden bewusst **nicht** ausgelesen – nur der
+eigentliche Buchinhalt (Text des importierten PDFs über den Suchindex) wurde extrahiert.
