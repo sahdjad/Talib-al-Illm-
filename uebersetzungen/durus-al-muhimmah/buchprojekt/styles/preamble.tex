@@ -1,0 +1,188 @@
+% ============================================================
+% Durūs al-Muhimmah – Unterrichtsausgabe
+% Gemeinsame Präambel: Sprachen, Schriften, Farben, Umgebungen
+% ============================================================
+% WICHTIG: Das bidi-Paket (via polyglossia + \setotherlanguage{arabic})
+% verlangt, ganz am Ende geladen zu werden -- nach amsmath, xcolor,
+% graphicx, tikz, tcolorbox, fancyhdr, hyperref usw. Reihenfolge nicht
+% ohne Grund ändern.
+
+\usepackage{fontspec}
+\usepackage{amsmath}
+\usepackage[a4paper,inner=28mm,outer=22mm,top=26mm,bottom=26mm,bindingoffset=6mm]{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\input{\PROJROOT/styles/colors.tex}
+\graphicspath{{\PROJROOT/assets/}}
+\usepackage[most]{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{needspace}
+\usepackage{titlesec}
+\usepackage{eso-pic}
+\usepackage[colorlinks=true,linkcolor=DarkGreen,urlcolor=DarkGreen,citecolor=DarkGreen,bookmarksopen=true]{hyperref}
+\usepackage{bookmark}
+
+% -- Sprachen (bidi/arabic ganz zuletzt laden) -------------------
+\usepackage{polyglossia}
+\setdefaultlanguage{german}
+\setotherlanguage{arabic}
+
+% -- Schriften -------------------------------------------------
+\setmainfont{Latin Modern Roman}
+\newfontfamily\headingfont{Latin Modern Sans}[Scale=1.0]
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+\newfontfamily\quranfont[Script=Arabic]{Amiri Quran}
+
+\newcommand{\ar}[1]{{\arabicfont\begin{Arabic}#1\end{Arabic}}}
+\newcommand{\quran}[1]{{\quranfont\begin{Arabic}#1\end{Arabic}}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6\baselineskip}
+\linespread{1.12}
+
+% -- Überschriften ----------------------------------------------
+\titleformat{\section}{\headingfont\LARGE\bfseries\color{DarkGreen}}{}{0pt}{}
+\titleformat{\subsection}{\headingfont\Large\bfseries\color{PrimaryGreen}}{}{0pt}{}
+\titleformat{\subsubsection}{\headingfont\large\bfseries\color{SecondaryGreen}}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.4em}{1em}
+\titlespacing*{\subsection}{0pt}{1.2em}{0.8em}
+
+% -- Kopf-/Fußzeile ----------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[LE]{\small\color{MutedText}\textsc{Durūs al-Muhimmah}}
+\fancyhead[RO]{\small\color{MutedText}\nouppercase{\leftmark}}
+\fancyfoot[LE,RO]{\small\color{MutedText}\thepage}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[LE,RO]{\small\color{MutedText}\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+\fancypagestyle{leer}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% ============================================================
+% Didaktische Umgebungen
+% ============================================================
+
+% -- "Der Shaykh رحمه الله sagt:" -------------------------------
+\newtcolorbox{shaykhsagt}{
+  enhanced, breakable,
+  colback=LightBackground, colframe=DarkGreen,
+  boxrule=0.9pt, arc=2pt,
+  left=12pt, right=12pt, top=10pt, bottom=10pt,
+  before skip=14pt, after skip=14pt,
+  fonttitle=\headingfont\bfseries\color{OffWhite},
+  colbacktitle=DarkGreen,
+  title={Der Shaykh \ar{رحمه الله} sagt:}
+}
+
+% -- Lernziele ----------------------------------------------------
+\newtcolorbox{lernziele}{
+  enhanced, breakable,
+  colback=OffWhite, colframe=SecondaryGreen,
+  boxrule=0.8pt, arc=2pt,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  before skip=14pt, after skip=14pt,
+  fonttitle=\headingfont\bfseries\color{DarkGreen},
+  title={Nach dieser Lektion solltest du \dots}
+}
+
+% -- Merke-Kasten ---------------------------------------------------
+\newtcolorbox{merke}{
+  enhanced, breakable,
+  colback=LightSage!35!OffWhite, colframe=Accent,
+  boxrule=1pt, arc=2pt,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  before skip=12pt, after skip=12pt,
+  fonttitle=\headingfont\bfseries\color{DarkGreen},
+  title={MERKE}
+}
+
+% -- Beispiel ------------------------------------------------------
+\newtcolorbox{beispiel}{
+  enhanced, breakable,
+  colback=OffWhite, colframe=PrimaryGreen,
+  boxrule=0.6pt, arc=2pt, dashed,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  before skip=12pt, after skip=12pt,
+  fonttitle=\headingfont\bfseries\color{PrimaryGreen},
+  title={Beispiel}
+}
+
+% -- Hinweis ---------------------------------------------------------
+\newtcolorbox{hinweis}{
+  enhanced, breakable,
+  colback=OffWhite, colframe=MutedText,
+  boxrule=0.6pt, arc=2pt,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  before skip=12pt, after skip=12pt,
+  fonttitle=\headingfont\bfseries\color{MutedText},
+  title={Hinweis}
+}
+
+% -- Zusammenfassung --------------------------------------------------
+\newtcolorbox{zusammenfassung}{
+  enhanced, breakable,
+  colback=DarkGreen!6!OffWhite, colframe=DarkGreen,
+  boxrule=0.9pt, arc=2pt,
+  left=12pt, right=12pt, top=10pt, bottom=10pt,
+  before skip=16pt, after skip=10pt,
+  fonttitle=\headingfont\bfseries\color{OffWhite},
+  colbacktitle=DarkGreen,
+  title={Das Wichtigste zusammengefasst}
+}
+
+% -- Qur'an-Vers-Block --------------------------------------------------
+\newenvironment{quranvers}[1]{%
+  \def\quranversref{#1}%
+  \begin{tcolorbox}[enhanced,breakable,colback=LightBackground,colframe=SecondaryGreen,
+    boxrule=0.7pt,arc=2pt,left=12pt,right=12pt,top=8pt,bottom=8pt,
+    before skip=10pt,after skip=10pt]
+  \begin{center}
+}{%
+  \end{center}
+  \hfill{\small\color{MutedText}[\quranversref]}
+  \end{tcolorbox}
+}
+
+% -- Begriffe-Tabelle ------------------------------------------------
+\newenvironment{begriffe}{%
+  \subsubsection*{Wichtige Begriffe dieser Lektion}
+  \renewcommand{\arraystretch}{1.4}
+  \begin{tabularx}{\linewidth}{@{}l >{\raggedright\arraybackslash}X@{}}
+  \toprule
+  \textbf{\color{DarkGreen}Begriff} & \textbf{\color{DarkGreen}Kurze Bedeutung} \\
+  \midrule
+}{%
+  \bottomrule
+  \end{tabularx}
+}
+
+% -- Lektionstrennseite -------------------------------------------------
+\newcommand{\lektionstrennseite}[3]{%
+  % #1 = Nummer (arabisch, z.B. 01), #2 = römisch/ausgeschrieben für Farbwahl, #3 = Titel
+  \clearpage
+  \thispagestyle{empty}
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{Lesson#2}\rule{\paperwidth}{\paperheight}}%
+  }
+  \null\vspace*{0.30\textheight}
+  \begin{center}
+    {\headingfont\color{OffWhite!85!Lesson#2}\fontsize{22}{26}\selectfont LEKTION}\\[2mm]
+    {\headingfont\bfseries\color{OffWhite}\fontsize{72}{80}\selectfont #1}\\[10mm]
+    {\headingfont\bfseries\color{OffWhite}\fontsize{20}{24}\selectfont #3}
+  \end{center}
+  \clearpage
+}

@@ -1,0 +1,23 @@
+\documentclass[a4paper,11pt,twoside,openright]{book}
+\def\PROJROOT{/home/user/talib-al-illm-/uebersetzungen/durus-al-muhimmah/buchprojekt}
+\input{\PROJROOT/styles/preamble.tex}
+\begin{document}
+
+\input{../templates/titelseite.tex}
+\input{../templates/impressum.tex}
+\input{../templates/vorwort.tex}
+
+\clearpage
+\pagestyle{plain}
+\tableofcontents
+\clearpage
+
+\pagenumbering{arabic}
+\input{lesson-01/lesson.tex}
+
+% Weitere Lektionen werden hier ergänzt, sobald sie fertiggestellt sind:
+% \input{lesson-02/lesson.tex}
+% \input{lesson-03/lesson.tex}
+% ...
+
+\end{document}

@@ -26,3 +26,9 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
 - `uebersetzungen/durus-al-muhimmah/` – Ad-Durus al-Muhimmah li ʿĀmmat al-Ummah (Ibn Bāz): arabisch/
   deutsche und englische Ausgabe sowie die vollständige Erläuterung (Šarḥ) von Scheich Hayṯam
   Sarḥān, alle 18 Lektionen, als Original-PDF und als durchsuchbares Markdown
+- `uebersetzungen/durus-al-muhimmah/buchprojekt/` – Produktionspipeline für die druckfertige
+  zweisprachige (Arabisch/Deutsch) Unterrichtsausgabe „Die wichtigsten Lektionen" (XeLaTeX,
+  Corporate Design aus DEEN- und Kunya-Logo). Lektion 1 ist als Machbarkeitsnachweis
+  vollständig fertig (Buch + Test-Layout); Details und offene Punkte in
+  `buchprojekt/EDITORIAL_NOTES.md`, `buchprojekt/SOURCE_MAP.md` und
+  `buchprojekt/BUILD_README.md`.
