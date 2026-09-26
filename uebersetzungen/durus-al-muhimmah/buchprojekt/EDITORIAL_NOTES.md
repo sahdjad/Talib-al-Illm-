@@ -56,36 +56,46 @@ eingeschobenen Testfragen-Blöcken ("Fragen zur Exegese von Sūra X"). Diese Str
 - **"Fragen zur Exegese …"-Blöcke → `test.tex`** (separate Test-PDF), mit der
   Original-Nummerierung aus Sarḥāns Buch beibehalten.
 
-### Fortschritt Lektion 1 (Stand 22.09.2026)
+### Fortschritt Lektion 1 (Stand 26.09.2026)
 
 | Abschnitt | Status |
 |---|---|
 | Lernmethode, Tafsīr-Buchempfehlung, Umgang mit dem Qurʾān (Z. 98–186) | ✅ fertig |
 | Tafsīr Sūrat al-Fātiḥa (Z. 190–317) | ✅ fertig, inkl. arabischem Urtext |
 | Fragen 1–34 (Einführung + al-Fātiḥa, Z. 913–1054) | ✅ in `test.tex` übertragen |
-| Tafsīr Āyat al-Kursiyy (2:255, Z. 318–381) | ⏳ ausstehend |
-| Tafsīr Sūrat az-Zalzala (99, Z. 382–419) | ⏳ ausstehend |
-| Tafsīr Sūrat al-ʿĀdiyāt (100, Z. 421–476) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Qāriʿa (101, Z. 478–516) | ⏳ ausstehend |
-| Tafsīr Sūrat at-Takāṯur (102, Z. 518–561) | ⏳ ausstehend |
-| Tafsīr Sūrat al-ʿAṣr (103, Z. 563–592) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Humaza (104, Z. 594–629) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Fīl (105, Z. 631–652) | ⏳ ausstehend |
-| Tafsīr Sūrat Quraiš (106, Z. 654–675) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Māʿūn (107, Z. 677–713) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Kawṯar (108) | ⏳ ausstehend, Zeilen noch zu ermitteln |
-| Tafsīr Sūrat al-Kāfirūn (109) | ⏳ ausstehend |
-| Tafsīr Sūrat an-Naṣr (110) | ⏳ ausstehend |
-| Tafsīr Sūrat al-Masad (111) | ⏳ ausstehend (im Original ggf. nicht enthalten – prüfen) |
-| Tafsīr Sūrat al-Iḫlāṣ (112) | ⏳ ausstehend |
-| Tafsīr al-Falaq (113) | ⏳ ausstehend |
-| Tafsīr an-Nās (114) | ⏳ ausstehend |
-| zugehörige Fragen-Blöcke zu allen obigen Sūren | ⏳ ausstehend, in `test.tex` zu ergänzen |
+| Tafsīr Āyat al-Kursiyy (2:255, Z. 318–381) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat az-Zalzala (99, Z. 382–419) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-ʿĀdiyāt (100, Z. 421–476) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Qāriʿa (101, Z. 478–516) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat at-Takāṯur (102, Z. 518–561) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-ʿAṣr (103, Z. 563–592) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Humaza (104, Z. 594–629) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Fīl (105, Z. 631–652) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat Quraiš (106, Z. 654–675) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Māʿūn (107, Z. 677–713) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Kawṯar (108, Z. 715–739) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Kāfirūn (109, Z. 741–756) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat an-Naṣr (110, Z. 758–795) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr Sūrat al-Masad (111, Z. 797–826) | ✅ fertig, inkl. arabischem Urtext (im Original enthalten) |
+| Tafsīr Sūrat al-Iḫlāṣ (112, Z. 828–848) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr al-Falaq (113, Z. 850–876) | ✅ fertig, inkl. arabischem Urtext |
+| Tafsīr an-Nās (114, Z. 878–910) | ✅ fertig, inkl. arabischem Urtext |
+| zugehörige Fragen-Blöcke zu allen obigen Sūren (Fragen 35–148, Z. 1055–1479) | ✅ vollständig in `test.tex` übertragen (mit `enumitem`-`resume`, damit die Original-Nummerierung erhalten bleibt) |
 
-Arabischer Text für die Kurzsūren (99–114) sowie Āyat al-Kursiyy liegt in Sarḥāns Quelle
-**nicht** vor (0 arabische Zeichen im gesamten 166-seitigen Werk, siehe unten) und muss wie
-bei al-Fātiḥa aus dem canonical Mushaf-Text (Ḥafṣ ʿan ʿĀṣim) gesetzt werden – Standardtext,
-kein Erfinden, aber vor Druck gegen einen Mushaf zu verifizieren.
+**Damit ist Lektion 1 (Text und Test) inhaltlich vollständig** – nichts aus Sarḥāns Erläuterung zu
+al-Fātiḥa, dem Thronvers und den 15 kurzen Sūren wurde gekürzt oder weggelassen.
+
+Arabischer Text für die Kurzsūren (99–114) sowie Āyat al-Kursiyy lag in Sarḥāns Quelle
+**nicht** vor (0 arabische Zeichen im gesamten 166-seitigen Werk, siehe unten) und wurde wie
+bei al-Fātiḥa aus dem canonical Mushaf-Text (Ḥafṣ ʿan ʿĀṣim), sorgfältig mit vollständiger
+Taschkīl transkribiert, gesetzt – Standardtext, kein Erfinden von Ayāt, **aber unbedingt vor
+Druck Wort für Wort gegen einen gedruckten Mushaf zu verifizieren**, da hier (anders als bei
+al-Fātiḥa) noch kein Abgleich mit einem Scan erfolgt ist.
+
+Beide Treiberdateien (`lesson01.tex` und `lesson01_test.tex`) sowie `gesamtbuch.tex` wurden
+nach Ergänzung dieser Abschnitte erfolgreich mit `xelatex` (zweimal) durchgebaut, ohne Fehler
+oder „Missing character“-Warnungen (nach Nachinstallation des `tex-gyre`-Pakets, siehe
+„Offene technische Punkte" unten).
 
 ## Arabischer Urtext (Ibn Bāz' Originallektionen, "Der Shaykh sagt")
 
@@ -154,6 +164,19 @@ dafür bleibt in `test.tex` Platz vorgesehen.
 
 ## Offene technische Punkte
 
+- **Build-Voraussetzung `tex-gyre`-Paket (26.09.2026):** `BUILD_README.md` listet die
+  benötigten `apt`-Pakete, aber `texlive-fonts-extra`/`-recommended` allein stellen die
+  Schriftfamilie „TeX Gyre Heros" (für `\headingfont`) nicht bereit – der Build brach beim
+  Testen mit „Font … not loadable" ab. Zusätzlich `apt-get install tex-gyre` nötig; sollte in
+  `BUILD_README.md` ergänzt werden.
+- **Hartkodierter `\PROJROOT`-Pfad ist Groß-/Kleinschreibungs-abhängig:** In `lesson01.tex`,
+  `lesson01_test.tex` und `gesamtbuch.tex` steht
+  `/home/user/talib-al-illm-/uebersetzungen/...` (klein geschrieben). In dieser Umgebung heißt
+  das Repo-Verzeichnis tatsächlich `/home/user/Talib-al-Illm-/...` (Groß-/Kleinschreibung
+  gemischt), wodurch der Build ohne Workaround mit „File not found" abbricht. Für das Testen
+  in dieser Sitzung wurde ein Symlink außerhalb des Repos angelegt; im Repo selbst wurde
+  nichts geändert, da unklar ist, ob der Pfad in der Zielumgebung des Nutzers ggf. tatsächlich
+  klein geschrieben ist. **Bitte prüfen und ggf. `\PROJROOT` in allen drei Dateien anpassen.**
 - Weißer/heller Schimmer um Logos: gehört zu den Original-Artworks (Transparenz-PNG mit
   weichem Glow), kein Rendering-Fehler.
 - `\headingfont` (Latin Modern Sans) hat keine Kapitälchen (`sc`-Schnitt) – betrifft die

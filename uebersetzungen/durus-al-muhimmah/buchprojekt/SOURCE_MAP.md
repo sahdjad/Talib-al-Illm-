@@ -12,7 +12,11 @@ Ordnet jeden Buchabschnitt seiner Quelle zu.
 | Lektion 1 – „Der Shaykh sagt" (Deutsch) | `addurus-almuhimmah-ar-de.pdf`, S. 4 | `content/lesson-01/lesson.tex` | geprüft, deckt sich mit Arabisch |
 | Lektion 1 – Erläuterung (Lernmethode, Tafsīr-Empfehlung, Grundhaltungen) | `erlaeuterung-sarhan-original.pdf` / `erlaeuterung-sarhan.md`, Z. 98–186 | `content/lesson-01/lesson.tex` | didaktisch umformuliert, inhaltlich treu |
 | Lektion 1 – Sūrah al-Furqān 25:30 | Standard-Mushaf-Text + Sarḥān-Übersetzung | `content/lesson-01/lesson.tex` | Mushaf-Text vor Druck gegenprüfen |
-| Lektion 1 – Tafsīr-Auszüge zu al-Fātiḥa und Kurzsuren | `erlaeuterung-sarhan.md`, Z. 188–1479 | **nicht verwendet**, siehe EDITORIAL_NOTES | als Vertiefungsmaterial vorgesehen |
+| Lektion 1 – Tafsīr al-Fātiḥa | `erlaeuterung-sarhan.md`, Z. 188–317 | `content/lesson-01/lesson.tex` | vollständig übernommen |
+| Lektion 1 – Tafsīr Āyat al-Kursiyy (2:255) | `erlaeuterung-sarhan.md`, Z. 318–381 | `content/lesson-01/lesson.tex` | vollständig übernommen |
+| Lektion 1 – Tafsīr az-Zalzala bis an-Nās (99–114) | `erlaeuterung-sarhan.md`, Z. 382–910 | `content/lesson-01/lesson.tex` | vollständig übernommen |
+| Lektion 1 – arabischer Urtext zu Āyat al-Kursiyy und Sūren 99–114 | Standard-Mushaf-Text (Ḥafṣ ʿan ʿĀṣim), da in Sarḥāns Quelle nicht enthalten | `content/lesson-01/lesson.tex` | Standardtext, **vor Druck gegen Mushaf-Scan zu verifizieren** |
+| Lektion 1 – Fragen 35–148 (Thronvers + Kurzsuren) | `erlaeuterung-sarhan.md`, Z. 1055–1479 | `content/lesson-01/test.tex` | Original-Nummerierung beibehalten |
 | Lektionen 2–18 | Arabisch: `sources/arabisch-ocr-roh/p*.txt` (roh, ungeprüft); Deutsch: `addurus-almuhimmah-ar-de.pdf`; Erläuterung: `erlaeuterung-sarhan.md` | noch nicht angelegt | ausstehend |
 | Logo DEEN Bildungszentrum | vom Nutzer als Bild/PNG geliefert (identisch mit `DBZ-App/client/public/logo.png`) | `assets/logo-deen.png` | vom Nutzer bestätigt |
 | Logo Kunya „Abū ʿĀʾisha al-Kūmāsī" | vom Nutzer als Bild geliefert (2×) | `assets/logo-kunya.jpg` | vom Nutzer bestätigt |
