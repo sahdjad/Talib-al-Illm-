@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+.next/
+# per-project heavy/derived media (rebuildable from project.json + source)
+data/projects/*/render_public/
+data/projects/*/work/
+data/projects/*/previews/
+data/projects/*/source/
+data/projects/*/project.json.tmp

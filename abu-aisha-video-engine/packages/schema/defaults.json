@@ -1,0 +1,71 @@
+{
+  "_comment": "v1 default configuration (spec §40). Values marked adaptive are starting points, not brand rules.",
+  "project": {"languages": ["de", "en"], "review_required": true, "auto_publish": false},
+  "video": {"width": 1080, "height": 1920, "fps": 30, "codec": "h264"},
+  "intro": {"enabled": true, "duration_seconds": 4.0, "preset": "classic_blade", "suggest_disable_below_seconds": 25},
+  "content_profiles": {"soft": 1.0, "tazkiyah": 1.0, "general": 1.0, "rebuttal": 2.0},
+  "stage": {"top_landscape": 110, "max_upscale": 3.0, "sharpen": true},
+  "mask": {
+    "mode": "auto",
+    "default_fade_start": 0.47,
+    "default_fade_end": 0.63,
+    "fade_start_min": 0.36,
+    "fade_end_min": 0.5,
+    "fade_end_max": 0.68,
+    "allow_manual_override": true
+  },
+  "safe_zones": {"left": 80, "right": 130, "top": 110, "bottom": 210},
+  "layout": {
+    "subtitle_top_overlap_px": 70,
+    "editorial_lane_height": 76,
+    "gap_px": 14,
+    "brand_height": 136
+  },
+  "subtitles": {
+    "segmentation": "semantic",
+    "target_lines": [1, 4],
+    "maximum_lines": 6,
+    "dynamic_font_size": true,
+    "font_max": 86,
+    "font_min": 48,
+    "keep_lines_font_min": 58,
+    "font_step": 2,
+    "line_height": 1.12,
+    "alignment": "center",
+    "fill": "#FFFFFF",
+    "outline": "#000000",
+    "stroke_ratio": 0.16,
+    "accent": "#E4262B",
+    "editorial_context_scale": 0.62,
+    "editorial_color": "#E9E1C9",
+    "min_block_seconds": 0.7,
+    "linger_gap_seconds": 0.6,
+    "max_cps_warning": 21
+  },
+  "title": {"font_max": 124, "font_min": 70, "max_lines": 3},
+  "translation": {
+    "source_language": "ar",
+    "master_language": "de",
+    "english_from": "de_final",
+    "preserve_honorifics": true,
+    "no_added_meaning": true
+  },
+  "references": {"hallucination_policy": "forbid", "uncertain_reference": "check_required", "arabic_book_titles": "preferred"},
+  "audio": {"voice": "original_only", "background_audio": "manual", "gain_db": 0.0, "limiter_if_peak_above_db": -0.3},
+  "render": {
+    "outputs": ["de_mp4", "en_mp4", "de_srt", "en_srt", "text_package", "project_json"],
+    "crf": 16,
+    "preview_scale": 0.5
+  },
+  "brand": {
+    "calligraphy": "arabic-calligraphy-white.png",
+    "wordmark": "Abu Aisha al Kumasi",
+    "socials": ["instagram", "tiktok", "youtube"]
+  },
+  "fonts": {
+    "subtitle": "RobotoSlab-ExtraBold.ttf",
+    "subtitle_fallback": "Amiri-Bold.ttf",
+    "title": "RobotoSlab-Black.ttf",
+    "arabic": "NotoNaskhArabic-Bold.ttf"
+  }
+}

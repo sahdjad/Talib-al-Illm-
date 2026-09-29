@@ -1,0 +1,344 @@
+{
+ "projectId": "0220967d-9b08-461f-9563-2ade5a8b67df",
+ "lang": "de",
+ "theme": "classic",
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "mode": "video",
+ "contentDuration": 61.215,
+ "audio": "audio.wav",
+ "stage": {
+  "video": "stage.mp4",
+  "still": null,
+  "y": 110,
+  "height": 980,
+  "flow": null
+ },
+ "mask": {
+  "fadeStart": 0.4277,
+  "fadeEnd": 0.5877,
+  "topFade": 0.06
+ },
+ "intro": {
+  "enabled": true,
+  "duration": 4.0,
+  "freezeFrame": "freeze.png",
+  "speakerLine": "🎙️ الشيخ سليمان الرحيلي حفظه الله",
+  "title": "Was macht das Eheleben schön?",
+  "titleFontSize": 110,
+  "titleLines": [
+   "WAS MACHT",
+   "DAS EHELEBEN",
+   "SCHÖN?"
+  ],
+  "intensity": 1.0
+ },
+ "subtitleBox": {
+  "top": 1058,
+  "bottom": 1488,
+  "left": 80,
+  "right": 950
+ },
+ "editorialLane": {
+  "top": 1502,
+  "bottom": 1578,
+  "left": 80,
+  "right": 950
+ },
+ "segments": [
+  {
+   "id": "seg_001",
+   "start": 1.532,
+   "end": 5.778,
+   "type": "spoken",
+   "text": "… solange es zu den\nnützlichen Dingen gehört.",
+   "accent": null,
+   "layout": {
+    "fontSize": 68,
+    "lines": [
+     "… solange es zu den",
+     "nützlichen Dingen gehört."
+    ],
+    "lineHeight": 76
+   }
+  },
+  {
+   "id": "seg_002",
+   "start": 7.548,
+   "end": 10.068,
+   "type": "spoken",
+   "text": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …",
+   "accent": null,
+   "layout": {
+    "fontSize": 72,
+    "lines": [
+     "Zu dem, was das Leben",
+     "zwischen den Eheleuten",
+     "schön macht, gehört, …"
+    ],
+    "lineHeight": 81
+   }
+  },
+  {
+   "id": "seg_003",
+   "start": 11.164,
+   "end": 16.156,
+   "type": "spoken",
+   "text": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …",
+   "accent": null,
+   "layout": {
+    "fontSize": 74,
+    "lines": [
+     "dass der Ehemann,",
+     "wenn er bei seiner Frau",
+     "Eifer für etwas Gutes",
+     "und Nützliches sieht, …"
+    ],
+    "lineHeight": 83
+   }
+  },
+  {
+   "id": "seg_004",
+   "start": 16.156,
+   "end": 18.258,
+   "type": "spoken",
+   "text": "sie darin ermutigt",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "sie darin ermutigt"
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_005",
+   "start": 19.388,
+   "end": 23.42,
+   "type": "spoken",
+   "text": "und ihr zeigt,\ndass darin\nein Nutzen liegt.",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "und ihr zeigt,",
+     "dass darin",
+     "ein Nutzen liegt."
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_006",
+   "start": 23.42,
+   "end": 28.572,
+   "type": "spoken",
+   "text": "Und wenn sie in der Sache\netwas zu weit geht, …",
+   "accent": null,
+   "layout": {
+    "fontSize": 66,
+    "lines": [
+     "Und wenn sie in der Sache",
+     "etwas zu weit geht, …"
+    ],
+    "lineHeight": 74
+   }
+  },
+  {
+   "id": "seg_007",
+   "start": 28.572,
+   "end": 31.452,
+   "type": "spoken",
+   "text": "leitet er sie\nauf gute Art und Weise an.",
+   "accent": null,
+   "layout": {
+    "fontSize": 66,
+    "lines": [
+     "leitet er sie",
+     "auf gute Art und Weise an."
+    ],
+    "lineHeight": 74
+   }
+  },
+  {
+   "id": "seg_008",
+   "start": 31.452,
+   "end": 33.756,
+   "type": "spoken",
+   "text": "Ebenso die Ehefrau:",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "Ebenso die Ehefrau:"
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_009",
+   "start": 33.756,
+   "end": 36.986,
+   "type": "spoken",
+   "text": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
+   "accent": null,
+   "layout": {
+    "fontSize": 66,
+    "lines": [
+     "Wenn sie bei ihrem Mann",
+     "Eifer für etwas Gutes sieht"
+    ],
+    "lineHeight": 74
+   }
+  },
+  {
+   "id": "seg_010",
+   "start": 37.756,
+   "end": 40.402,
+   "type": "spoken",
+   "text": "und Einsatz\nfür etwas Gutes, …",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "und Einsatz",
+     "für etwas Gutes, …"
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_011",
+   "start": 41.212,
+   "end": 45.618,
+   "type": "spoken",
+   "text": "zeigt sie ihm\nihre Freude darüber",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "zeigt sie ihm",
+     "ihre Freude darüber"
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_012",
+   "start": 46.588,
+   "end": 48.856,
+   "type": "spoken",
+   "text": "und ermutigt ihn\nin dieser Sache –",
+   "accent": null,
+   "layout": {
+    "fontSize": 86,
+    "lines": [
+     "und ermutigt ihn",
+     "in dieser Sache –"
+    ],
+    "lineHeight": 96
+   }
+  },
+  {
+   "id": "seg_013",
+   "start": 48.856,
+   "end": 50.61,
+   "type": "spoken",
+   "text": "so wird das Leben schön.",
+   "accent": null,
+   "layout": {
+    "fontSize": 70,
+    "lines": [
+     "so wird das Leben schön."
+    ],
+    "lineHeight": 78
+   }
+  },
+  {
+   "id": "seg_014",
+   "start": 51.26,
+   "end": 55.996,
+   "type": "spoken",
+   "text": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …",
+   "accent": null,
+   "layout": {
+    "fontSize": 72,
+    "lines": [
+     "Und beide Eheleute",
+     "wirken zusammen,",
+     "indem jeder von ihnen …"
+    ],
+    "lineHeight": 81
+   }
+  },
+  {
+   "id": "seg_015",
+   "start": 55.996,
+   "end": 60.188,
+   "type": "spoken",
+   "text": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.",
+   "accent": null,
+   "layout": {
+    "fontSize": 78,
+    "lines": [
+     "… den anderen",
+     "an die Hand nimmt –",
+     "hin zu dem, was nützt."
+    ],
+    "lineHeight": 87
+   }
+  },
+  {
+   "id": "seg_016",
+   "start": 60.188,
+   "end": 61.215,
+   "type": "spoken",
+   "text": "Dies, verehrte Anwesende, …",
+   "accent": null,
+   "layout": {
+    "fontSize": 62,
+    "lines": [
+     "Dies, verehrte Anwesende, …"
+    ],
+    "lineHeight": 69
+   }
+  }
+ ],
+ "editorial": [
+  {
+   "id": "ed_001",
+   "kind": "source",
+   "start": 1.4,
+   "end": 16.2,
+   "text": "📚 فقه عوارض الزوجية",
+   "dir": "rtl",
+   "fontSize": 40
+  }
+ ],
+ "brand": {
+  "calligraphy": "brand/arabic-calligraphy-white.png",
+  "wordmark": "Abu Aisha al Kumasi",
+  "top": 1592,
+  "height": 118,
+  "socials": [
+   "instagram",
+   "tiktok",
+   "youtube"
+  ]
+ },
+ "style": {
+  "subtitleFont": "RobotoSlab-ExtraBold.ttf",
+  "arabicFont": "NotoNaskhArabic-Bold.ttf",
+  "brandFont": "Montserrat",
+  "fill": "#FFFFFF",
+  "stroke": "#000000",
+  "strokeWidth": 0.16,
+  "accent": "#E4262B",
+  "editorialColor": "#E9E1C9"
+ },
+ "debug": {
+  "safeZones": true
+ }
+}

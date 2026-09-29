@@ -1,0 +1,111 @@
+{
+  "provider": "claude-code-session (Claude, interaktive Redaktion nach packages/prompts)",
+  "prompt_versions": {
+    "arabic_cleanup": "arabic_cleanup_v1",
+    "de_translation": "de_translation_v1",
+    "semantic_segmentation": "semantic_segmentation_v1",
+    "en_from_de": "en_from_de_v1",
+    "religious_reference_detection": "religious_reference_detection_v1",
+    "title_generation": "title_generation_v1"
+  },
+  "speaker": {
+    "arabic_display": "الشيخ سليمان الرحيلي حفظه الله",
+    "honorific": "حفظه الله",
+    "latin_display": "Shaykh Sulaymān ar-Ruḥaylī ḥafiẓahullāh",
+    "intro_line": "🎙️ الشيخ سليمان الرحيلي حفظه الله",
+    "identity_note": "Vom Nutzer angegeben (\"شيخ سليمان الرحيلي حفظه الله\"); deckt sich mit dem eingeblendeten Namensschild im Video (أ.د. سليمان الرحيلي)."
+  },
+  "arabic_corrections": [
+    {
+      "word": 11,
+      "from": "الزوج",
+      "to": "الزوجين",
+      "reason": "Phrase endet am VAD-Schnitt; Neudekodierung mit weiterem Audiofenster (7,5–10,1 s) ergibt eindeutig „بين الزوجين“; nach „بين“ grammatisch erforderlich.",
+      "lexical_change": true
+    },
+    {
+      "word": 81,
+      "from": "الفضاء",
+      "to": "الفضلاء",
+      "reason": "„أيها الفضاء“ ist sinnlos; übliche Anrede an das Publikum ist „أيها الفضلاء“. Wort liegt am abgeschnittenen Clip-Ende – unsicher.",
+      "lexical_change": true
+    }
+  ],
+  "transcript_flags": [
+    {"kind": "CHECK_TRANSCRIPT", "word": 81, "time": 61.07, "reason": "Clip endet mitten im Wort/Satz – „الفضلاء“ ist eine Rekonstruktion, bitte anhören."},
+    {"kind": "CHECK_TRANSCRIPT", "word": 11, "time": 9.32, "reason": "„الزوجين“ aus Neudekodierung übernommen – kurz anhören."}
+  ],
+  "segments": [
+    {"words": [0, 5], "de": "… solange es zu den\nnützlichen Dingen gehört.", "en": "… as long as it is one\nof the beneficial things.",
+     "notes": "Clip beginnt mit der Fortsetzung eines vorherigen Satzes (Bezug fehlt) – siehe Trim-Vorschlag."},
+    {"words": [6, 11], "de": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …", "en": "Part of what makes life\nbetween spouses\nbeautiful is …"},
+    {"words": [12, 22], "de": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …", "en": "that the husband,\nwhen he sees in his wife\nzeal for something good\nand beneficial, …",
+     "notes": "همة = Eifer/Tatkraft; أمر حسن نافع = eine gute, nützliche Sache."},
+    {"words": [23, 25], "de": "sie darin ermutigt", "en": "encourages her in it"},
+    {"words": [26, 31], "de": "und ihr zeigt,\ndass darin\nein Nutzen liegt.", "en": "and shows her\nthat there is\nbenefit in it."},
+    {"words": [32, 39], "de": "Und wenn sie in der Sache\netwas zu weit geht, …", "en": "And if she goes\nsomewhat too far\nin the matter, …",
+     "notes": "نوع من التجاوز في الأمر = eine Art Überschreitung/Übermaß in der Sache – bewusst nicht verschärft."},
+    {"words": [40, 42], "de": "leitet er sie\nauf gute Art und Weise an.", "en": "he guides her\nin a good manner."},
+    {"words": [43, 44], "de": "Ebenso die Ehefrau:", "en": "Likewise the wife:"},
+    {"words": [45, 52], "de": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht", "en": "When she sees\nin her husband\nzeal for something good"},
+    {"words": [53, 55], "de": "und Einsatz\nfür etwas Gutes, …", "en": "and commitment\nto something good, …",
+     "notes": "عناية بأمر حسن = Sorgfalt/Einsatz für eine gute Sache."},
+    {"words": [56, 59], "de": "zeigt sie ihm\nihre Freude darüber", "en": "she shows him\nher joy about it"},
+    {"words": [60, 63], "de": "und ermutigt ihn\nin dieser Sache –", "en": "and encourages him\nin this matter –"},
+    {"words": [64, 65], "de": "so wird das Leben schön.", "en": "so life becomes beautiful.",
+     "notes": "فتطيب الحياة – Pointe als eigener Block (semantische Teilung innerhalb einer Sprechphrase)."},
+    {"words": [66, 73], "de": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …", "en": "And both spouses\nwork together,\nwith each of them …",
+     "notes": "ويتشارك الزوجان في أن يأخذ كل واحد منهما … = die Eheleute haben gemeinsam Anteil daran, dass jeder …"},
+    {"words": [74, 78], "de": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.", "en": "… taking the other\nby the hand –\ntowards what benefits."},
+    {"words": [79, 81], "de": "Dies, verehrte Anwesende, …", "en": "This, honoured audience, …",
+     "notes": "Angeschnittener neuer Satz am Clip-Ende – siehe Trim-Vorschlag."}
+  ],
+  "titles": {
+    "chosen": {"de": "Was macht das Eheleben schön?", "en": "What makes married life beautiful?"},
+    "suggestions": [
+      {"category": "direct_question", "de": "Was macht das Eheleben schön?", "en": "What makes married life beautiful?", "grounding": "مما تطيب به الحياة بين الزوجين … فتطيب الحياة"},
+      {"category": "concise_thesis", "de": "Ermutigt einander zum Guten", "en": "Encourage one another to what is good", "grounding": "يشجعها … وتشجعه"},
+      {"category": "contrast", "de": "Nimm deinen Ehepartner an die Hand", "en": "Take your spouse by the hand", "grounding": "يأخذ كل واحد منهما بيد الآخر إلى ما ينفع"},
+      {"category": "provocative_question", "de": "Ermutigst du deinen Ehepartner?", "en": "Do you encourage your spouse?", "grounding": "يشجعها على ذلك / وتشجعه على هذا الأمر"},
+      {"category": "concise_thesis", "de": "Gemeinsam zu dem, was nützt", "en": "Together towards what benefits", "grounding": "ويتشارك الزوجان … إلى ما ينفع"}
+    ]
+  },
+  "references": [
+    {
+      "id": "ref_001",
+      "type": "LECTURE_SOURCE",
+      "label": "Vortragsreihe „فقه عوارض الزوجية“ (Fiqh ʿAwāriḍ az-Zawjiyyah), دروس الإمارات / drosuae.ae",
+      "status": "VERIFIED_EXACT",
+      "evidence": "Titel und Veranstalter sind im Quellvideo dauerhaft eingeblendet (Banner oben, Logo drosuae.ae).",
+      "segments": []
+    }
+  ],
+  "detected_religious_spans": {
+    "QURAN_QUOTE": [], "HADITH_QUOTE": [], "SCHOLAR_QUOTE": [], "BOOK_REFERENCE": [], "HISTORICAL_FACT": [],
+    "note": "Kein Qurʾān-, Ḥadīth- oder Gelehrtenzitat im Clip. Inhalt: allgemeine Ermahnung (NORMAL_SPEECH)."
+  },
+  "editorial_notes": [
+    {
+      "id": "ed_001",
+      "kind": "source",
+      "text": {"all": "📚 فقه عوارض الزوجية"},
+      "dir": "rtl",
+      "start": 1.4,
+      "end": 16.2,
+      "status": "VERIFIED_EXACT",
+      "enabled": true,
+      "reference_id": "ref_001",
+      "provenance": "Quellenzeile (redaktionell, nicht gesprochen): Titel der Vortragsreihe laut Banner im Originalvideo."
+    }
+  ],
+  "trim_suggestion": {
+    "trim_in": 6.9,
+    "trim_out": 60.0,
+    "reason": "Der Clip beginnt mit der Fortsetzung eines vorherigen Satzes (0–5,5 s: „ما دام أنه من الأمور النافعة“) und endet mit einem angeschnittenen neuen Satz (ab 60,2 s: „هذه أيها الفضلاء“). Der eigenständige Gedanke läuft von 7,6 s bis 59,7 s. Nur Vorschlag – der Standard-Render nutzt den vollständigen Clip."
+  },
+  "notes": [
+    "Deutsch ist Master; Englisch wurde ausschließlich aus dem finalen Deutsch abgeleitet und nur gegen das Arabische auf Sinnabweichungen geprüft.",
+    "تطيب الحياة durchgehend als „das Leben wird schön“ / „life becomes beautiful“ wiedergegeben (Titel konsistent).",
+    "Keine redaktionellen Erklärungen in den gesprochenen Untertiteln."
+  ]
+}
