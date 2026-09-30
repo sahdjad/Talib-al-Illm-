@@ -12,8 +12,7 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from 'remotion';
-import {ARABIC_STACK, BRAND_STACK, ensureFonts, SUBTITLE_STACK} from './fonts';
-import {SOCIAL_ICONS} from './icons';
+import {ARABIC_STACK, ensureFonts, SUBTITLE_STACK} from './fonts';
 import type {EditorialItem, RenderInput, Segment} from './types';
 
 const src = (p: string) => (/^https?:/.test(p) ? p : staticFile(p));
@@ -86,47 +85,25 @@ const StageLayer: React.FC<{input: RenderInput; frozen?: boolean; introFrames: n
 
 /* ----------------------------------------------------------- brand lockup */
 
-const BrandLockup: React.FC<{input: RenderInput; introFrames: number}> = ({input, introFrames}) => {
+const BrandLockup: React.FC<{input: RenderInput}> = ({input}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const {brand, width} = input;
-  const h = brand.height;
   // Characteristic top-to-down entrance during the intro (spring with small overshoot).
   const enterAt = input.intro.enabled ? Math.round(0.95 * fps) : 0;
-  const sp = input.intro.enabled
-    ? spring({frame: frame - enterAt, fps, config: {damping: 11, stiffness: 120, mass: 0.8}})
+  const sp = input.intro.enabled ? spring({frame: frame - enterAt, fps, config: {damping: 11, stiffness: 120, mass: 0.8}}) : 1;
+  const dy = interpolate(sp, [0, 1], [-(brand.top + brand.height), 0]);
+  const opacity = input.intro.enabled
+    ? interpolate(frame, [enterAt, enterAt + 6], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})
     : 1;
-  const dy = interpolate(sp, [0, 1], [-(brand.top + h), 0]);
-  const opacity = input.intro.enabled ? interpolate(frame, [enterAt, enterAt + 6], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1;
-  const logoH = h;
-  const textSize = Math.round(h * 0.3);
-  const iconSize = Math.round(h * 0.25);
-  void introFrames;
   return (
     <div
       style={{
-        position: 'absolute', left: 0, width, top: brand.top, height: h, display: 'flex', justifyContent: 'center',
-        alignItems: 'center', gap: Math.round(h * 0.2), transform: `translateY(${dy}px)`, opacity,
+        position: 'absolute', left: 0, width, top: brand.top, height: brand.height, display: 'flex',
+        justifyContent: 'center', alignItems: 'center', transform: `translateY(${dy}px)`, opacity,
       }}
     >
-      <Img src={src(brand.calligraphy)} style={{height: logoH, width: 'auto', filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.8))'}} />
-      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: Math.round(h * 0.07)}}>
-        <div
-          style={{
-            fontFamily: BRAND_STACK, fontWeight: 600, fontSize: textSize, color: '#fff', letterSpacing: textSize * 0.04,
-            whiteSpace: 'nowrap', lineHeight: 1.05,
-          }}
-        >
-          {brand.wordmark}
-        </div>
-        <div style={{height: 2, width: '100%', background: 'linear-gradient(90deg, rgba(255,255,255,0), #fff 18%, #fff 82%, rgba(255,255,255,0))'}} />
-        <div style={{display: 'flex', gap: Math.round(iconSize * 0.75), alignItems: 'center'}}>
-          {brand.socials.map((s) => {
-            const Icon = SOCIAL_ICONS[s];
-            return <Icon key={s} size={iconSize} color="#fff" />;
-          })}
-        </div>
-      </div>
+      <Img src={src(brand.lockup)} style={{height: brand.height, width: 'auto', filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.8))'}} />
     </div>
   );
 };
@@ -340,7 +317,7 @@ export const Classic: React.FC<RenderInput> = (input) => {
         );
       })}
 
-      <BrandLockup input={input} introFrames={introFrames} />
+      <BrandLockup input={input} />
 
       <Sequence from={introFrames} layout="none">
         <Html5Audio src={src(input.audio)} />

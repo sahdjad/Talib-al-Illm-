@@ -18,7 +18,7 @@
  "mask": {
   "fadeStart": 0.4277,
   "fadeEnd": 0.5877,
-  "topFade": 0.06
+  "topFade": 0.05
  },
  "intro": {
   "enabled": true,
@@ -36,13 +36,13 @@
  },
  "subtitleBox": {
   "top": 1058,
-  "bottom": 1488,
+  "bottom": 1436,
   "left": 80,
   "right": 950
  },
  "editorialLane": {
-  "top": 1502,
-  "bottom": 1578,
+  "top": 1450,
+  "bottom": 1516,
   "left": 80,
   "right": 950
  },
@@ -135,15 +135,15 @@
    "start": 23.42,
    "end": 28.572,
    "type": "spoken",
-   "text": "Und wenn sie in der Sache\netwas zu weit geht, …",
+   "text": "Und wenn sie dabei\netwas zu weit geht, …",
    "accent": null,
    "layout": {
-    "fontSize": 66,
+    "fontSize": 82,
     "lines": [
-     "Und wenn sie in der Sache",
+     "Und wenn sie dabei",
      "etwas zu weit geht, …"
     ],
-    "lineHeight": 74
+    "lineHeight": 92
    }
   },
   {
@@ -151,15 +151,15 @@
    "start": 28.572,
    "end": 31.452,
    "type": "spoken",
-   "text": "leitet er sie\nauf gute Art und Weise an.",
+   "text": "leitet er sie\nauf gute Weise an.",
    "accent": null,
    "layout": {
-    "fontSize": 66,
+    "fontSize": 86,
     "lines": [
      "leitet er sie",
-     "auf gute Art und Weise an."
+     "auf gute Weise an."
     ],
-    "lineHeight": 74
+    "lineHeight": 96
    }
   },
   {
@@ -182,15 +182,16 @@
    "start": 33.756,
    "end": 36.986,
    "type": "spoken",
-   "text": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
+   "text": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht",
    "accent": null,
    "layout": {
-    "fontSize": 66,
+    "fontSize": 86,
     "lines": [
-     "Wenn sie bei ihrem Mann",
-     "Eifer für etwas Gutes sieht"
+     "Wenn sie",
+     "bei ihrem Mann",
+     "Eifer für Gutes sieht"
     ],
-    "lineHeight": 74
+    "lineHeight": 96
    }
   },
   {
@@ -198,13 +199,13 @@
    "start": 37.756,
    "end": 40.402,
    "type": "spoken",
-   "text": "und Einsatz\nfür etwas Gutes, …",
+   "text": "und Einsatz\nfür Gutes, …",
    "accent": null,
    "layout": {
     "fontSize": 86,
     "lines": [
      "und Einsatz",
-     "für etwas Gutes, …"
+     "für Gutes, …"
     ],
     "lineHeight": 96
    }
@@ -246,14 +247,15 @@
    "start": 48.856,
    "end": 50.61,
    "type": "spoken",
-   "text": "so wird das Leben schön.",
+   "text": "so wird\ndas Leben schön.",
    "accent": null,
    "layout": {
-    "fontSize": 70,
+    "fontSize": 86,
     "lines": [
-     "so wird das Leben schön."
+     "so wird",
+     "das Leben schön."
     ],
-    "lineHeight": 78
+    "lineHeight": 96
    }
   },
   {
@@ -295,14 +297,15 @@
    "start": 60.188,
    "end": 61.215,
    "type": "spoken",
-   "text": "Dies, verehrte Anwesende, …",
+   "text": "Dies, verehrte\nAnwesende, …",
    "accent": null,
    "layout": {
-    "fontSize": 62,
+    "fontSize": 86,
     "lines": [
-     "Dies, verehrte Anwesende, …"
+     "Dies, verehrte",
+     "Anwesende, …"
     ],
-    "lineHeight": 69
+    "lineHeight": 96
    }
   }
  ],
@@ -318,20 +321,13 @@
   }
  ],
  "brand": {
-  "calligraphy": "brand/arabic-calligraphy-white.png",
-  "wordmark": "Abu Aisha al Kumasi",
-  "top": 1592,
-  "height": 118,
-  "socials": [
-   "instagram",
-   "tiktok",
-   "youtube"
-  ]
+  "lockup": "brand/abu-aisha-lockup-white.png",
+  "top": 1530,
+  "height": 180
  },
  "style": {
   "subtitleFont": "RobotoSlab-ExtraBold.ttf",
   "arabicFont": "NotoNaskhArabic-Bold.ttf",
-  "brandFont": "Montserrat",
   "fill": "#FFFFFF",
   "stroke": "#000000",
   "strokeWidth": 0.16,
@@ -339,6 +335,6 @@
   "editorialColor": "#E9E1C9"
  },
  "debug": {
-  "safeZones": true
+  "safeZones": false
  }
 }

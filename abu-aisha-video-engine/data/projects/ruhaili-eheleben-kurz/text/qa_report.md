@@ -18,7 +18,7 @@
 | 3 | Jeder Block hat DE | ✅ |  |
 | 4 | Jeder Block hat aktuelles EN | ✅ |  |
 | 5 | Kein Untertitel verlässt den sicheren Bereich | ✅ |  |
-| 6 | Branding kollidiert nicht mit Untertiteln | ✅ | Untertitel ≤1470 · Quellenzeile 1484–1560 · Branding 1574–1710 |
+| 6 | Branding kollidiert nicht mit Untertiteln | ✅ | Untertitel ≤1436 · Quellenzeile 1450–1516 · Branding 1530–1710 |
 | 7 | Intro-Länge exakt wie konfiguriert | ✅ | 4.0s |
 | 8 | Kein CHECK_REQUIRED als verifiziert gerendert | ✅ |  |
 | 9 | Redaktioneller Kontext visuell getrennt | ✅ | Quellenzeile 40px vs. kleinster Untertitel 68px, eigene Farbe & Spur |

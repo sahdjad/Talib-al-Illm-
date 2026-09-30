@@ -3,7 +3,7 @@
   "project_id": "7c53b3c7-17e2-44da-9f2c-3d31f7e26c5b",
   "name": "ruhaili-eheleben-kurz",
   "created_at": "2026-09-30T00:12:48+00:00",
-  "updated_at": "2026-09-30T00:18:06+00:00",
+  "updated_at": "2026-09-30T00:33:39+00:00",
   "state": "REVIEW_REQUIRED",
   "state_history": [
     {
@@ -210,6 +210,42 @@
     {
       "state": "REVIEW_REQUIRED",
       "at": "2026-09-30T00:18:06+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:23:14+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:28:58+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:31:18+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:31:18+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:33:39+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:33:39+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:33:39+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:33:39+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:33:39+00:00"
     }
   ],
   "config": {
@@ -262,9 +298,9 @@
     },
     "layout": {
       "subtitle_top_overlap_px": 70,
-      "editorial_lane_height": 76,
+      "editorial_lane_height": 66,
       "gap_px": 14,
-      "brand_height": 136
+      "brand_height": 180
     },
     "subtitles": {
       "segmentation": "semantic",
@@ -326,13 +362,8 @@
       "preview_scale": 0.5
     },
     "brand": {
-      "calligraphy": "arabic-calligraphy-white.png",
-      "wordmark": "Abu Aisha al Kumasi",
-      "socials": [
-        "instagram",
-        "tiktok",
-        "youtube"
-      ]
+      "lockup": "abu-aisha-lockup-white.png",
+      "source": "abu-aisha-lockup-source.pdf (vom Nutzer geliefert, weiß auf schwarz, 90° gedreht)"
     },
     "fonts": {
       "subtitle": "RobotoSlab-ExtraBold.ttf",
@@ -2667,19 +2698,19 @@
     "boxes": {
       "subtitle": {
         "top": 1058,
-        "bottom": 1470,
+        "bottom": 1436,
         "left": 80,
         "right": 950
       },
       "editorial": {
-        "top": 1484,
-        "bottom": 1560,
+        "top": 1450,
+        "bottom": 1516,
         "left": 80,
         "right": 950
       },
       "brand": {
-        "top": 1574,
-        "height": 136,
+        "top": 1530,
+        "height": 180,
         "bottom": 1710
       }
     },
@@ -2692,7 +2723,7 @@
     }
   },
   "qa": {
-    "at": "2026-09-30T00:18:06+00:00",
+    "at": "2026-09-30T00:33:39+00:00",
     "gates": [
       {
         "n": 1,
@@ -2728,7 +2759,7 @@
         "n": 6,
         "gate": "Branding kollidiert nicht mit Untertiteln",
         "ok": true,
-        "detail": "Untertitel ≤1470 · Quellenzeile 1484–1560 · Branding 1574–1710"
+        "detail": "Untertitel ≤1436 · Quellenzeile 1450–1516 · Branding 1530–1710"
       },
       {
         "n": 7,
@@ -2941,6 +2972,74 @@
         "expected": 57.1
       },
       "status": "OK"
+    },
+    {
+      "at": "2026-09-30T00:28:58+00:00",
+      "lang": "de",
+      "preview": false,
+      "output": "renders/AbuAisha_DE_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/work/render_input_de.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/renders/AbuAisha_DE_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_de.json",
+      "seconds": 140.0,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 57.1,
+        "expected": 57.1
+      },
+      "status": "OK"
+    },
+    {
+      "at": "2026-09-30T00:31:18+00:00",
+      "lang": "en",
+      "preview": false,
+      "output": "renders/AbuAisha_EN_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/work/render_input_en.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/renders/AbuAisha_EN_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_en.json",
+      "seconds": 140.9,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 57.1,
+        "expected": 57.1
+      },
+      "status": "OK"
     }
   ],
   "decisions": [
@@ -3009,11 +3108,15 @@
         "trim_in": 6.9,
         "trim_out": 60.0
       }
+    },
+    {
+      "at": "2026-09-30T00:23:14+00:00",
+      "what": "Branding ersetzt durch das vom Nutzer gelieferte Abu-Aisha-Lockup (altes Logo entfernt)"
     }
   ],
   "verification": {
     "quran_index": false,
-    "at": "2026-09-30T00:12:48+00:00",
+    "at": "2026-09-30T00:33:39+00:00",
     "new_references": 0
   }
 }

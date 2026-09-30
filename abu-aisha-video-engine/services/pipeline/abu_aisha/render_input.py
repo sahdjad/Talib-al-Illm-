@@ -89,13 +89,11 @@ def build(p: Project, lang: str, *, debug: bool = False) -> dict:
         "segments": segments,
         "editorial": editorial,
         "brand": {
-            "calligraphy": "brand/" + cfg["brand"]["calligraphy"],
-            "wordmark": cfg["brand"]["wordmark"],
+            "lockup": "brand/" + cfg["brand"]["lockup"],
             "top": boxes["brand"]["top"], "height": boxes["brand"]["height"],
-            "socials": cfg["brand"]["socials"],
         },
         "style": {
-            "subtitleFont": cfg["fonts"]["subtitle"], "arabicFont": cfg["fonts"]["arabic"], "brandFont": "Montserrat",
+            "subtitleFont": cfg["fonts"]["subtitle"], "arabicFont": cfg["fonts"]["arabic"],
             "fill": cfg["subtitles"]["fill"], "stroke": cfg["subtitles"]["outline"],
             "strokeWidth": cfg["subtitles"]["stroke_ratio"], "accent": cfg["subtitles"]["accent"],
             "editorialColor": cfg["subtitles"]["editorial_color"],

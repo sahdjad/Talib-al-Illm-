@@ -8,8 +8,6 @@ const FACES: Array<{family: string; file: string; weight: number}> = [
   {family: 'AA Naskh', file: 'NotoNaskhArabic-Bold.ttf', weight: 700},
   {family: 'AA Amiri', file: 'Amiri-Bold.ttf', weight: 700},
   {family: 'AA Amiri', file: 'Amiri-Regular.ttf', weight: 400},
-  {family: 'AA Brand', file: 'Montserrat-SemiBold.ttf', weight: 600},
-  {family: 'AA Brand', file: 'Montserrat-Bold.ttf', weight: 700},
 ];
 
 let loaded = false;
@@ -37,4 +35,3 @@ export const ensureFonts = () => {
 /** Latin subtitle stack: slab first, Amiri as glyph fallback for ḥ ʿ ﷺ ﷻ etc. */
 export const SUBTITLE_STACK = "'AA Slab', 'AA Amiri', 'Noto Color Emoji', serif";
 export const ARABIC_STACK = "'AA Naskh', 'AA Amiri', 'Noto Color Emoji', serif";
-export const BRAND_STACK = "'AA Brand', 'AA Amiri', sans-serif";

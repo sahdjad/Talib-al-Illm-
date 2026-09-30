@@ -64,6 +64,10 @@ Oder mit Oberfläche: `scripts/serve.sh` → <http://localhost:8765> (Upload →
 
 ## Was hart geregelt ist – und was adaptiv
 
+**Branding:** ausschließlich dein Abu-Aisha-Lockup (Tropfen-Logo „أبو عائشة“ + „Abu Aisha al Kumasi“ + Linie +
+Instagram/TikTok/Telegram/Repost), unverändert aus deinem PDF übernommen
+(`packages/brand/assets/abu-aisha-lockup-white.png`). Ein neues Lockup einfach dort ersetzen.
+
 **Hart:** 9:16 · Originalstimme, 0 dB, keine KI-Stimme · Deutsch ist Master, Englisch nur aus finalem Deutsch ·
 keine erfundenen Quellen (unsicher = `CHECK_REQUIRED`, wird **nie** eingeblendet) · gesprochen ≠ redaktionell
 (eigene Spur, kleiner, andere Farbe) · Intro standardmäßig 4,0 s · Branding immer sichtbar · keine
@@ -79,7 +83,7 @@ Blocklänge (nach Sinn und Sprechpausen, nicht nach Zeichen).
 apps/renderer/        Remotion (React) – Classic-Theme: Intro „classic_blade“, Maske, Untertitel, Branding
 apps/web/             Review-Oberfläche (ohne Build-Schritt, wird von der API ausgeliefert)
 services/pipeline/    Python: Analyse, ASR, Projektmodell, Layout, QA, Exporte, LLM-Provider, CLI, FastAPI
-packages/brand/       Logo (aus deinem Kunya-Logo extrahiert, transparent), Schriften (OFL)
+packages/brand/       dein Abu-Aisha-Lockup (aus deinem PDF freigestellt, transparent), Schriften (OFL)
 packages/prompts/     versionierte Redaktions-Prompts (werden je Projekt mitprotokolliert)
 packages/schema/      Standardkonfiguration v1 (Spec §40)
 data/projects/        Projekte (Medien/Zwischendateien sind per .gitignore ausgeschlossen)
@@ -90,9 +94,6 @@ Technische Details: [`services/pipeline/README.md`](services/pipeline/README.md)
 
 ## Offene Punkte / bewusst noch nicht (v1.1+)
 
-- **Original-Lockup:** Dein weißes Lockup (Tropfen-Logo + Schriftzug + Social-Icons) lag nicht als Datei vor. Das
-  Branding nutzt die Kalligrafie aus deinem Kunya-Logo + Wortmarke „Abu Aisha al Kumasi“ + Trennlinie + Icons.
-  Lege dein Original als transparentes PNG nach `packages/brand/assets/` und trage es in `defaults.json` ein.
 - **Schrift:** Die InShot-Schrift ist nicht sicher identifiziert – Roboto Slab ExtraBold ist Platzhalter
   (Konfigurationswert `fonts.subtitle`). Mit einem deiner Referenzvideos lässt sich das 1:1 kalibrieren.
 - **Qurʾān-Verifikation** braucht eine lokale, lizenzkonforme Textdatei (`ABU_AISHA_QURAN_TEXT`). Ohne sie bleiben

@@ -72,16 +72,14 @@ export type RenderInput = {
   segments: Segment[];
   editorial: EditorialItem[];
   brand: {
-    calligraphy: string;
-    wordmark: string;
+    /** User-supplied Abu Aisha lockup (droplet logo + wordmark + divider + icons), white on transparent. */
+    lockup: string;
     top: number;
     height: number;
-    socials: Array<'instagram' | 'tiktok' | 'youtube' | 'facebook' | 'telegram' | 'x'>;
   };
   style: {
     subtitleFont: string;
     arabicFont: string;
-    brandFont: string;
     fill: string;
     stroke: string;
     strokeWidth: number;
