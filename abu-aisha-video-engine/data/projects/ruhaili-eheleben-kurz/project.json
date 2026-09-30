@@ -1,0 +1,3019 @@
+{
+  "schema_version": 1,
+  "project_id": "7c53b3c7-17e2-44da-9f2c-3d31f7e26c5b",
+  "name": "ruhaili-eheleben-kurz",
+  "created_at": "2026-09-30T00:12:48+00:00",
+  "updated_at": "2026-09-30T00:18:06+00:00",
+  "state": "REVIEW_REQUIRED",
+  "state_history": [
+    {
+      "state": "UPLOADED",
+      "at": "2026-09-29T23:48:32+00:00"
+    },
+    {
+      "state": "ANALYZING",
+      "at": "2026-09-29T23:48:32+00:00"
+    },
+    {
+      "state": "TRANSCRIBING",
+      "at": "2026-09-29T23:48:35+00:00"
+    },
+    {
+      "state": "ANALYZING",
+      "at": "2026-09-29T23:48:48+00:00"
+    },
+    {
+      "state": "TRANSLATING_DE",
+      "at": "2026-09-29T23:50:03+00:00"
+    },
+    {
+      "state": "SEGMENTING",
+      "at": "2026-09-29T23:50:03+00:00"
+    },
+    {
+      "state": "TRANSLATING_EN",
+      "at": "2026-09-29T23:50:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-29T23:50:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-29T23:52:09+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-29T23:52:09+00:00"
+    },
+    {
+      "state": "PREVIEW_READY",
+      "at": "2026-09-29T23:54:08+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-29T23:56:44+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-29T23:59:27+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-29T23:59:27+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:02:01+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:02+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:02+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:11+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:07:19+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:10:07+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:10:07+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:12:48+00:00",
+      "note": "clone of ruhaili-eheleben"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:13:24+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:13:24+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:13:24+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:15:45+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:15:45+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:18:06+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:18:06+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:18:06+00:00"
+    }
+  ],
+  "config": {
+    "_comment": "v1 default configuration (spec §40). Values marked adaptive are starting points, not brand rules.",
+    "project": {
+      "languages": [
+        "de",
+        "en"
+      ],
+      "review_required": true,
+      "auto_publish": false
+    },
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "codec": "h264"
+    },
+    "intro": {
+      "enabled": true,
+      "duration_seconds": 4.0,
+      "preset": "classic_blade",
+      "suggest_disable_below_seconds": 25
+    },
+    "content_profiles": {
+      "soft": 1.0,
+      "tazkiyah": 1.0,
+      "general": 1.0,
+      "rebuttal": 2.0
+    },
+    "stage": {
+      "top_landscape": 110,
+      "max_upscale": 3.0,
+      "sharpen": true
+    },
+    "mask": {
+      "mode": "auto",
+      "default_fade_start": 0.47,
+      "default_fade_end": 0.63,
+      "fade_start_min": 0.36,
+      "fade_end_min": 0.5,
+      "fade_end_max": 0.68,
+      "allow_manual_override": true
+    },
+    "safe_zones": {
+      "left": 80,
+      "right": 130,
+      "top": 110,
+      "bottom": 210
+    },
+    "layout": {
+      "subtitle_top_overlap_px": 70,
+      "editorial_lane_height": 76,
+      "gap_px": 14,
+      "brand_height": 136
+    },
+    "subtitles": {
+      "segmentation": "semantic",
+      "target_lines": [
+        1,
+        4
+      ],
+      "maximum_lines": 6,
+      "dynamic_font_size": true,
+      "font_max": 86,
+      "font_min": 48,
+      "keep_lines_font_min": 58,
+      "font_step": 2,
+      "line_height": 1.12,
+      "alignment": "center",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "stroke_ratio": 0.16,
+      "accent": "#E4262B",
+      "editorial_context_scale": 0.62,
+      "editorial_color": "#E9E1C9",
+      "min_block_seconds": 0.7,
+      "linger_gap_seconds": 0.6,
+      "max_cps_warning": 21
+    },
+    "title": {
+      "font_max": 124,
+      "font_min": 70,
+      "max_lines": 3
+    },
+    "translation": {
+      "source_language": "ar",
+      "master_language": "de",
+      "english_from": "de_final",
+      "preserve_honorifics": true,
+      "no_added_meaning": true
+    },
+    "references": {
+      "hallucination_policy": "forbid",
+      "uncertain_reference": "check_required",
+      "arabic_book_titles": "preferred"
+    },
+    "audio": {
+      "voice": "original_only",
+      "background_audio": "manual",
+      "gain_db": 0.0,
+      "limiter_if_peak_above_db": -0.3
+    },
+    "render": {
+      "outputs": [
+        "de_mp4",
+        "en_mp4",
+        "de_srt",
+        "en_srt",
+        "text_package",
+        "project_json"
+      ],
+      "crf": 16,
+      "preview_scale": 0.5
+    },
+    "brand": {
+      "calligraphy": "arabic-calligraphy-white.png",
+      "wordmark": "Abu Aisha al Kumasi",
+      "socials": [
+        "instagram",
+        "tiktok",
+        "youtube"
+      ]
+    },
+    "fonts": {
+      "subtitle": "RobotoSlab-ExtraBold.ttf",
+      "subtitle_fallback": "Amiri-Bold.ttf",
+      "title": "RobotoSlab-Black.ttf",
+      "arabic": "NotoNaskhArabic-Bold.ttf"
+    }
+  },
+  "speaker": {
+    "user_supplied_name": "شيخ سليمان الرحيلي حفظه الله",
+    "arabic_display": "الشيخ سليمان الرحيلي حفظه الله",
+    "honorific": "حفظه الله",
+    "latin_display": "Shaykh Sulaymān ar-Ruḥaylī ḥafiẓahullāh",
+    "identity_source": "user",
+    "intro_line": "🎙️ الشيخ سليمان الرحيلي حفظه الله",
+    "identity_note": "Vom Nutzer angegeben (\"شيخ سليمان الرحيلي حفظه الله\"); deckt sich mit dem eingeblendeten Namensschild im Video (أ.د. سليمان الرحيلي)."
+  },
+  "source": {
+    "file": "source/source.mp4",
+    "original_filename": "src.mp4",
+    "source_url": null,
+    "original_account": "drosuae.ae (دروس الإمارات) – Reihe „فقه عوارض الزوجية“",
+    "rights_note": null,
+    "trim_in": 6.9,
+    "trim_out": 60.0,
+    "probe": {
+      "duration": 61.215,
+      "has_audio": true,
+      "has_video": true,
+      "width": 576,
+      "height": 1248,
+      "rotation": 0,
+      "fps": 59.94,
+      "vcodec": "h264",
+      "acodec": "aac",
+      "sample_rate": 44100,
+      "channels": 2
+    },
+    "audio_levels": {
+      "mean_volume": -19.2,
+      "max_volume": -1.9
+    },
+    "trim_suggestion": {
+      "trim_in": 6.9,
+      "trim_out": 60.0,
+      "reason": "Der Clip beginnt mit der Fortsetzung eines vorherigen Satzes (0–5,5 s: „ما دام أنه من الأمور النافعة“) und endet mit einem angeschnittenen neuen Satz (ab 60,2 s: „هذه أيها الفضلاء“). Der eigenständige Gedanke läuft von 7,6 s bis 59,7 s. Nur Vorschlag – der Standard-Render nutzt den vollständigen Clip."
+    }
+  },
+  "settings": {
+    "mode": "auto",
+    "theme": "classic",
+    "intro": true,
+    "intro_duration": 4.0,
+    "content_profile": "general",
+    "mask": {
+      "mode": "auto",
+      "fade_start": null,
+      "fade_end": null
+    },
+    "languages": [
+      "de",
+      "en"
+    ],
+    "editorial_context": "suggest",
+    "background_image": null,
+    "instructions": null,
+    "review_required": true,
+    "audio_policy": "original_only"
+  },
+  "transcript": {
+    "arabic_verbatim_raw": [
+      {
+        "i": 0,
+        "start": 1.592,
+        "end": 5.478,
+        "text": "ما دام أنه من الأمور النافعة",
+        "words": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "i": 1,
+        "start": 7.608,
+        "end": 9.958,
+        "text": "مما تطيب به الحياة بين الزوج",
+        "words": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "i": 2,
+        "start": 11.224,
+        "end": 15.942,
+        "text": "أن الزوج إذا رأى من زوجته همة في أمر حسن نافع",
+        "words": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "i": 3,
+        "start": 16.216,
+        "end": 17.958,
+        "text": "يشجعها على ذلك",
+        "words": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "i": 4,
+        "start": 19.448,
+        "end": 20.902,
+        "text": "ويظهر لها",
+        "words": [
+          26,
+          27
+        ]
+      },
+      {
+        "i": 5,
+        "start": 21.208,
+        "end": 22.854,
+        "text": "أن في هذا فائدة",
+        "words": [
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "i": 6,
+        "start": 23.48,
+        "end": 25.382,
+        "text": "وإذا كان عندها",
+        "words": [
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "i": 7,
+        "start": 25.848,
+        "end": 28.102,
+        "text": "نوع من التجاوز في الأمر",
+        "words": [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "i": 8,
+        "start": 28.632,
+        "end": 30.79,
+        "text": "يوجهها بأسلوب حسن",
+        "words": [
+          40,
+          41,
+          42
+        ]
+      },
+      {
+        "i": 9,
+        "start": 31.512,
+        "end": 33.222,
+        "text": "وكذلك الزوجة",
+        "words": [
+          43,
+          44
+        ]
+      },
+      {
+        "i": 10,
+        "start": 33.816,
+        "end": 37.03,
+        "text": "إذا رأت من زوجها همة في أمر حسن",
+        "words": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "i": 11,
+        "start": 37.816,
+        "end": 40.102,
+        "text": "وعناية بأمر حسن",
+        "words": [
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "i": 12,
+        "start": 41.272,
+        "end": 42.534,
+        "text": "تظهر له",
+        "words": [
+          56,
+          57
+        ]
+      },
+      {
+        "i": 13,
+        "start": 43.512,
+        "end": 45.318,
+        "text": "فرحها بهذا",
+        "words": [
+          58,
+          59
+        ]
+      },
+      {
+        "i": 14,
+        "start": 46.648,
+        "end": 50.31,
+        "text": "وتشجعه على هذا الأمر فتطيب الحياة",
+        "words": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      {
+        "i": 15,
+        "start": 51.32,
+        "end": 55.718,
+        "text": "ويتشارك الزوجان في أن يأخذ كل واحد منهما",
+        "words": [
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73
+        ]
+      },
+      {
+        "i": 16,
+        "start": 56.056,
+        "end": 59.686,
+        "text": "بيد الآخر إلى ما ينفع",
+        "words": [
+          74,
+          75,
+          76,
+          77,
+          78
+        ]
+      },
+      {
+        "i": 17,
+        "start": 60.248,
+        "end": 61.702,
+        "text": "هذه أيها الفضاء",
+        "words": [
+          79,
+          80,
+          81
+        ]
+      }
+    ],
+    "arabic_verbatim_reviewed": [
+      {
+        "i": 0,
+        "start": 1.592,
+        "end": 5.478,
+        "text": "ما دام أنه من الأمور النافعة",
+        "words": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "i": 1,
+        "start": 7.608,
+        "end": 9.958,
+        "text": "مما تطيب به الحياة بين الزوجين",
+        "words": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "i": 2,
+        "start": 11.224,
+        "end": 15.942,
+        "text": "أن الزوج إذا رأى من زوجته همة في أمر حسن نافع",
+        "words": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "i": 3,
+        "start": 16.216,
+        "end": 17.958,
+        "text": "يشجعها على ذلك",
+        "words": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "i": 4,
+        "start": 19.448,
+        "end": 20.902,
+        "text": "ويظهر لها",
+        "words": [
+          26,
+          27
+        ]
+      },
+      {
+        "i": 5,
+        "start": 21.208,
+        "end": 22.854,
+        "text": "أن في هذا فائدة",
+        "words": [
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "i": 6,
+        "start": 23.48,
+        "end": 25.382,
+        "text": "وإذا كان عندها",
+        "words": [
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "i": 7,
+        "start": 25.848,
+        "end": 28.102,
+        "text": "نوع من التجاوز في الأمر",
+        "words": [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "i": 8,
+        "start": 28.632,
+        "end": 30.79,
+        "text": "يوجهها بأسلوب حسن",
+        "words": [
+          40,
+          41,
+          42
+        ]
+      },
+      {
+        "i": 9,
+        "start": 31.512,
+        "end": 33.222,
+        "text": "وكذلك الزوجة",
+        "words": [
+          43,
+          44
+        ]
+      },
+      {
+        "i": 10,
+        "start": 33.816,
+        "end": 37.03,
+        "text": "إذا رأت من زوجها همة في أمر حسن",
+        "words": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "i": 11,
+        "start": 37.816,
+        "end": 40.102,
+        "text": "وعناية بأمر حسن",
+        "words": [
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "i": 12,
+        "start": 41.272,
+        "end": 42.534,
+        "text": "تظهر له",
+        "words": [
+          56,
+          57
+        ]
+      },
+      {
+        "i": 13,
+        "start": 43.512,
+        "end": 45.318,
+        "text": "فرحها بهذا",
+        "words": [
+          58,
+          59
+        ]
+      },
+      {
+        "i": 14,
+        "start": 46.648,
+        "end": 50.31,
+        "text": "وتشجعه على هذا الأمر فتطيب الحياة",
+        "words": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      {
+        "i": 15,
+        "start": 51.32,
+        "end": 55.718,
+        "text": "ويتشارك الزوجان في أن يأخذ كل واحد منهما",
+        "words": [
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73
+        ]
+      },
+      {
+        "i": 16,
+        "start": 56.056,
+        "end": 59.686,
+        "text": "بيد الآخر إلى ما ينفع",
+        "words": [
+          74,
+          75,
+          76,
+          77,
+          78
+        ]
+      },
+      {
+        "i": 17,
+        "start": 60.248,
+        "end": 61.702,
+        "text": "هذه أيها الفضلاء",
+        "words": [
+          79,
+          80,
+          81
+        ]
+      }
+    ],
+    "word_timings": [
+      {
+        "i": 0,
+        "text": "ما",
+        "start": 1.592,
+        "end": 1.957,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 1,
+        "text": "دام",
+        "start": 1.957,
+        "end": 2.436,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 2,
+        "text": "أنه",
+        "start": 2.436,
+        "end": 2.916,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 3,
+        "text": "من",
+        "start": 2.916,
+        "end": 3.281,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 4,
+        "text": "الأمور",
+        "start": 3.281,
+        "end": 3.942,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 5,
+        "text": "النافعة",
+        "start": 4.382,
+        "end": 5.478,
+        "phrase": 0,
+        "confidence": 1.0
+      },
+      {
+        "i": 6,
+        "text": "مما",
+        "start": 7.608,
+        "end": 7.908,
+        "phrase": 1,
+        "confidence": 1.0
+      },
+      {
+        "i": 7,
+        "text": "تطيب",
+        "start": 7.908,
+        "end": 8.28,
+        "phrase": 1,
+        "confidence": 1.0
+      },
+      {
+        "i": 8,
+        "text": "به",
+        "start": 8.28,
+        "end": 8.509,
+        "phrase": 1,
+        "confidence": 1.0
+      },
+      {
+        "i": 9,
+        "text": "الحياة",
+        "start": 8.509,
+        "end": 9.024,
+        "phrase": 1,
+        "confidence": 1.0
+      },
+      {
+        "i": 10,
+        "text": "بين",
+        "start": 9.024,
+        "end": 9.325,
+        "phrase": 1,
+        "confidence": 1.0
+      },
+      {
+        "i": 11,
+        "text": "الزوجين",
+        "start": 9.325,
+        "end": 9.768,
+        "phrase": 1,
+        "confidence": 1.0,
+        "text_raw": "الزوج"
+      },
+      {
+        "i": 12,
+        "text": "أن",
+        "start": 11.224,
+        "end": 11.52,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 13,
+        "text": "الزوج",
+        "start": 11.52,
+        "end": 12.093,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 14,
+        "text": "إذا",
+        "start": 12.093,
+        "end": 12.482,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 15,
+        "text": "رأى",
+        "start": 12.482,
+        "end": 12.87,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 16,
+        "text": "من",
+        "start": 12.87,
+        "end": 13.166,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 17,
+        "text": "زوجته",
+        "start": 13.166,
+        "end": 13.74,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 18,
+        "text": "همة",
+        "start": 13.74,
+        "end": 14.128,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 19,
+        "text": "في",
+        "start": 14.128,
+        "end": 14.424,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 20,
+        "text": "أمر",
+        "start": 14.424,
+        "end": 14.694,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 21,
+        "text": "حسن",
+        "start": 14.954,
+        "end": 15.461,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 22,
+        "text": "نافع",
+        "start": 15.461,
+        "end": 15.942,
+        "phrase": 2,
+        "confidence": 1.0
+      },
+      {
+        "i": 23,
+        "text": "يشجعها",
+        "start": 16.216,
+        "end": 17.02,
+        "phrase": 3,
+        "confidence": 1.0
+      },
+      {
+        "i": 24,
+        "text": "على",
+        "start": 17.02,
+        "end": 17.489,
+        "phrase": 3,
+        "confidence": 1.0
+      },
+      {
+        "i": 25,
+        "text": "ذلك",
+        "start": 17.489,
+        "end": 17.958,
+        "phrase": 3,
+        "confidence": 1.0
+      },
+      {
+        "i": 26,
+        "text": "ويظهر",
+        "start": 19.448,
+        "end": 20.315,
+        "phrase": 4,
+        "confidence": 1.0
+      },
+      {
+        "i": 27,
+        "text": "لها",
+        "start": 20.315,
+        "end": 20.902,
+        "phrase": 4,
+        "confidence": 1.0
+      },
+      {
+        "i": 28,
+        "text": "أن",
+        "start": 21.208,
+        "end": 21.522,
+        "phrase": 5,
+        "confidence": 1.0
+      },
+      {
+        "i": 29,
+        "text": "في",
+        "start": 21.522,
+        "end": 21.835,
+        "phrase": 5,
+        "confidence": 1.0
+      },
+      {
+        "i": 30,
+        "text": "هذا",
+        "start": 21.835,
+        "end": 22.247,
+        "phrase": 5,
+        "confidence": 1.0
+      },
+      {
+        "i": 31,
+        "text": "فائدة",
+        "start": 22.247,
+        "end": 22.854,
+        "phrase": 5,
+        "confidence": 1.0
+      },
+      {
+        "i": 32,
+        "text": "وإذا",
+        "start": 23.48,
+        "end": 24.037,
+        "phrase": 6,
+        "confidence": 1.0
+      },
+      {
+        "i": 33,
+        "text": "كان",
+        "start": 24.037,
+        "end": 24.486,
+        "phrase": 6,
+        "confidence": 1.0
+      },
+      {
+        "i": 34,
+        "text": "عندها",
+        "start": 24.486,
+        "end": 25.15,
+        "phrase": 6,
+        "confidence": 1.0
+      },
+      {
+        "i": 35,
+        "text": "نوع",
+        "start": 25.848,
+        "end": 26.227,
+        "phrase": 7,
+        "confidence": 1.0
+      },
+      {
+        "i": 36,
+        "text": "من",
+        "start": 26.227,
+        "end": 26.515,
+        "phrase": 7,
+        "confidence": 1.0
+      },
+      {
+        "i": 37,
+        "text": "التجاوز",
+        "start": 26.515,
+        "end": 27.254,
+        "phrase": 7,
+        "confidence": 1.0
+      },
+      {
+        "i": 38,
+        "text": "في",
+        "start": 27.254,
+        "end": 27.543,
+        "phrase": 7,
+        "confidence": 1.0
+      },
+      {
+        "i": 39,
+        "text": "الأمر",
+        "start": 27.543,
+        "end": 28.102,
+        "phrase": 7,
+        "confidence": 1.0
+      },
+      {
+        "i": 40,
+        "text": "يوجهها",
+        "start": 28.632,
+        "end": 29.467,
+        "phrase": 8,
+        "confidence": 1.0
+      },
+      {
+        "i": 41,
+        "text": "بأسلوب",
+        "start": 29.467,
+        "end": 30.303,
+        "phrase": 8,
+        "confidence": 1.0
+      },
+      {
+        "i": 42,
+        "text": "حسن",
+        "start": 30.303,
+        "end": 30.79,
+        "phrase": 8,
+        "confidence": 1.0
+      },
+      {
+        "i": 43,
+        "text": "وكذلك",
+        "start": 31.512,
+        "end": 32.303,
+        "phrase": 9,
+        "confidence": 1.0
+      },
+      {
+        "i": 44,
+        "text": "الزوجة",
+        "start": 32.303,
+        "end": 33.222,
+        "phrase": 9,
+        "confidence": 1.0
+      },
+      {
+        "i": 45,
+        "text": "إذا",
+        "start": 33.816,
+        "end": 34.147,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 46,
+        "text": "رأت",
+        "start": 34.147,
+        "end": 34.479,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 47,
+        "text": "من",
+        "start": 34.479,
+        "end": 34.731,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 48,
+        "text": "زوجها",
+        "start": 34.731,
+        "end": 35.22,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 49,
+        "text": "همة",
+        "start": 35.22,
+        "end": 35.551,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 50,
+        "text": "في",
+        "start": 35.551,
+        "end": 35.804,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 51,
+        "text": "أمر",
+        "start": 35.804,
+        "end": 36.456,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 52,
+        "text": "حسن",
+        "start": 36.566,
+        "end": 36.686,
+        "phrase": 10,
+        "confidence": 1.0
+      },
+      {
+        "i": 53,
+        "text": "وعناية",
+        "start": 37.816,
+        "end": 38.808,
+        "phrase": 11,
+        "confidence": 1.0
+      },
+      {
+        "i": 54,
+        "text": "بأمر",
+        "start": 38.808,
+        "end": 39.524,
+        "phrase": 11,
+        "confidence": 1.0
+      },
+      {
+        "i": 55,
+        "text": "حسن",
+        "start": 39.524,
+        "end": 40.102,
+        "phrase": 11,
+        "confidence": 1.0
+      },
+      {
+        "i": 56,
+        "text": "تظهر",
+        "start": 41.272,
+        "end": 42.053,
+        "phrase": 12,
+        "confidence": 1.0
+      },
+      {
+        "i": 57,
+        "text": "له",
+        "start": 42.053,
+        "end": 42.534,
+        "phrase": 12,
+        "confidence": 1.0
+      },
+      {
+        "i": 58,
+        "text": "فرحها",
+        "start": 43.512,
+        "end": 44.872,
+        "phrase": 13,
+        "confidence": 1.0
+      },
+      {
+        "i": 59,
+        "text": "بهذا",
+        "start": 45.022,
+        "end": 45.318,
+        "phrase": 13,
+        "confidence": 1.0
+      },
+      {
+        "i": 60,
+        "text": "وتشجعه",
+        "start": 46.648,
+        "end": 47.397,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 61,
+        "text": "على",
+        "start": 47.397,
+        "end": 47.834,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 62,
+        "text": "هذا",
+        "start": 47.834,
+        "end": 48.271,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 63,
+        "text": "الأمر",
+        "start": 48.271,
+        "end": 48.916,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 64,
+        "text": "فتطيب",
+        "start": 48.916,
+        "end": 49.561,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 65,
+        "text": "الحياة",
+        "start": 49.561,
+        "end": 50.31,
+        "phrase": 14,
+        "confidence": 1.0
+      },
+      {
+        "i": 66,
+        "text": "ويتشارك",
+        "start": 51.32,
+        "end": 52.107,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 67,
+        "text": "الزوجان",
+        "start": 52.107,
+        "end": 52.895,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 68,
+        "text": "في",
+        "start": 52.895,
+        "end": 53.202,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 69,
+        "text": "أن",
+        "start": 53.202,
+        "end": 53.509,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 70,
+        "text": "يأخذ",
+        "start": 53.509,
+        "end": 54.008,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 71,
+        "text": "كل",
+        "start": 54.008,
+        "end": 54.315,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 72,
+        "text": "واحد",
+        "start": 54.315,
+        "end": 55.19,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 73,
+        "text": "منهما",
+        "start": 55.29,
+        "end": 55.51,
+        "phrase": 15,
+        "confidence": 1.0
+      },
+      {
+        "i": 74,
+        "text": "بيد",
+        "start": 56.056,
+        "end": 56.719,
+        "phrase": 16,
+        "confidence": 1.0
+      },
+      {
+        "i": 75,
+        "text": "الآخر",
+        "start": 56.719,
+        "end": 57.697,
+        "phrase": 16,
+        "confidence": 1.0
+      },
+      {
+        "i": 76,
+        "text": "إلى",
+        "start": 57.697,
+        "end": 58.36,
+        "phrase": 16,
+        "confidence": 1.0
+      },
+      {
+        "i": 77,
+        "text": "ما",
+        "start": 58.36,
+        "end": 58.865,
+        "phrase": 16,
+        "confidence": 1.0
+      },
+      {
+        "i": 78,
+        "text": "ينفع",
+        "start": 58.865,
+        "end": 59.686,
+        "phrase": 16,
+        "confidence": 1.0
+      },
+      {
+        "i": 79,
+        "text": "هذه",
+        "start": 60.248,
+        "end": 60.616,
+        "phrase": 17,
+        "confidence": 1.0
+      },
+      {
+        "i": 80,
+        "text": "أيها",
+        "start": 60.616,
+        "end": 61.071,
+        "phrase": 17,
+        "confidence": 1.0
+      },
+      {
+        "i": 81,
+        "text": "الفضلاء",
+        "start": 61.071,
+        "end": 61.702,
+        "phrase": 17,
+        "confidence": 1.0,
+        "text_raw": "الفضاء"
+      }
+    ],
+    "confidence_flags": [
+      {
+        "kind": "CHECK_TRANSCRIPT",
+        "word": 81,
+        "time": 61.07,
+        "reason": "Clip endet mitten im Wort/Satz – „الفضلاء“ ist eine Rekonstruktion, bitte anhören."
+      },
+      {
+        "kind": "CHECK_TRANSCRIPT",
+        "word": 11,
+        "time": 9.32,
+        "reason": "„الزوجين“ aus Neudekodierung übernommen – kurz anhören."
+      }
+    ],
+    "audit": [
+      {
+        "word": 11,
+        "from": "الزوج",
+        "to": "الزوجين",
+        "reason": "Phrase endet am VAD-Schnitt; Neudekodierung mit weiterem Audiofenster (7,5–10,1 s) ergibt eindeutig „بين الزوجين“; nach „بين“ grammatisch erforderlich.",
+        "lexical_change": true,
+        "at": "2026-09-29T23:50:03+00:00"
+      },
+      {
+        "word": 81,
+        "from": "الفضاء",
+        "to": "الفضلاء",
+        "reason": "„أيها الفضاء“ ist sinnlos; übliche Anrede an das Publikum ist „أيها الفضلاء“. Wort liegt am abgeschnittenen Clip-Ende – unsicher.",
+        "lexical_change": true,
+        "at": "2026-09-29T23:50:03+00:00"
+      }
+    ],
+    "asr": {
+      "provider": "sherpa-onnx",
+      "model": "sherpa-onnx-whisper-large-v3",
+      "at": "2026-09-29T23:48:35+00:00"
+    },
+    "imported_text": null
+  },
+  "translations": {
+    "de_draft": {
+      "seg_001": "… solange es zu den\nnützlichen Dingen gehört.",
+      "seg_002": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …",
+      "seg_003": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …",
+      "seg_004": "sie darin ermutigt",
+      "seg_005": "und ihr zeigt,\ndass darin\nein Nutzen liegt.",
+      "seg_006": "Und wenn sie in der Sache\netwas zu weit geht, …",
+      "seg_007": "leitet er sie\nauf gute Art und Weise an.",
+      "seg_008": "Ebenso die Ehefrau:",
+      "seg_009": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
+      "seg_010": "und Einsatz\nfür etwas Gutes, …",
+      "seg_011": "zeigt sie ihm\nihre Freude darüber",
+      "seg_012": "und ermutigt ihn\nin dieser Sache –",
+      "seg_013": "so wird das Leben schön.",
+      "seg_014": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …",
+      "seg_015": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.",
+      "seg_016": "Dies, verehrte Anwesende, …"
+    },
+    "de_final": [
+      {
+        "id": "seg_001",
+        "text": "… solange es zu den\nnützlichen Dingen gehört."
+      },
+      {
+        "id": "seg_002",
+        "text": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …"
+      },
+      {
+        "id": "seg_003",
+        "text": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …"
+      },
+      {
+        "id": "seg_004",
+        "text": "sie darin ermutigt"
+      },
+      {
+        "id": "seg_005",
+        "text": "und ihr zeigt,\ndass darin\nein Nutzen liegt."
+      },
+      {
+        "id": "seg_006",
+        "text": "Und wenn sie dabei\netwas zu weit geht, …"
+      },
+      {
+        "id": "seg_007",
+        "text": "leitet er sie\nauf gute Weise an."
+      },
+      {
+        "id": "seg_008",
+        "text": "Ebenso die Ehefrau:"
+      },
+      {
+        "id": "seg_009",
+        "text": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht"
+      },
+      {
+        "id": "seg_010",
+        "text": "und Einsatz\nfür Gutes, …"
+      },
+      {
+        "id": "seg_011",
+        "text": "zeigt sie ihm\nihre Freude darüber"
+      },
+      {
+        "id": "seg_012",
+        "text": "und ermutigt ihn\nin dieser Sache –"
+      },
+      {
+        "id": "seg_013",
+        "text": "so wird\ndas Leben schön."
+      },
+      {
+        "id": "seg_014",
+        "text": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …"
+      },
+      {
+        "id": "seg_015",
+        "text": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt."
+      },
+      {
+        "id": "seg_016",
+        "text": "Dies, verehrte\nAnwesende, …"
+      }
+    ],
+    "en_final": [
+      {
+        "id": "seg_001",
+        "text": "… as long as it is one\nof the beneficial things.",
+        "status": "OK"
+      },
+      {
+        "id": "seg_002",
+        "text": "Part of what makes life\nbetween spouses\nbeautiful is …",
+        "status": "OK"
+      },
+      {
+        "id": "seg_003",
+        "text": "that the husband,\nwhen he sees in his wife\nzeal for something good\nand beneficial, …",
+        "status": "OK"
+      },
+      {
+        "id": "seg_004",
+        "text": "encourages her in it",
+        "status": "OK"
+      },
+      {
+        "id": "seg_005",
+        "text": "and shows her\nthat there is\nbenefit in it.",
+        "status": "OK"
+      },
+      {
+        "id": "seg_006",
+        "text": "And if she goes\nsomewhat too far\nin the matter, …",
+        "status": "OK"
+      },
+      {
+        "id": "seg_007",
+        "text": "he guides her\nin a good manner.",
+        "status": "OK"
+      },
+      {
+        "id": "seg_008",
+        "text": "Likewise the wife:",
+        "status": "OK"
+      },
+      {
+        "id": "seg_009",
+        "text": "When she sees\nin her husband\nzeal for what is good",
+        "status": "OK"
+      },
+      {
+        "id": "seg_010",
+        "text": "and commitment\nto what is good, …",
+        "status": "OK"
+      },
+      {
+        "id": "seg_011",
+        "text": "she shows him\nher joy about it",
+        "status": "OK"
+      },
+      {
+        "id": "seg_012",
+        "text": "and encourages him\nin this matter –",
+        "status": "OK"
+      },
+      {
+        "id": "seg_013",
+        "text": "so life\nbecomes beautiful.",
+        "status": "OK"
+      },
+      {
+        "id": "seg_014",
+        "text": "And both spouses\nwork together,\nwith each of them …",
+        "status": "OK"
+      },
+      {
+        "id": "seg_015",
+        "text": "… taking the other\nby the hand –\ntowards what benefits.",
+        "status": "OK"
+      },
+      {
+        "id": "seg_016",
+        "text": "This,\nhonoured audience, …",
+        "status": "OK"
+      }
+    ],
+    "provenance": {
+      "provider": "claude-code-session (Claude, interaktive Redaktion nach packages/prompts)",
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "at": "2026-09-29T23:50:03+00:00",
+      "en_source": "de_final"
+    }
+  },
+  "timeline": [
+    {
+      "id": "seg_001",
+      "source_word_start": 0,
+      "source_word_end": 5,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "ما دام أنه من الأمور النافعة",
+      "de_draft": "… solange es zu den\nnützlichen Dingen gehört.",
+      "de": "… solange es zu den\nnützlichen Dingen gehört.",
+      "en": "… as long as it is one\nof the beneficial things.",
+      "en_from_de_hash": "3c22a9a03f",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "Clip beginnt mit der Fortsetzung eines vorherigen Satzes (Bezug fehlt) – siehe Trim-Vorschlag.",
+      "speech_start": 1.592,
+      "speech_end": 5.478,
+      "start": 1.532,
+      "end": 5.778,
+      "layout": {
+        "de": {
+          "fontSize": 68,
+          "lines": [
+            "… solange es zu den",
+            "nützlichen Dingen gehört."
+          ],
+          "lineHeight": 76,
+          "status": "OK",
+          "width": 853.1,
+          "height": 152,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 74,
+          "lines": [
+            "… as long as it is one",
+            "of the beneficial things."
+          ],
+          "lineHeight": 83,
+          "status": "OK",
+          "width": 840.7,
+          "height": 166,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_002",
+      "source_word_start": 6,
+      "source_word_end": 11,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "مما تطيب به الحياة بين الزوجين",
+      "de_draft": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …",
+      "de": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …",
+      "en": "Part of what makes life\nbetween spouses\nbeautiful is …",
+      "en_from_de_hash": "e485953727",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 7.608,
+      "speech_end": 9.768,
+      "start": 7.548,
+      "end": 10.068,
+      "layout": {
+        "de": {
+          "fontSize": 72,
+          "lines": [
+            "Zu dem, was das Leben",
+            "zwischen den Eheleuten",
+            "schön macht, gehört, …"
+          ],
+          "lineHeight": 81,
+          "status": "OK",
+          "width": 847.3,
+          "height": 243,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 76,
+          "lines": [
+            "Part of what makes life",
+            "between spouses",
+            "beautiful is …"
+          ],
+          "lineHeight": 85,
+          "status": "OK",
+          "width": 857.4,
+          "height": 255,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_003",
+      "source_word_start": 12,
+      "source_word_end": 22,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "أن الزوج إذا رأى من زوجته همة في أمر حسن نافع",
+      "de_draft": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …",
+      "de": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …",
+      "en": "that the husband,\nwhen he sees in his wife\nzeal for something good\nand beneficial, …",
+      "en_from_de_hash": "9448200528",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "همة = Eifer/Tatkraft; أمر حسن نافع = eine gute, nützliche Sache.",
+      "speech_start": 11.224,
+      "speech_end": 15.942,
+      "start": 11.164,
+      "end": 16.156,
+      "layout": {
+        "de": {
+          "fontSize": 74,
+          "lines": [
+            "dass der Ehemann,",
+            "wenn er bei seiner Frau",
+            "Eifer für etwas Gutes",
+            "und Nützliches sieht, …"
+          ],
+          "lineHeight": 83,
+          "status": "OK",
+          "width": 841.9,
+          "height": 332,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 72,
+          "lines": [
+            "that the husband,",
+            "when he sees in his wife",
+            "zeal for something good",
+            "and beneficial, …"
+          ],
+          "lineHeight": 81,
+          "status": "OK",
+          "width": 853.9,
+          "height": 324,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_004",
+      "source_word_start": 23,
+      "source_word_end": 25,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "يشجعها على ذلك",
+      "de_draft": "sie darin ermutigt",
+      "de": "sie darin ermutigt",
+      "en": "encourages her in it",
+      "en_from_de_hash": "45595b2a51",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 16.216,
+      "speech_end": 17.958,
+      "start": 16.156,
+      "end": 18.258,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "sie darin ermutigt"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 750.2,
+          "height": 96,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "encourages her in it"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 827.3,
+          "height": 96,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_005",
+      "source_word_start": 26,
+      "source_word_end": 31,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "ويظهر لها أن في هذا فائدة",
+      "de_draft": "und ihr zeigt,\ndass darin\nein Nutzen liegt.",
+      "de": "und ihr zeigt,\ndass darin\nein Nutzen liegt.",
+      "en": "and shows her\nthat there is\nbenefit in it.",
+      "en_from_de_hash": "87951b8fbb",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 19.448,
+      "speech_end": 22.854,
+      "start": 19.388,
+      "end": 23.42,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "und ihr zeigt,",
+            "dass darin",
+            "ein Nutzen liegt."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 687.0,
+          "height": 288,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "and shows her",
+            "that there is",
+            "benefit in it."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 611.9,
+          "height": 288,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_006",
+      "source_word_start": 32,
+      "source_word_end": 39,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "وإذا كان عندها نوع من التجاوز في الأمر",
+      "de_draft": "Und wenn sie in der Sache\netwas zu weit geht, …",
+      "de": "Und wenn sie dabei\netwas zu weit geht, …",
+      "en": "And if she goes\nsomewhat too far\nin the matter, …",
+      "en_from_de_hash": "4d0fe8f7ee",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "نوع من التجاوز في الأمر = eine Art Überschreitung/Übermaß in der Sache – bewusst nicht verschärft.",
+      "speech_start": 23.48,
+      "speech_end": 28.102,
+      "start": 23.42,
+      "end": 28.572,
+      "layout": {
+        "de": {
+          "fontSize": 82,
+          "lines": [
+            "Und wenn sie dabei",
+            "etwas zu weit geht, …"
+          ],
+          "lineHeight": 92,
+          "status": "OK",
+          "width": 847.7,
+          "height": 184,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "And if she goes",
+            "somewhat too far",
+            "in the matter, …"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 730.6,
+          "height": 288,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_007",
+      "source_word_start": 40,
+      "source_word_end": 42,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "يوجهها بأسلوب حسن",
+      "de_draft": "leitet er sie\nauf gute Art und Weise an.",
+      "de": "leitet er sie\nauf gute Weise an.",
+      "en": "he guides her\nin a good manner.",
+      "en_from_de_hash": "022f27bf1a",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 28.632,
+      "speech_end": 30.79,
+      "start": 28.572,
+      "end": 31.452,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "leitet er sie",
+            "auf gute Weise an."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 772.6,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "he guides her",
+            "in a good manner."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 741.6,
+          "height": 192,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_008",
+      "source_word_start": 43,
+      "source_word_end": 44,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "وكذلك الزوجة",
+      "de_draft": "Ebenso die Ehefrau:",
+      "de": "Ebenso die Ehefrau:",
+      "en": "Likewise the wife:",
+      "en_from_de_hash": "bb5bc1a168",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 31.512,
+      "speech_end": 33.222,
+      "start": 31.452,
+      "end": 33.756,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "Ebenso die Ehefrau:"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 823.5,
+          "height": 96,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "Likewise the wife:"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 760.9,
+          "height": 96,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_009",
+      "source_word_start": 45,
+      "source_word_end": 52,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "إذا رأت من زوجها همة في أمر حسن",
+      "de_draft": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
+      "de": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht",
+      "en": "When she sees\nin her husband\nzeal for what is good",
+      "en_from_de_hash": "51d9d8675a",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 33.816,
+      "speech_end": 36.686,
+      "start": 33.756,
+      "end": 36.986,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "Wenn sie",
+            "bei ihrem Mann",
+            "Eifer für Gutes sieht"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 834.9,
+          "height": 288,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 84,
+          "lines": [
+            "When she sees",
+            "in her husband",
+            "zeal for what is good"
+          ],
+          "lineHeight": 94,
+          "status": "OK",
+          "width": 846.5,
+          "height": 282,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_010",
+      "source_word_start": 53,
+      "source_word_end": 55,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "وعناية بأمر حسن",
+      "de_draft": "und Einsatz\nfür etwas Gutes, …",
+      "de": "und Einsatz\nfür Gutes, …",
+      "en": "and commitment\nto what is good, …",
+      "en_from_de_hash": "7c4893f2f6",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "عناية بأمر حسن = Sorgfalt/Einsatz für eine gute Sache.",
+      "speech_start": 37.816,
+      "speech_end": 40.102,
+      "start": 37.756,
+      "end": 40.402,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "und Einsatz",
+            "für Gutes, …"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 499.3,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "and commitment",
+            "to what is good, …"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 741.1,
+          "height": 192,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_011",
+      "source_word_start": 56,
+      "source_word_end": 59,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "تظهر له فرحها بهذا",
+      "de_draft": "zeigt sie ihm\nihre Freude darüber",
+      "de": "zeigt sie ihm\nihre Freude darüber",
+      "en": "she shows him\nher joy about it",
+      "en_from_de_hash": "43dca81fd8",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 41.272,
+      "speech_end": 45.318,
+      "start": 41.212,
+      "end": 45.618,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "zeigt sie ihm",
+            "ihre Freude darüber"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 829.6,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "she shows him",
+            "her joy about it"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 634.2,
+          "height": 192,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_012",
+      "source_word_start": 60,
+      "source_word_end": 63,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "وتشجعه على هذا الأمر",
+      "de_draft": "und ermutigt ihn\nin dieser Sache –",
+      "de": "und ermutigt ihn\nin dieser Sache –",
+      "en": "and encourages him\nin this matter –",
+      "en_from_de_hash": "6a3b670426",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 46.648,
+      "speech_end": 48.916,
+      "start": 46.588,
+      "end": 48.856,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "und ermutigt ihn",
+            "in dieser Sache –"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 714.1,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "and encourages him",
+            "in this matter –"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 843.5,
+          "height": 192,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_013",
+      "source_word_start": 64,
+      "source_word_end": 65,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "فتطيب الحياة",
+      "de_draft": "so wird das Leben schön.",
+      "de": "so wird\ndas Leben schön.",
+      "en": "so life\nbecomes beautiful.",
+      "en_from_de_hash": "fb80268262",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "فتطيب الحياة – Pointe als eigener Block (semantische Teilung innerhalb einer Sprechphrase).",
+      "speech_start": 48.916,
+      "speech_end": 50.31,
+      "start": 48.856,
+      "end": 50.61,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "so wird",
+            "das Leben schön."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 713.6,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "so life",
+            "becomes beautiful."
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 787.3,
+          "height": 192,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_014",
+      "source_word_start": 66,
+      "source_word_end": 73,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "ويتشارك الزوجان في أن يأخذ كل واحد منهما",
+      "de_draft": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …",
+      "de": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …",
+      "en": "And both spouses\nwork together,\nwith each of them …",
+      "en_from_de_hash": "813b0a7a14",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "ويتشارك الزوجان في أن يأخذ كل واحد منهما … = die Eheleute haben gemeinsam Anteil daran, dass jeder …",
+      "speech_start": 51.32,
+      "speech_end": 55.51,
+      "start": 51.26,
+      "end": 55.996,
+      "layout": {
+        "de": {
+          "fontSize": 72,
+          "lines": [
+            "Und beide Eheleute",
+            "wirken zusammen,",
+            "indem jeder von ihnen …"
+          ],
+          "lineHeight": 81,
+          "status": "OK",
+          "width": 850.2,
+          "height": 243,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 86,
+          "lines": [
+            "And both spouses",
+            "work together,",
+            "with each of them …"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 838.2,
+          "height": 288,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_015",
+      "source_word_start": 74,
+      "source_word_end": 78,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "بيد الآخر إلى ما ينفع",
+      "de_draft": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.",
+      "de": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.",
+      "en": "… taking the other\nby the hand –\ntowards what benefits.",
+      "en_from_de_hash": "9dbf9fa730",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": null,
+      "speech_start": 56.056,
+      "speech_end": 59.686,
+      "start": 55.996,
+      "end": 60.188,
+      "layout": {
+        "de": {
+          "fontSize": 78,
+          "lines": [
+            "… den anderen",
+            "an die Hand nimmt –",
+            "hin zu dem, was nützt."
+          ],
+          "lineHeight": 87,
+          "status": "OK",
+          "width": 853.5,
+          "height": 261,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 78,
+          "lines": [
+            "… taking the other",
+            "by the hand –",
+            "towards what benefits."
+          ],
+          "lineHeight": 87,
+          "status": "OK",
+          "width": 859.9,
+          "height": 261,
+          "rewrapped": false
+        }
+      }
+    },
+    {
+      "id": "seg_016",
+      "source_word_start": 79,
+      "source_word_end": 81,
+      "type": "spoken",
+      "render_type": "spoken",
+      "ar": "هذه أيها الفضلاء",
+      "de_draft": "Dies, verehrte Anwesende, …",
+      "de": "Dies, verehrte\nAnwesende, …",
+      "en": "This,\nhonoured audience, …",
+      "en_from_de_hash": "1a1d95ea7d",
+      "emphasis": [],
+      "accent": null,
+      "reference_ids": [],
+      "deliberate_fast": false,
+      "notes": "Angeschnittener neuer Satz am Clip-Ende – siehe Trim-Vorschlag.",
+      "speech_start": 60.248,
+      "speech_end": 61.702,
+      "start": 60.188,
+      "end": 62.002,
+      "layout": {
+        "de": {
+          "fontSize": 86,
+          "lines": [
+            "Dies, verehrte",
+            "Anwesende, …"
+          ],
+          "lineHeight": 96,
+          "status": "OK",
+          "width": 594.3,
+          "height": 192,
+          "rewrapped": false
+        },
+        "en": {
+          "fontSize": 82,
+          "lines": [
+            "This,",
+            "honoured audience, …"
+          ],
+          "lineHeight": 92,
+          "status": "OK",
+          "width": 861.2,
+          "height": 184,
+          "rewrapped": false
+        }
+      }
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_001",
+      "type": "LECTURE_SOURCE",
+      "label": "Vortragsreihe „فقه عوارض الزوجية“ (Fiqh ʿAwāriḍ az-Zawjiyyah), دروس الإمارات / drosuae.ae",
+      "status": "VERIFIED_EXACT",
+      "evidence": "Titel und Veranstalter sind im Quellvideo dauerhaft eingeblendet (Banner oben, Logo drosuae.ae).",
+      "segments": []
+    }
+  ],
+  "editorial_notes": [
+    {
+      "id": "ed_001",
+      "kind": "source",
+      "text": {
+        "all": "📚 فقه عوارض الزوجية"
+      },
+      "dir": "rtl",
+      "start": 1.4,
+      "end": 16.2,
+      "status": "VERIFIED_EXACT",
+      "enabled": true,
+      "reference_id": "ref_001",
+      "provenance": "Quellenzeile (redaktionell, nicht gesprochen): Titel der Vortragsreihe laut Banner im Originalvideo."
+    }
+  ],
+  "titles": {
+    "suggestions": [
+      {
+        "category": "direct_question",
+        "de": "Was macht das Eheleben schön?",
+        "en": "What makes married life beautiful?",
+        "grounding": "مما تطيب به الحياة بين الزوجين … فتطيب الحياة"
+      },
+      {
+        "category": "concise_thesis",
+        "de": "Ermutigt einander zum Guten",
+        "en": "Encourage one another to what is good",
+        "grounding": "يشجعها … وتشجعه"
+      },
+      {
+        "category": "contrast",
+        "de": "Nimm deinen Ehepartner an die Hand",
+        "en": "Take your spouse by the hand",
+        "grounding": "يأخذ كل واحد منهما بيد الآخر إلى ما ينفع"
+      },
+      {
+        "category": "provocative_question",
+        "de": "Ermutigst du deinen Ehepartner?",
+        "en": "Do you encourage your spouse?",
+        "grounding": "يشجعها على ذلك / وتشجعه على هذا الأمر"
+      },
+      {
+        "category": "concise_thesis",
+        "de": "Gemeinsam zu dem, was nützt",
+        "en": "Together towards what benefits",
+        "grounding": "ويتشارك الزوجان … إلى ما ينفع"
+      }
+    ],
+    "chosen": {
+      "de": "Was macht das Eheleben schön?",
+      "en": "What makes married life beautiful?"
+    },
+    "layout": {
+      "de": {
+        "fontSize": 110,
+        "lines": [
+          "WAS MACHT",
+          "DAS EHELEBEN",
+          "SCHÖN?"
+        ],
+        "lineHeight": 119,
+        "status": "OK",
+        "width": 860.7,
+        "height": 357,
+        "rewrapped": true
+      },
+      "en": {
+        "fontSize": 116,
+        "lines": [
+          "WHAT MAKES",
+          "MARRIED LIFE",
+          "BEAUTIFUL?"
+        ],
+        "lineHeight": 125,
+        "status": "OK",
+        "width": 858.0,
+        "height": 375,
+        "rewrapped": true
+      }
+    }
+  },
+  "visual": {
+    "analysis": {
+      "content_box": {
+        "x0": 0,
+        "y0": 463,
+        "x1": 576,
+        "y1": 790
+      },
+      "container_orientation": "portrait",
+      "content_orientation": "landscape",
+      "letterboxed": true,
+      "subject": {
+        "method": "face",
+        "cx": 331.875,
+        "cy": 594.5,
+        "face_h": 83.75,
+        "hits": 26,
+        "frames": 18
+      },
+      "static_text_regions": [
+        {
+          "y0": 482,
+          "y1": 525,
+          "x0": 0,
+          "x1": 575,
+          "density": 0.148,
+          "rel_y": 0.124
+        },
+        {
+          "y0": 669,
+          "y1": 677,
+          "x0": 57,
+          "x1": 537,
+          "density": 0.171,
+          "rel_y": 0.642
+        },
+        {
+          "y0": 772,
+          "y1": 790,
+          "x0": 0,
+          "x1": 575,
+          "density": 0.146,
+          "rel_y": 0.972
+        }
+      ]
+    },
+    "stage": {
+      "crop": {
+        "x": 151.88,
+        "y": 463,
+        "w": 360.0,
+        "h": 327
+      },
+      "zoom": 3.0,
+      "y": 110,
+      "height": 980
+    },
+    "mask_auto": {
+      "fade_start": 0.4277,
+      "fade_end": 0.5877,
+      "reasons": [
+        "stage bottom at 1090px (0.568)"
+      ]
+    },
+    "freeze_time": 6.9,
+    "speaker_visible": true,
+    "mode_suggested": "video",
+    "mode": "video",
+    "boxes": {
+      "subtitle": {
+        "top": 1058,
+        "bottom": 1470,
+        "left": 80,
+        "right": 950
+      },
+      "editorial": {
+        "top": 1484,
+        "bottom": 1560,
+        "left": 80,
+        "right": 950
+      },
+      "brand": {
+        "top": 1574,
+        "height": 136,
+        "bottom": 1710
+      }
+    },
+    "prepared": {
+      "key": "{\"bg\": null, \"freeze\": 6.9, \"mode\": \"video\", \"stage\": {\"crop\": {\"h\": 327, \"w\": 360.0, \"x\": 151.88, \"y\": 463}, \"height\": 980, \"y\": 110, \"zoom\": 3.0}, \"trim\": [6.9, 60.0]}",
+      "audio": "audio.wav",
+      "limiter": false,
+      "stage_video": "stage.mp4",
+      "freeze": "freeze.png"
+    }
+  },
+  "qa": {
+    "at": "2026-09-30T00:18:06+00:00",
+    "gates": [
+      {
+        "n": 1,
+        "gate": "Audio vorhanden, Dauer = Quellbereich",
+        "ok": true,
+        "detail": "53.100s vs 53.100s"
+      },
+      {
+        "n": 2,
+        "gate": "Arabisches Transkript vorhanden",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 3,
+        "gate": "Jeder Block hat DE",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 4,
+        "gate": "Jeder Block hat aktuelles EN",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 5,
+        "gate": "Kein Untertitel verlässt den sicheren Bereich",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 6,
+        "gate": "Branding kollidiert nicht mit Untertiteln",
+        "ok": true,
+        "detail": "Untertitel ≤1470 · Quellenzeile 1484–1560 · Branding 1574–1710"
+      },
+      {
+        "n": 7,
+        "gate": "Intro-Länge exakt wie konfiguriert",
+        "ok": true,
+        "detail": "4.0s"
+      },
+      {
+        "n": 8,
+        "gate": "Kein CHECK_REQUIRED als verifiziert gerendert",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 9,
+        "gate": "Redaktioneller Kontext visuell getrennt",
+        "ok": true,
+        "detail": "Quellenzeile 40px vs. kleinster Untertitel 68px, eigene Farbe & Spur"
+      },
+      {
+        "n": 10,
+        "gate": "DE/EN-Timeline synchron",
+        "ok": true,
+        "detail": "gemeinsame Timing-Map"
+      },
+      {
+        "n": 11,
+        "gate": "Keine Blitz-Lücken zwischen Blöcken",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 12,
+        "gate": "Render öffnet und enthält Audio",
+        "ok": true,
+        "detail": "de: 57.10s, en: 57.10s"
+      }
+    ],
+    "all_gates_ok": true,
+    "review_items": [
+      {
+        "kind": "UNSICHERES_ARABISCH",
+        "time": 61.07,
+        "text": "الفضلاء",
+        "detail": "Clip endet mitten im Wort/Satz – „الفضلاء“ ist eine Rekonstruktion, bitte anhören."
+      },
+      {
+        "kind": "UNSICHERES_ARABISCH",
+        "time": 9.32,
+        "text": "الزوجين",
+        "detail": "„الزوجين“ aus Neudekodierung übernommen – kurz anhören."
+      },
+      {
+        "kind": "TRANSKRIPT_KORREKTUR",
+        "time": 9.325,
+        "text": "الزوج → الزوجين",
+        "detail": "Phrase endet am VAD-Schnitt; Neudekodierung mit weiterem Audiofenster (7,5–10,1 s) ergibt eindeutig „بين الزوجين“; nach „بين“ grammatisch erforderlich."
+      },
+      {
+        "kind": "TRANSKRIPT_KORREKTUR",
+        "time": 61.071,
+        "text": "الفضاء → الفضلاء",
+        "detail": "„أيها الفضاء“ ist sinnlos; übliche Anrede an das Publikum ist „أيها الفضلاء“. Wort liegt am abgeschnittenen Clip-Ende – unsicher."
+      },
+      {
+        "kind": "REDAKTIONELLE_ERGÄNZUNG",
+        "time": 1.4,
+        "text": "📚 فقه عوارض الزوجية",
+        "detail": "source · VERIFIED_EXACT · eingeblendet"
+      },
+      {
+        "kind": "LESEGESCHWINDIGKEIT",
+        "detail": "DE seg_002: 26.6 Zeichen/s bei 2.52s"
+      },
+      {
+        "kind": "LESEGESCHWINDIGKEIT",
+        "detail": "EN seg_002: 21.4 Zeichen/s bei 2.52s"
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 1.532,
+        "text": "seg_001",
+        "detail": "Clip beginnt mit der Fortsetzung eines vorherigen Satzes (Bezug fehlt) – siehe Trim-Vorschlag."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 11.164,
+        "text": "seg_003",
+        "detail": "همة = Eifer/Tatkraft; أمر حسن نافع = eine gute, nützliche Sache."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 23.42,
+        "text": "seg_006",
+        "detail": "نوع من التجاوز في الأمر = eine Art Überschreitung/Übermaß in der Sache – bewusst nicht verschärft."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 37.756,
+        "text": "seg_010",
+        "detail": "عناية بأمر حسن = Sorgfalt/Einsatz für eine gute Sache."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 48.856,
+        "text": "seg_013",
+        "detail": "فتطيب الحياة – Pointe als eigener Block (semantische Teilung innerhalb einer Sprechphrase)."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 51.26,
+        "text": "seg_014",
+        "detail": "ويتشارك الزوجان في أن يأخذ كل واحد منهما … = die Eheleute haben gemeinsam Anteil daran, dass jeder …"
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 60.188,
+        "text": "seg_016",
+        "detail": "Angeschnittener neuer Satz am Clip-Ende – siehe Trim-Vorschlag."
+      },
+      {
+        "kind": "TRIM_VORSCHLAG",
+        "detail": "6.9–60.0 s: Der Clip beginnt mit der Fortsetzung eines vorherigen Satzes (0–5,5 s: „ما دام أنه من الأمور النافعة“) und endet mit einem angeschnittenen neuen Satz (ab 60,2 s: „هذه أيها الفضلاء“). Der eigenständige Gedanke läuft von 7,6 s bis 59,7 s. Nur Vorschlag – der Standard-Render nutzt den vollständigen Clip."
+      }
+    ],
+    "checklist": [
+      "Speaker korrekt?",
+      "Arabisches Transkript an markierten Stellen korrekt?",
+      "Deutsche Bedeutung freigegeben?",
+      "Englisch spiegelt das Deutsche?",
+      "Quellen freigegeben?",
+      "Redaktionelle Ergänzungen klar getrennt?",
+      "Visuelles Layout akzeptabel?"
+    ],
+    "status": "READY_FOR_REVIEW"
+  },
+  "prompts": {
+    "arabic_cleanup": "arabic_cleanup_v1",
+    "de_translation": "de_translation_v1",
+    "semantic_segmentation": "semantic_segmentation_v1",
+    "en_from_de": "en_from_de_v1",
+    "religious_reference_detection": "religious_reference_detection_v1",
+    "title_generation": "title_generation_v1"
+  },
+  "render_history": [
+    {
+      "at": "2026-09-30T00:13:24+00:00",
+      "lang": "de",
+      "preview": false,
+      "output": "renders/AbuAisha_DE_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/work/render_input_de.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/renders/AbuAisha_DE_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_de.json",
+      "seconds": 141.3,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 57.1,
+        "expected": 57.1
+      },
+      "status": "OK"
+    },
+    {
+      "at": "2026-09-30T00:15:45+00:00",
+      "lang": "en",
+      "preview": false,
+      "output": "renders/AbuAisha_EN_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/work/render_input_en.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben-kurz/renders/AbuAisha_EN_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_en.json",
+      "seconds": 140.7,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 57.1,
+        "expected": 57.1
+      },
+      "status": "OK"
+    }
+  ],
+  "decisions": [
+    {
+      "at": "2026-09-29T23:50:03+00:00",
+      "what": "Deutsch ist Master; Englisch wurde ausschließlich aus dem finalen Deutsch abgeleitet und nur gegen das Arabische auf Sinnabweichungen geprüft."
+    },
+    {
+      "at": "2026-09-29T23:50:03+00:00",
+      "what": "تطيب الحياة durchgehend als „das Leben wird schön“ / „life becomes beautiful“ wiedergegeben (Titel konsistent)."
+    },
+    {
+      "at": "2026-09-29T23:50:03+00:00",
+      "what": "Keine redaktionellen Erklärungen in den gesprochenen Untertiteln."
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_006"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_007"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_009"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_010"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_016"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_009"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_013"
+    },
+    {
+      "at": "2026-09-30T00:06:57+00:00",
+      "what": "mask",
+      "value": {
+        "mode": "manual",
+        "fade_start": 0.44,
+        "fade_end": 0.6
+      }
+    },
+    {
+      "at": "2026-09-30T00:06:57+00:00",
+      "what": "mask",
+      "value": {
+        "mode": "auto",
+        "fade_start": null,
+        "fade_end": null
+      }
+    },
+    {
+      "at": "2026-09-30T00:12:48+00:00",
+      "what": "cloned from ruhaili-eheleben",
+      "overrides": {
+        "trim_in": 6.9,
+        "trim_out": 60.0
+      }
+    }
+  ],
+  "verification": {
+    "quran_index": false,
+    "at": "2026-09-30T00:12:48+00:00",
+    "new_references": 0
+  }
+}

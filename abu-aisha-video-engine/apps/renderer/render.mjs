@@ -56,6 +56,7 @@ await renderMedia({
   crf: preview ? 28 : 16,
   x264Preset: preview ? 'veryfast' : 'slow',
   pixelFormat: 'yuv420p',
+  colorSpace: 'bt709',
   audioCodec: 'aac',
   audioBitrate: '320k',
   scale: preview ? 0.5 : 1,

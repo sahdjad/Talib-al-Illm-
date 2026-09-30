@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "abu-aisha/project.schema.json",
+  "title": "Abu Aisha Video Engine project (schema_version 1)",
+  "description": "project.json – single source of truth (spec §7). Renderers only read; translations.de_final/en_final are derived views of timeline.",
+  "type": "object",
+  "required": ["schema_version", "project_id", "name", "state", "config", "speaker", "source", "settings", "transcript",
+               "translations", "timeline", "references", "editorial_notes", "titles", "visual", "qa", "render_history"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "project_id": {"type": "string"},
+    "name": {"type": "string"},
+    "state": {"enum": ["UPLOADED", "ANALYZING", "TRANSCRIBING", "TRANSLATING_DE", "SEGMENTING", "TRANSLATING_EN", "VERIFYING",
+                       "COMPOSING", "PREVIEW_READY", "REVIEW_REQUIRED", "RENDERING", "READY", "APPROVED"]},
+    "config": {"type": "object", "description": "snapshot of packages/schema/defaults.json at creation (reproducibility)"},
+    "speaker": {
+      "type": "object", "required": ["user_supplied_name"],
+      "properties": {
+        "user_supplied_name": {"type": "string"}, "arabic_display": {"type": ["string", "null"]},
+        "honorific": {"type": ["string", "null"]}, "latin_display": {"type": ["string", "null"]},
+        "intro_line": {"type": "string"}, "identity_source": {"const": "user"}
+      }
+    },
+    "source": {
+      "type": "object", "required": ["file", "trim_in"],
+      "properties": {
+        "file": {"type": "string"}, "source_url": {"type": ["string", "null"]}, "original_account": {"type": ["string", "null"]},
+        "rights_note": {"type": ["string", "null"]}, "trim_in": {"type": "number"}, "trim_out": {"type": ["number", "null"]},
+        "trim_suggestion": {"type": ["object", "null"]}, "probe": {"type": ["object", "null"]}
+      }
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "mode": {"enum": ["auto", "video", "audio_visual"]}, "theme": {"const": "classic"}, "intro": {"type": "boolean"},
+        "intro_duration": {"type": "number"}, "content_profile": {"type": "string"},
+        "mask": {"type": "object", "properties": {"mode": {"enum": ["auto", "manual"]},
+                 "fade_start": {"type": ["number", "null"]}, "fade_end": {"type": ["number", "null"]}}},
+        "languages": {"type": "array", "items": {"enum": ["de", "en"]}},
+        "review_required": {"const": true}, "audio_policy": {"const": "original_only"}
+      }
+    },
+    "transcript": {
+      "type": "object",
+      "properties": {
+        "word_timings": {"type": "array", "items": {"type": "object", "required": ["i", "text", "start", "end", "phrase"],
+          "properties": {"i": {"type": "integer"}, "text": {"type": "string"}, "text_raw": {"type": "string"},
+                         "start": {"type": "number"}, "end": {"type": "number"}, "phrase": {"type": "integer"}}}},
+        "arabic_verbatim_raw": {"type": "array"}, "arabic_verbatim_reviewed": {"type": "array"},
+        "confidence_flags": {"type": "array"}, "audit": {"type": "array"}, "asr": {"type": ["object", "null"]}
+      }
+    },
+    "timeline": {"type": "array", "items": {"$ref": "#/$defs/segment"}},
+    "references": {"type": "array", "items": {"type": "object", "required": ["id", "type", "status"],
+      "properties": {"status": {"enum": ["VERIFIED_EXACT", "VERIFIED_GENERAL", "CHECK_REQUIRED", "UNVERIFIED", "APPROVED"]}}}},
+    "editorial_notes": {"type": "array", "items": {"type": "object", "required": ["id", "kind", "text", "start", "end", "status", "enabled"],
+      "properties": {"kind": {"enum": ["source", "context", "quran_ref", "hadith_ref"]}, "text": {"type": "object"},
+                     "status": {"enum": ["VERIFIED_EXACT", "VERIFIED_GENERAL", "CHECK_REQUIRED", "UNVERIFIED", "APPROVED"]},
+                     "enabled": {"type": "boolean"}}}},
+    "titles": {"type": "object"},
+    "visual": {"type": "object"},
+    "qa": {"type": "object"},
+    "render_history": {"type": "array"},
+    "prompts": {"type": "object"}
+  },
+  "$defs": {
+    "segment": {
+      "type": "object",
+      "required": ["id", "source_word_start", "source_word_end", "start", "end", "type", "ar", "de"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^seg_[0-9]{3}$"},
+        "source_word_start": {"type": "integer"}, "source_word_end": {"type": "integer"},
+        "start": {"type": "number", "description": "seconds on the source timeline"}, "end": {"type": "number"},
+        "type": {"enum": ["spoken", "pause"]}, "render_type": {"enum": ["spoken", "heading"]},
+        "ar": {"type": "string"}, "de": {"type": "string"}, "de_draft": {"type": "string"}, "en": {"type": ["string", "null"]},
+        "en_from_de_hash": {"type": ["string", "null"], "description": "hash of the German the English was derived from; mismatch = STALE_EN"},
+        "accent": {"enum": [null, "red"]}, "emphasis": {"type": "array"},
+        "reference_ids": {"type": "array", "items": {"type": "string"}},
+        "timing_locked": {"type": "boolean"}, "deliberate_fast": {"type": "boolean"},
+        "layout": {"type": "object", "additionalProperties": {"type": "object", "required": ["fontSize", "lines", "lineHeight", "status"]}}
+      }
+    }
+  }
+}

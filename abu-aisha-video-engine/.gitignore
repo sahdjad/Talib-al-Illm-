@@ -10,3 +10,6 @@ data/projects/*/work/
 data/projects/*/previews/
 data/projects/*/source/
 data/projects/*/project.json.tmp
+data/projects/test-*/
+# rebuild with: python3 -m abu_aisha render ruhaili-eheleben-kurz
+data/projects/ruhaili-eheleben-kurz/renders/

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abu Aisha Video Engine</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <div class="brand"><img src="/static/logo.png" alt=""><span>Abu Aisha · Video Engine</span></div>
+    <nav id="tabs">
+      <button data-tab="projects" class="active">1 · Projekte</button>
+      <button data-tab="text">2 · Transkript & Übersetzung</button>
+      <button data-tab="timeline">3 · Timeline & Vorschau</button>
+      <button data-tab="qa">4 · Quellen & QA</button>
+      <button data-tab="export">5 · Render & Export</button>
+    </nav>
+    <div id="jobbar"></div>
+  </header>
+
+  <main>
+    <!-- 1 Upload / projects -->
+    <section id="tab-projects" class="tab active">
+      <div class="grid2">
+        <form id="newform" class="card">
+          <h2>Neuer Clip</h2>
+          <label>Video/Audio <input type="file" name="media" required accept="video/*,audio/*"></label>
+          <label>Projektname <input name="name" required placeholder="fawzan-tauhid-1"></label>
+          <label>Shaykh (wie du ihn schreibst) <input name="speaker" required dir="auto" placeholder="الشيخ صالح الفوزان حفظه الله"></label>
+          <div class="row">
+            <label>Modus
+              <select name="mode"><option value="auto">Standard (automatisch)</option><option value="video">Video</option><option value="audio_visual">Audio + Visual</option></select>
+            </label>
+            <label>Profil
+              <select name="profile"><option value="general">Allgemein</option><option value="tazkiyah">Tazkiyah / ruhig</option><option value="rebuttal">Widerlegung</option></select>
+            </label>
+          </div>
+          <label class="check"><input type="checkbox" name="intro" checked> 4-Sekunden-Intro</label>
+          <div class="row">
+            <label>Titel DE (optional) <input name="title_de"></label>
+            <label>Titel EN (optional) <input name="title_en"></label>
+          </div>
+          <label>Anweisungen (optional) <textarea name="instructions" rows="2" placeholder="z. B. Zusatzinfo nur vorschlagen, schwarze Fläche etwas höher …"></textarea></label>
+          <label>Arabisches Transkript (optional, z. B. von Gemini) <textarea name="transcript_ar" rows="3" dir="rtl"></textarea></label>
+          <label>Quelle / URL (optional) <input name="source_url"></label>
+          <button type="submit" class="primary">Hochladen & analysieren</button>
+        </form>
+        <div class="card">
+          <h2>Projekte</h2>
+          <ul id="projectlist" class="list"></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2 Text -->
+    <section id="tab-text" class="tab">
+      <div class="toolbar">
+        <strong id="ptitle"></strong>
+        <button id="btn-editorial">KI-Redaktion (Claude) ausführen</button>
+        <button id="btn-regen">Veraltetes EN neu erzeugen</button>
+        <span class="hint">Zeilenumbruch = Sinn-Umbruch · Änderung am Deutsch markiert EN als veraltet</span>
+      </div>
+      <div id="segtable"></div>
+    </section>
+
+    <!-- 3 Timeline -->
+    <section id="tab-timeline" class="tab">
+      <div class="grid2 wide">
+        <div class="card center">
+          <video id="player" controls playsinline></video>
+          <div class="row">
+            <select id="prevlang"><option value="de">Deutsch</option><option value="en">English</option></select>
+            <button id="btn-preview">Vorschau rendern</button>
+            <button id="btn-still">Standbild an Position</button>
+          </div>
+          <img id="still" alt="">
+        </div>
+        <div class="card">
+          <h2>Layout</h2>
+          <label>Maskenposition (Beginn des Verlaufs): <b id="maskval"></b>
+            <input type="range" id="mask" min="0.34" max="0.56" step="0.005">
+          </label>
+          <div class="row"><button id="mask-apply">Maske übernehmen</button><button id="mask-auto">Automatisch</button></div>
+          <label class="check"><input type="checkbox" id="intro-toggle"> Intro (4 s)</label>
+          <label>Titel DE <input id="title-de"></label>
+          <label>Titel EN <input id="title-en"></label>
+          <div id="titlesugs" class="chips"></div>
+          <button id="btn-settings">Übernehmen</button>
+          <h2>Timeline</h2>
+          <div id="timeline"></div>
+          <div id="wordbar" dir="rtl"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4 QA -->
+    <section id="tab-qa" class="tab">
+      <div class="toolbar"><button id="btn-qa">QA prüfen</button><button id="btn-approve" class="primary">Freigeben (APPROVED)</button></div>
+      <div class="grid2">
+        <div class="card"><h2>Zu prüfen</h2><ul id="qaitems" class="list"></ul></div>
+        <div class="card"><h2>Qualitäts-Gates</h2><table id="gates"></table>
+          <h2>Redaktionelle Ergänzungen</h2><ul id="notes" class="list"></ul>
+          <h2>Checkliste</h2><ul id="checklist" class="list"></ul></div>
+      </div>
+    </section>
+
+    <!-- 5 Export -->
+    <section id="tab-export" class="tab">
+      <div class="toolbar">
+        <button id="btn-final-de" class="primary">Final DE rendern</button>
+        <button id="btn-final-en" class="primary">Final EN rendern</button>
+      </div>
+      <div class="card"><h2>Dateien</h2><ul id="files" class="list"></ul></div>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

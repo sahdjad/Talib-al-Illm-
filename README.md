@@ -14,8 +14,15 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
   Klassenorganisation) sowie zugehörige Klassenlisten, jeweils als Markdown und – wo erstellt – als
   formatiertes PDF.
 - **`uebersetzungen/`** – Buchübersetzungen/-materialien, je Buch ein eigener Unterordner.
+- **`abu-aisha-video-engine/`** – Video-Engine für Abu Aisha al-Kumasi: arabischer Shaykh-Clip → deutsche und
+  englische Hochformat-Videos im Abu-Aisha-Stil (lokale Arabisch-Transkription, Deutsch als Master, Englisch aus
+  finalem Deutsch, Sinn-Untertitel, Intro, Maske, Branding, QA). Details in
+  `abu-aisha-video-engine/README.md`.
 
 ## Aktueller Stand
+
+- `abu-aisha-video-engine/data/projects/ruhaili-eheleben/` – erstes Video: Shaykh Sulaymān ar-Ruḥaylī
+  „Was macht das Eheleben schön?“ (DE + EN gerendert, Transkript, Übersetzungen, QA-Bericht)
 
 - `protokolle/2026-09_meeting-klasse3.md` – Gesprächsprotokoll Klasse 3 (Unterrichtsplanung,
   Zeitstruktur, Regeln, Aufgabenliste)

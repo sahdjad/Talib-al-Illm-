@@ -300,18 +300,43 @@ def render(p: Project, lang: str, *, preview: bool = False, debug: bool = False,
         subprocess.run(cmd, check=True, cwd=RENDERER_DIR)
     except subprocess.CalledProcessError as e:
         entry["status"] = "FAILED"
-        p.data["render_history"].append(entry)
-        p.fail("render", str(e))
-        p.save()
+        _record_render(p, entry, error=str(e))
         raise
-    faststart(out)
+    mux_original_audio(p, out)
     entry["seconds"] = round(time.time() - t0, 1)
     entry["verify"] = verify_output(p, out, preview)
     entry["status"] = "OK" if entry["verify"]["ok"] else "CHECK"
-    p.data["render_history"].append(entry)
-    p.set_state("PREVIEW_READY" if preview else "REVIEW_REQUIRED")
-    p.save()
+    _record_render(p, entry, state="PREVIEW_READY" if preview else "REVIEW_REQUIRED")
     return out
+
+
+def _record_render(p: Project, entry: dict, state: str | None = None, error: str | None = None) -> None:
+    """Re-read project.json before writing: edits made in the UI while a render ran must not be lost."""
+    fresh = Project.open(p.root)
+    fresh.data["render_history"].append(entry)
+    if error:
+        fresh.fail("render", error)  # state stays at the last successful one
+    elif state:
+        fresh.set_state(state)
+    fresh.save()
+    p.data = fresh.data
+
+
+def mux_original_audio(p: Project, video: Path) -> None:
+    """FFmpeg owns the final audio (§9, §30.3): the Shaykh's original track, 0 dB, placed
+    sample-exactly after the intro; AAC priming is handled by FFmpeg's edit list.
+    Also moves the moov atom to the front (web fast-start)."""
+    pub = p.root / "render_public"
+    intro = p.data["settings"]["intro_duration"] if p.data["settings"]["intro"] else 0
+    ms = int(round(intro * 1000))
+    tmp = video.with_suffix(".mux.mp4")
+    af = (f"[1:a]adelay=delays={ms}:all=1," if ms else "[1:a]") + "apad[a]"
+    subprocess.run([
+        "ffmpeg", "-v", "error", "-y", "-i", str(video), "-i", str(pub / "audio.wav"), "-filter_complex", af,
+        "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "320k", "-ar", "48000", "-shortest",
+        "-movflags", "+faststart", str(tmp),
+    ], check=True)
+    tmp.replace(video)
 
 
 def faststart(path: Path) -> None:
@@ -335,3 +360,106 @@ def verify_output(p: Project, out: Path, preview: bool) -> dict:
         "duration_ok": abs(info["duration"] - expected) < 0.1,
     }
     return {"ok": all(checks.values()), **checks, "duration": info["duration"], "expected": round(expected, 3)}
+
+
+# ------------------------------------------------------------ verification
+
+def verify_references(p: Project) -> list[dict]:
+    """Rule-based span detection + Qurʾān text matching (§12). Adds references,
+    never removes editorial decisions. Unverifiable spans stay CHECK_REQUIRED."""
+    from . import quran
+
+    ws = p.data["transcript"]["word_timings"]
+    refs = p.data["references"]
+    known = {(r.get("type"), r.get("word_start")) for r in refs}
+    found = []
+    for sp in references.detect_spans(ws):
+        if sp["type"] == "HONORIFIC":
+            continue
+        key = (sp["type"], sp["word"])
+        if key in known:
+            continue
+        found.append({"id": f"ref_auto_{len(refs) + len(found) + 1:03d}", "type": sp["type"], "word_start": sp["word"],
+                      "label": f"{sp['label']}: „{sp['match']}“ @ {ws[sp['word']]['start']:.1f}s",
+                      "status": "CHECK_REQUIRED", "evidence": "Stichwort-Erkennung (regelbasiert)", "segments": []})
+    idx = quran.default_index()
+    qa_note = {"quran_index": bool(idx)}
+    if idx:
+        for h in idx.scan(ws):
+            if ("QURAN_QUOTE", h["word_start"]) in known:
+                continue
+            ref = {"id": f"ref_q_{h['sura']}_{h['aya_from']}", "type": "QURAN_QUOTE", "word_start": h["word_start"],
+                   "word_end": h["word_end"], "label": h["label"], "status": h["status"], "canonical_ar": h["canonical_ar"],
+                   "coverage": h["coverage"], "partial_recitation": h["partial_recitation"],
+                   "evidence": "Textabgleich mit konfiguriertem Qurʾān-Text", "segments": []}
+            found.append(ref)
+            p.data["editorial_notes"].append({
+                "id": f"ed_{ref['id']}", "kind": "quran_ref", "text": {"all": ref["label"]}, "dir": "ltr",
+                "start": ws[h["word_start"]]["start"], "end": ws[h["word_end"]]["end"] + 1.5,
+                "status": h["status"], "enabled": h["status"].startswith("VERIFIED"), "reference_id": ref["id"],
+                "provenance": "Automatische Qurʾān-Referenz (Textabgleich)",
+            })
+    refs.extend(found)
+    for r in refs:
+        if r.get("word_start") is None:
+            continue
+        for s in p.data["timeline"]:
+            if s["source_word_start"] <= r["word_start"] <= s["source_word_end"] and r["id"] not in s.get("reference_ids", []):
+                s.setdefault("reference_ids", []).append(r["id"])
+    p.data["verification"] = dict(qa_note, at=now(), new_references=len(found))
+    p.save()
+    return found
+
+
+def stage_status(p: Project) -> dict:
+    d = p.data
+    return {
+        "analyzed": bool(d["source"].get("probe") and d["visual"].get("stage")),
+        "transcribed": bool(d["transcript"]["word_timings"]),
+        "editorial": bool(d["timeline"]),
+        "layout": bool(d["timeline"]) and all(s.get("layout") for s in d["timeline"]),
+        "verified": bool(d.get("verification")),
+        "qa": bool(d.get("qa")),
+        "rendered": sorted({r["lang"] for r in d["render_history"] if not r["preview"] and r.get("status") == "OK"}),
+    }
+
+
+def run_all(p: Project, *, provider=None, langs: list[str] | None = None, preview: bool = False, render_final: bool = True) -> None:
+    """Resume from the last successful stage (§29 'LLM unavailable', 'Render crash')."""
+    from . import exports, qa
+
+    st = stage_status(p)
+    stage = "analyze"
+    try:
+        if not st["analyzed"]:
+            analyze(p)
+        stage = "transcribe"
+        if not st["transcribed"]:
+            transcribe(p)
+        stage = "editorial"
+        if not st["editorial"]:
+            if provider is None:
+                raise RuntimeError("no editorial yet: pass --provider (claude model id or file:editorial.json)")
+            apply_editorial(p, provider.editorial(p))
+        stage = "verify"
+        if not st["verified"]:
+            verify_references(p)
+        stage = "layout"
+        do_layout(p)
+        stage = "assets"
+        prepare_assets(p)
+        stage = "qa"
+        qa.run(p)
+        stage = "render"
+        for lang in langs or p.data["settings"]["languages"]:
+            if preview:
+                render(p, lang, preview=True)
+            if render_final:
+                render(p, lang)
+        stage = "qa"
+        qa.run(p)
+        exports.export_all(p)
+    except Exception as e:  # keep last good state, record error, re-raise
+        p.fail(stage, repr(e))
+        p.save()
+        raise

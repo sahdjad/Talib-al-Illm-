@@ -3,8 +3,8 @@
   "project_id": "0220967d-9b08-461f-9563-2ade5a8b67df",
   "name": "ruhaili-eheleben",
   "created_at": "2026-09-29T23:48:32+00:00",
-  "updated_at": "2026-09-29T23:56:44+00:00",
-  "state": "RENDERING",
+  "updated_at": "2026-09-30T00:18:06+00:00",
+  "state": "REVIEW_REQUIRED",
   "state_history": [
     {
       "state": "UPLOADED",
@@ -53,6 +53,130 @@
     {
       "state": "RENDERING",
       "at": "2026-09-29T23:56:44+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-29T23:59:27+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-29T23:59:27+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:02:01+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:02+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:02+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:03+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:04+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:11+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:05:12+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "COMPOSING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:06:57+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:07:19+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:10:07+00:00"
+    },
+    {
+      "state": "RENDERING",
+      "at": "2026-09-30T00:10:07+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:12:48+00:00"
+    },
+    {
+      "state": "VERIFYING",
+      "at": "2026-09-30T00:18:06+00:00"
+    },
+    {
+      "state": "REVIEW_REQUIRED",
+      "at": "2026-09-30T00:18:06+00:00"
     }
   ],
   "config": {
@@ -1443,11 +1567,11 @@
       },
       {
         "id": "seg_006",
-        "text": "Und wenn sie in der Sache\netwas zu weit geht, …"
+        "text": "Und wenn sie dabei\netwas zu weit geht, …"
       },
       {
         "id": "seg_007",
-        "text": "leitet er sie\nauf gute Art und Weise an."
+        "text": "leitet er sie\nauf gute Weise an."
       },
       {
         "id": "seg_008",
@@ -1455,11 +1579,11 @@
       },
       {
         "id": "seg_009",
-        "text": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht"
+        "text": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht"
       },
       {
         "id": "seg_010",
-        "text": "und Einsatz\nfür etwas Gutes, …"
+        "text": "und Einsatz\nfür Gutes, …"
       },
       {
         "id": "seg_011",
@@ -1471,7 +1595,7 @@
       },
       {
         "id": "seg_013",
-        "text": "so wird das Leben schön."
+        "text": "so wird\ndas Leben schön."
       },
       {
         "id": "seg_014",
@@ -1483,7 +1607,7 @@
       },
       {
         "id": "seg_016",
-        "text": "Dies, verehrte Anwesende, …"
+        "text": "Dies, verehrte\nAnwesende, …"
       }
     ],
     "en_final": [
@@ -1529,12 +1653,12 @@
       },
       {
         "id": "seg_009",
-        "text": "When she sees\nin her husband\nzeal for something good",
+        "text": "When she sees\nin her husband\nzeal for what is good",
         "status": "OK"
       },
       {
         "id": "seg_010",
-        "text": "and commitment\nto something good, …",
+        "text": "and commitment\nto what is good, …",
         "status": "OK"
       },
       {
@@ -1549,7 +1673,7 @@
       },
       {
         "id": "seg_013",
-        "text": "so life becomes beautiful.",
+        "text": "so life\nbecomes beautiful.",
         "status": "OK"
       },
       {
@@ -1564,7 +1688,7 @@
       },
       {
         "id": "seg_016",
-        "text": "This, honoured audience, …",
+        "text": "This,\nhonoured audience, …",
         "status": "OK"
       }
     ],
@@ -1832,9 +1956,9 @@
       "render_type": "spoken",
       "ar": "وإذا كان عندها نوع من التجاوز في الأمر",
       "de_draft": "Und wenn sie in der Sache\netwas zu weit geht, …",
-      "de": "Und wenn sie in der Sache\netwas zu weit geht, …",
+      "de": "Und wenn sie dabei\netwas zu weit geht, …",
       "en": "And if she goes\nsomewhat too far\nin the matter, …",
-      "en_from_de_hash": "d6b037841f",
+      "en_from_de_hash": "4d0fe8f7ee",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -1846,15 +1970,15 @@
       "end": 28.572,
       "layout": {
         "de": {
-          "fontSize": 66,
+          "fontSize": 82,
           "lines": [
-            "Und wenn sie in der Sache",
+            "Und wenn sie dabei",
             "etwas zu weit geht, …"
           ],
-          "lineHeight": 74,
+          "lineHeight": 92,
           "status": "OK",
-          "width": 843.8,
-          "height": 148,
+          "width": 847.7,
+          "height": 184,
           "rewrapped": false
         },
         "en": {
@@ -1880,9 +2004,9 @@
       "render_type": "spoken",
       "ar": "يوجهها بأسلوب حسن",
       "de_draft": "leitet er sie\nauf gute Art und Weise an.",
-      "de": "leitet er sie\nauf gute Art und Weise an.",
+      "de": "leitet er sie\nauf gute Weise an.",
       "en": "he guides her\nin a good manner.",
-      "en_from_de_hash": "ba9016144b",
+      "en_from_de_hash": "022f27bf1a",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -1894,15 +2018,15 @@
       "end": 31.452,
       "layout": {
         "de": {
-          "fontSize": 66,
+          "fontSize": 86,
           "lines": [
             "leitet er sie",
-            "auf gute Art und Weise an."
+            "auf gute Weise an."
           ],
-          "lineHeight": 74,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 848.7,
-          "height": 148,
+          "width": 772.6,
+          "height": 192,
           "rewrapped": false
         },
         "en": {
@@ -1972,9 +2096,9 @@
       "render_type": "spoken",
       "ar": "إذا رأت من زوجها همة في أمر حسن",
       "de_draft": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
-      "de": "Wenn sie bei ihrem Mann\nEifer für etwas Gutes sieht",
-      "en": "When she sees\nin her husband\nzeal for something good",
-      "en_from_de_hash": "92680dcdd1",
+      "de": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht",
+      "en": "When she sees\nin her husband\nzeal for what is good",
+      "en_from_de_hash": "51d9d8675a",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -1986,28 +2110,29 @@
       "end": 36.986,
       "layout": {
         "de": {
-          "fontSize": 66,
+          "fontSize": 86,
           "lines": [
-            "Wenn sie bei ihrem Mann",
-            "Eifer für etwas Gutes sieht"
+            "Wenn sie",
+            "bei ihrem Mann",
+            "Eifer für Gutes sieht"
           ],
-          "lineHeight": 74,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 845.0,
-          "height": 148,
+          "width": 834.9,
+          "height": 288,
           "rewrapped": false
         },
         "en": {
-          "fontSize": 74,
+          "fontSize": 84,
           "lines": [
             "When she sees",
             "in her husband",
-            "zeal for something good"
+            "zeal for what is good"
           ],
-          "lineHeight": 83,
+          "lineHeight": 94,
           "status": "OK",
-          "width": 861.1,
-          "height": 249,
+          "width": 846.5,
+          "height": 282,
           "rewrapped": false
         }
       }
@@ -2020,9 +2145,9 @@
       "render_type": "spoken",
       "ar": "وعناية بأمر حسن",
       "de_draft": "und Einsatz\nfür etwas Gutes, …",
-      "de": "und Einsatz\nfür etwas Gutes, …",
-      "en": "and commitment\nto something good, …",
-      "en_from_de_hash": "ac01a16eaf",
+      "de": "und Einsatz\nfür Gutes, …",
+      "en": "and commitment\nto what is good, …",
+      "en_from_de_hash": "7c4893f2f6",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -2037,24 +2162,24 @@
           "fontSize": 86,
           "lines": [
             "und Einsatz",
-            "für etwas Gutes, …"
+            "für Gutes, …"
           ],
           "lineHeight": 96,
           "status": "OK",
-          "width": 763.7,
+          "width": 499.3,
           "height": 192,
           "rewrapped": false
         },
         "en": {
-          "fontSize": 84,
+          "fontSize": 86,
           "lines": [
             "and commitment",
-            "to something good, …"
+            "to what is good, …"
           ],
-          "lineHeight": 94,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 854.9,
-          "height": 188,
+          "width": 741.1,
+          "height": 192,
           "rewrapped": false
         }
       }
@@ -2161,9 +2286,9 @@
       "render_type": "spoken",
       "ar": "فتطيب الحياة",
       "de_draft": "so wird das Leben schön.",
-      "de": "so wird das Leben schön.",
-      "en": "so life becomes beautiful.",
-      "en_from_de_hash": "1073c72428",
+      "de": "so wird\ndas Leben schön.",
+      "en": "so life\nbecomes beautiful.",
+      "en_from_de_hash": "fb80268262",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -2175,25 +2300,27 @@
       "end": 50.61,
       "layout": {
         "de": {
-          "fontSize": 70,
+          "fontSize": 86,
           "lines": [
-            "so wird das Leben schön."
+            "so wird",
+            "das Leben schön."
           ],
-          "lineHeight": 78,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 846.5,
-          "height": 78,
+          "width": 713.6,
+          "height": 192,
           "rewrapped": false
         },
         "en": {
-          "fontSize": 70,
+          "fontSize": 86,
           "lines": [
-            "so life becomes beautiful."
+            "so life",
+            "becomes beautiful."
           ],
-          "lineHeight": 78,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 860.5,
-          "height": 78,
+          "width": 787.3,
+          "height": 192,
           "rewrapped": false
         }
       }
@@ -2304,9 +2431,9 @@
       "render_type": "spoken",
       "ar": "هذه أيها الفضلاء",
       "de_draft": "Dies, verehrte Anwesende, …",
-      "de": "Dies, verehrte Anwesende, …",
-      "en": "This, honoured audience, …",
-      "en_from_de_hash": "0cfe20d459",
+      "de": "Dies, verehrte\nAnwesende, …",
+      "en": "This,\nhonoured audience, …",
+      "en_from_de_hash": "1a1d95ea7d",
       "emphasis": [],
       "accent": null,
       "reference_ids": [],
@@ -2318,25 +2445,27 @@
       "end": 62.002,
       "layout": {
         "de": {
-          "fontSize": 62,
+          "fontSize": 86,
           "lines": [
-            "Dies, verehrte Anwesende, …"
+            "Dies, verehrte",
+            "Anwesende, …"
           ],
-          "lineHeight": 69,
+          "lineHeight": 96,
           "status": "OK",
-          "width": 854.0,
-          "height": 69,
+          "width": 594.3,
+          "height": 192,
           "rewrapped": false
         },
         "en": {
-          "fontSize": 64,
+          "fontSize": 82,
           "lines": [
-            "This, honoured audience, …"
+            "This,",
+            "honoured audience, …"
           ],
-          "lineHeight": 72,
+          "lineHeight": 92,
           "status": "OK",
-          "width": 841.3,
-          "height": 72,
+          "width": 861.2,
+          "height": 184,
           "rewrapped": false
         }
       }
@@ -2529,7 +2658,180 @@
       "freeze": "freeze.png"
     }
   },
-  "qa": {},
+  "qa": {
+    "at": "2026-09-30T00:18:06+00:00",
+    "gates": [
+      {
+        "n": 1,
+        "gate": "Audio vorhanden, Dauer = Quellbereich",
+        "ok": true,
+        "detail": "61.206s vs 61.215s"
+      },
+      {
+        "n": 2,
+        "gate": "Arabisches Transkript vorhanden",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 3,
+        "gate": "Jeder Block hat DE",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 4,
+        "gate": "Jeder Block hat aktuelles EN",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 5,
+        "gate": "Kein Untertitel verlässt den sicheren Bereich",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 6,
+        "gate": "Branding kollidiert nicht mit Untertiteln",
+        "ok": true,
+        "detail": "Untertitel ≤1470 · Quellenzeile 1484–1560 · Branding 1574–1710"
+      },
+      {
+        "n": 7,
+        "gate": "Intro-Länge exakt wie konfiguriert",
+        "ok": true,
+        "detail": "4.0s"
+      },
+      {
+        "n": 8,
+        "gate": "Kein CHECK_REQUIRED als verifiziert gerendert",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 9,
+        "gate": "Redaktioneller Kontext visuell getrennt",
+        "ok": true,
+        "detail": "Quellenzeile 40px vs. kleinster Untertitel 68px, eigene Farbe & Spur"
+      },
+      {
+        "n": 10,
+        "gate": "DE/EN-Timeline synchron",
+        "ok": true,
+        "detail": "gemeinsame Timing-Map"
+      },
+      {
+        "n": 11,
+        "gate": "Keine Blitz-Lücken zwischen Blöcken",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "n": 12,
+        "gate": "Render öffnet und enthält Audio",
+        "ok": true,
+        "detail": "de: 65.20s, en: 65.20s"
+      }
+    ],
+    "all_gates_ok": true,
+    "review_items": [
+      {
+        "kind": "UNSICHERES_ARABISCH",
+        "time": 61.07,
+        "text": "الفضلاء",
+        "detail": "Clip endet mitten im Wort/Satz – „الفضلاء“ ist eine Rekonstruktion, bitte anhören."
+      },
+      {
+        "kind": "UNSICHERES_ARABISCH",
+        "time": 9.32,
+        "text": "الزوجين",
+        "detail": "„الزوجين“ aus Neudekodierung übernommen – kurz anhören."
+      },
+      {
+        "kind": "TRANSKRIPT_KORREKTUR",
+        "time": 9.325,
+        "text": "الزوج → الزوجين",
+        "detail": "Phrase endet am VAD-Schnitt; Neudekodierung mit weiterem Audiofenster (7,5–10,1 s) ergibt eindeutig „بين الزوجين“; nach „بين“ grammatisch erforderlich."
+      },
+      {
+        "kind": "TRANSKRIPT_KORREKTUR",
+        "time": 61.071,
+        "text": "الفضاء → الفضلاء",
+        "detail": "„أيها الفضاء“ ist sinnlos; übliche Anrede an das Publikum ist „أيها الفضلاء“. Wort liegt am abgeschnittenen Clip-Ende – unsicher."
+      },
+      {
+        "kind": "REDAKTIONELLE_ERGÄNZUNG",
+        "time": 1.4,
+        "text": "📚 فقه عوارض الزوجية",
+        "detail": "source · VERIFIED_EXACT · eingeblendet"
+      },
+      {
+        "kind": "LESEGESCHWINDIGKEIT",
+        "detail": "DE seg_002: 26.6 Zeichen/s bei 2.52s"
+      },
+      {
+        "kind": "LESEGESCHWINDIGKEIT",
+        "detail": "EN seg_002: 21.4 Zeichen/s bei 2.52s"
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 1.532,
+        "text": "seg_001",
+        "detail": "Clip beginnt mit der Fortsetzung eines vorherigen Satzes (Bezug fehlt) – siehe Trim-Vorschlag."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 11.164,
+        "text": "seg_003",
+        "detail": "همة = Eifer/Tatkraft; أمر حسن نافع = eine gute, nützliche Sache."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 23.42,
+        "text": "seg_006",
+        "detail": "نوع من التجاوز في الأمر = eine Art Überschreitung/Übermaß in der Sache – bewusst nicht verschärft."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 37.756,
+        "text": "seg_010",
+        "detail": "عناية بأمر حسن = Sorgfalt/Einsatz für eine gute Sache."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 48.856,
+        "text": "seg_013",
+        "detail": "فتطيب الحياة – Pointe als eigener Block (semantische Teilung innerhalb einer Sprechphrase)."
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 51.26,
+        "text": "seg_014",
+        "detail": "ويتشارك الزوجان في أن يأخذ كل واحد منهما … = die Eheleute haben gemeinsam Anteil daran, dass jeder …"
+      },
+      {
+        "kind": "NOTIZ",
+        "time": 60.188,
+        "text": "seg_016",
+        "detail": "Angeschnittener neuer Satz am Clip-Ende – siehe Trim-Vorschlag."
+      },
+      {
+        "kind": "TRIM_VORSCHLAG",
+        "detail": "6.9–60.0 s: Der Clip beginnt mit der Fortsetzung eines vorherigen Satzes (0–5,5 s: „ما دام أنه من الأمور النافعة“) und endet mit einem angeschnittenen neuen Satz (ab 60,2 s: „هذه أيها الفضلاء“). Der eigenständige Gedanke läuft von 7,6 s bis 59,7 s. Nur Vorschlag – der Standard-Render nutzt den vollständigen Clip."
+      }
+    ],
+    "checklist": [
+      "Speaker korrekt?",
+      "Arabisches Transkript an markierten Stellen korrekt?",
+      "Deutsche Bedeutung freigegeben?",
+      "Englisch spiegelt das Deutsche?",
+      "Quellen freigegeben?",
+      "Redaktionelle Ergänzungen klar getrennt?",
+      "Visuelles Layout akzeptabel?"
+    ],
+    "status": "READY_FOR_REVIEW"
+  },
   "prompts": {
     "arabic_cleanup": "arabic_cleanup_v1",
     "de_translation": "de_translation_v1",
@@ -2573,6 +2875,142 @@
         "expected": 65.215
       },
       "status": "OK"
+    },
+    {
+      "at": "2026-09-29T23:56:44+00:00",
+      "lang": "de",
+      "preview": false,
+      "output": "renders/AbuAisha_DE_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/work/render_input_de.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/renders/AbuAisha_DE_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_de.json",
+      "seconds": 163.1,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 65.258667,
+        "expected": 65.215
+      },
+      "status": "OK"
+    },
+    {
+      "at": "2026-09-29T23:59:27+00:00",
+      "lang": "en",
+      "preview": false,
+      "output": "renders/AbuAisha_EN_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/work/render_input_en.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/renders/AbuAisha_EN_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_en.json",
+      "seconds": 154.1,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 65.258667,
+        "expected": 65.215
+      },
+      "status": "OK"
+    },
+    {
+      "at": "2026-09-30T00:07:19+00:00",
+      "lang": "de",
+      "preview": false,
+      "output": "renders/AbuAisha_DE_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/work/render_input_de.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/renders/AbuAisha_DE_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_de.json",
+      "seconds": 168.4,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 65.2,
+        "expected": 65.215
+      },
+      "status": "OK"
+    },
+    {
+      "at": "2026-09-30T00:10:07+00:00",
+      "lang": "en",
+      "preview": false,
+      "output": "renders/AbuAisha_EN_1080x1920.mp4",
+      "command": [
+        "node",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/apps/renderer/render.mjs",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/work/render_input_en.json",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/render_public",
+        "/home/user/Talib-al-Illm-/abu-aisha-video-engine/data/projects/ruhaili-eheleben/renders/AbuAisha_EN_1080x1920.mp4"
+      ],
+      "prompt_versions": {
+        "arabic_cleanup": "arabic_cleanup_v1",
+        "de_translation": "de_translation_v1",
+        "semantic_segmentation": "semantic_segmentation_v1",
+        "en_from_de": "en_from_de_v1",
+        "religious_reference_detection": "religious_reference_detection_v1",
+        "title_generation": "title_generation_v1"
+      },
+      "render_input": "work/render_input_en.json",
+      "seconds": 160.5,
+      "verify": {
+        "ok": true,
+        "opens": true,
+        "has_audio": true,
+        "size_ok": true,
+        "fps_ok": true,
+        "duration_ok": true,
+        "duration": 65.2,
+        "expected": 65.215
+      },
+      "status": "OK"
     }
   ],
   "decisions": [
@@ -2587,6 +3025,57 @@
     {
       "at": "2026-09-29T23:50:03+00:00",
       "what": "Keine redaktionellen Erklärungen in den gesprochenen Untertiteln."
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_006"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_007"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_009"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_010"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_016"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_009"
+    },
+    {
+      "what": "edit_de",
+      "segment": "seg_013"
+    },
+    {
+      "at": "2026-09-30T00:06:57+00:00",
+      "what": "mask",
+      "value": {
+        "mode": "manual",
+        "fade_start": 0.44,
+        "fade_end": 0.6
+      }
+    },
+    {
+      "at": "2026-09-30T00:06:57+00:00",
+      "what": "mask",
+      "value": {
+        "mode": "auto",
+        "fade_start": null,
+        "fade_end": null
+      }
     }
-  ]
+  ],
+  "verification": {
+    "quran_index": false,
+    "at": "2026-09-30T00:18:06+00:00",
+    "new_references": 0
+  }
 }

@@ -1,0 +1,14 @@
+# Abu Aisha Video Engine – pipeline service (Python ≥ 3.10)
+numpy>=1.26
+pillow>=10
+fonttools>=4.50
+soundfile>=0.12
+sherpa-onnx>=1.12        # local Whisper (ONNX) + Silero VAD
+opencv-python-headless>=4.9,<5   # face/subject + burned-in text analysis (4.x keeps CascadeClassifier)
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pydantic>=2
+anthropic>=1.0           # optional: Claude editorial provider
+pytest>=8                # tests
+jsonschema>=4          # tests

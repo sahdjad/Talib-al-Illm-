@@ -1,0 +1,533 @@
+{
+ "trim": [
+  0.0,
+  61.215
+ ],
+ "intro": true,
+ "intro_duration": 4.0,
+ "segments": [
+  {
+   "id": "seg_001",
+   "source_word_start": 0,
+   "source_word_end": 5,
+   "start": 1.532,
+   "end": 5.778,
+   "video_start": 5.532,
+   "video_end": 9.778,
+   "type": "spoken",
+   "ar": "ما دام أنه من الأمور النافعة",
+   "de": "… solange es zu den\nnützlichen Dingen gehört.",
+   "en": "… as long as it is one\nof the beneficial things.",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 68,
+     "lines": [
+      "… solange es zu den",
+      "nützlichen Dingen gehört."
+     ]
+    },
+    "en": {
+     "fontSize": 74,
+     "lines": [
+      "… as long as it is one",
+      "of the beneficial things."
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_002",
+   "source_word_start": 6,
+   "source_word_end": 11,
+   "start": 7.548,
+   "end": 10.068,
+   "video_start": 11.548,
+   "video_end": 14.068,
+   "type": "spoken",
+   "ar": "مما تطيب به الحياة بين الزوجين",
+   "de": "Zu dem, was das Leben\nzwischen den Eheleuten\nschön macht, gehört, …",
+   "en": "Part of what makes life\nbetween spouses\nbeautiful is …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 72,
+     "lines": [
+      "Zu dem, was das Leben",
+      "zwischen den Eheleuten",
+      "schön macht, gehört, …"
+     ]
+    },
+    "en": {
+     "fontSize": 76,
+     "lines": [
+      "Part of what makes life",
+      "between spouses",
+      "beautiful is …"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_003",
+   "source_word_start": 12,
+   "source_word_end": 22,
+   "start": 11.164,
+   "end": 16.156,
+   "video_start": 15.164,
+   "video_end": 20.156,
+   "type": "spoken",
+   "ar": "أن الزوج إذا رأى من زوجته همة في أمر حسن نافع",
+   "de": "dass der Ehemann,\nwenn er bei seiner Frau\nEifer für etwas Gutes\nund Nützliches sieht, …",
+   "en": "that the husband,\nwhen he sees in his wife\nzeal for something good\nand beneficial, …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 74,
+     "lines": [
+      "dass der Ehemann,",
+      "wenn er bei seiner Frau",
+      "Eifer für etwas Gutes",
+      "und Nützliches sieht, …"
+     ]
+    },
+    "en": {
+     "fontSize": 72,
+     "lines": [
+      "that the husband,",
+      "when he sees in his wife",
+      "zeal for something good",
+      "and beneficial, …"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_004",
+   "source_word_start": 23,
+   "source_word_end": 25,
+   "start": 16.156,
+   "end": 18.258,
+   "video_start": 20.156,
+   "video_end": 22.258,
+   "type": "spoken",
+   "ar": "يشجعها على ذلك",
+   "de": "sie darin ermutigt",
+   "en": "encourages her in it",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "sie darin ermutigt"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "encourages her in it"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_005",
+   "source_word_start": 26,
+   "source_word_end": 31,
+   "start": 19.388,
+   "end": 23.42,
+   "video_start": 23.388,
+   "video_end": 27.42,
+   "type": "spoken",
+   "ar": "ويظهر لها أن في هذا فائدة",
+   "de": "und ihr zeigt,\ndass darin\nein Nutzen liegt.",
+   "en": "and shows her\nthat there is\nbenefit in it.",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "und ihr zeigt,",
+      "dass darin",
+      "ein Nutzen liegt."
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "and shows her",
+      "that there is",
+      "benefit in it."
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_006",
+   "source_word_start": 32,
+   "source_word_end": 39,
+   "start": 23.42,
+   "end": 28.572,
+   "video_start": 27.42,
+   "video_end": 32.572,
+   "type": "spoken",
+   "ar": "وإذا كان عندها نوع من التجاوز في الأمر",
+   "de": "Und wenn sie dabei\netwas zu weit geht, …",
+   "en": "And if she goes\nsomewhat too far\nin the matter, …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 82,
+     "lines": [
+      "Und wenn sie dabei",
+      "etwas zu weit geht, …"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "And if she goes",
+      "somewhat too far",
+      "in the matter, …"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_007",
+   "source_word_start": 40,
+   "source_word_end": 42,
+   "start": 28.572,
+   "end": 31.452,
+   "video_start": 32.572,
+   "video_end": 35.452,
+   "type": "spoken",
+   "ar": "يوجهها بأسلوب حسن",
+   "de": "leitet er sie\nauf gute Weise an.",
+   "en": "he guides her\nin a good manner.",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "leitet er sie",
+      "auf gute Weise an."
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "he guides her",
+      "in a good manner."
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_008",
+   "source_word_start": 43,
+   "source_word_end": 44,
+   "start": 31.452,
+   "end": 33.756,
+   "video_start": 35.452,
+   "video_end": 37.756,
+   "type": "spoken",
+   "ar": "وكذلك الزوجة",
+   "de": "Ebenso die Ehefrau:",
+   "en": "Likewise the wife:",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "Ebenso die Ehefrau:"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "Likewise the wife:"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_009",
+   "source_word_start": 45,
+   "source_word_end": 52,
+   "start": 33.756,
+   "end": 36.986,
+   "video_start": 37.756,
+   "video_end": 40.986,
+   "type": "spoken",
+   "ar": "إذا رأت من زوجها همة في أمر حسن",
+   "de": "Wenn sie\nbei ihrem Mann\nEifer für Gutes sieht",
+   "en": "When she sees\nin her husband\nzeal for what is good",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "Wenn sie",
+      "bei ihrem Mann",
+      "Eifer für Gutes sieht"
+     ]
+    },
+    "en": {
+     "fontSize": 84,
+     "lines": [
+      "When she sees",
+      "in her husband",
+      "zeal for what is good"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_010",
+   "source_word_start": 53,
+   "source_word_end": 55,
+   "start": 37.756,
+   "end": 40.402,
+   "video_start": 41.756,
+   "video_end": 44.402,
+   "type": "spoken",
+   "ar": "وعناية بأمر حسن",
+   "de": "und Einsatz\nfür Gutes, …",
+   "en": "and commitment\nto what is good, …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "und Einsatz",
+      "für Gutes, …"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "and commitment",
+      "to what is good, …"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_011",
+   "source_word_start": 56,
+   "source_word_end": 59,
+   "start": 41.212,
+   "end": 45.618,
+   "video_start": 45.212,
+   "video_end": 49.618,
+   "type": "spoken",
+   "ar": "تظهر له فرحها بهذا",
+   "de": "zeigt sie ihm\nihre Freude darüber",
+   "en": "she shows him\nher joy about it",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "zeigt sie ihm",
+      "ihre Freude darüber"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "she shows him",
+      "her joy about it"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_012",
+   "source_word_start": 60,
+   "source_word_end": 63,
+   "start": 46.588,
+   "end": 48.856,
+   "video_start": 50.588,
+   "video_end": 52.856,
+   "type": "spoken",
+   "ar": "وتشجعه على هذا الأمر",
+   "de": "und ermutigt ihn\nin dieser Sache –",
+   "en": "and encourages him\nin this matter –",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "und ermutigt ihn",
+      "in dieser Sache –"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "and encourages him",
+      "in this matter –"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_013",
+   "source_word_start": 64,
+   "source_word_end": 65,
+   "start": 48.856,
+   "end": 50.61,
+   "video_start": 52.856,
+   "video_end": 54.61,
+   "type": "spoken",
+   "ar": "فتطيب الحياة",
+   "de": "so wird\ndas Leben schön.",
+   "en": "so life\nbecomes beautiful.",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "so wird",
+      "das Leben schön."
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "so life",
+      "becomes beautiful."
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_014",
+   "source_word_start": 66,
+   "source_word_end": 73,
+   "start": 51.26,
+   "end": 55.996,
+   "video_start": 55.26,
+   "video_end": 59.996,
+   "type": "spoken",
+   "ar": "ويتشارك الزوجان في أن يأخذ كل واحد منهما",
+   "de": "Und beide Eheleute\nwirken zusammen,\nindem jeder von ihnen …",
+   "en": "And both spouses\nwork together,\nwith each of them …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 72,
+     "lines": [
+      "Und beide Eheleute",
+      "wirken zusammen,",
+      "indem jeder von ihnen …"
+     ]
+    },
+    "en": {
+     "fontSize": 86,
+     "lines": [
+      "And both spouses",
+      "work together,",
+      "with each of them …"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_015",
+   "source_word_start": 74,
+   "source_word_end": 78,
+   "start": 55.996,
+   "end": 60.188,
+   "video_start": 59.996,
+   "video_end": 64.188,
+   "type": "spoken",
+   "ar": "بيد الآخر إلى ما ينفع",
+   "de": "… den anderen\nan die Hand nimmt –\nhin zu dem, was nützt.",
+   "en": "… taking the other\nby the hand –\ntowards what benefits.",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 78,
+     "lines": [
+      "… den anderen",
+      "an die Hand nimmt –",
+      "hin zu dem, was nützt."
+     ]
+    },
+    "en": {
+     "fontSize": 78,
+     "lines": [
+      "… taking the other",
+      "by the hand –",
+      "towards what benefits."
+     ]
+    }
+   }
+  },
+  {
+   "id": "seg_016",
+   "source_word_start": 79,
+   "source_word_end": 81,
+   "start": 60.188,
+   "end": 62.002,
+   "video_start": 64.188,
+   "video_end": 66.002,
+   "type": "spoken",
+   "ar": "هذه أيها الفضلاء",
+   "de": "Dies, verehrte\nAnwesende, …",
+   "en": "This,\nhonoured audience, …",
+   "en_status": "OK",
+   "emphasis": [],
+   "reference_ids": [],
+   "layout": {
+    "de": {
+     "fontSize": 86,
+     "lines": [
+      "Dies, verehrte",
+      "Anwesende, …"
+     ]
+    },
+    "en": {
+     "fontSize": 82,
+     "lines": [
+      "This,",
+      "honoured audience, …"
+     ]
+    }
+   }
+  }
+ ]
+}
