@@ -17,6 +17,8 @@ zusammen: Protokolle, Klassenlisten, Vorbereitungen und künftig Übersetzungen.
 
 ## Aktueller Stand
 
+- `uebersetzungen/al-fatwa-al-hamawiyyah/` – Šarḥ al-Fatwā al-Ḥamawiyyah (Ibn Taymiyyah, Erklärung as-Sanzakī): fertiges A4-PDF, Satzprojekt und Quellen
+
 - `protokolle/2026-09_meeting-klasse3.md` – Gesprächsprotokoll Klasse 3 (Unterrichtsplanung,
   Zeitstruktur, Regeln, Aufgabenliste)
 - `protokolle/2026-09_klassenliste-klasse3.md` – Klassenliste Klasse 3 mit Status (Grün/Rot/Probezeit),

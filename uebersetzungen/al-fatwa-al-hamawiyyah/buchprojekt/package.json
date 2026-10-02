@@ -1,0 +1,1 @@
+{"name":"sharh-book","version":"1.0.0","private":true,"dependencies":{"@fontsource/amiri":"^5.2.8","@fontsource/cormorant-garamond":"^5.2.11","@fontsource/eb-garamond":"^5.2.7","@fontsource/scheherazade-new":"^5.2.9","pdf-lib":"^1.17.1","playwright-core":"^1.61.1","hyphen":"^1.10.6"}}
